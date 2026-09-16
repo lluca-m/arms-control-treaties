@@ -1,0 +1,226 @@
+code,year,treaty_name,info_level,info_type
+1817.1,1817,Rush-Bagot Agreement,low,none
+1824.1,1824,Convention Between the United States of America and His Majesty the Emperor of All the Russias,low,none
+1829.1,1829,Treaty of Adrianople,low,none
+1829.2,1829,Treaty of Peace Between Peru and Colombia at Guayaquil,low,none
+1841.1,1841,Limitation of Egyptian Arms by Turkey,low,none
+1841.2,1841,London Straits Convention,low,none
+1850.1,1850,The Clayton-Bulwer Treaty,low,none
+1856.1,1856,General Treaty for the Re-Establishment of Peace (Treaty of Paris),high,observation
+1863.1,1863,Treaty of Peace Between Colombia and Ecuador at Pinsaqui,low,none
+1868.1,1868,Declaration of St. Petersburg,low,none
+1871.1,1871,Armistice for Franco-Prussian War,low,reporting
+1881.1,1881,Treaty Between Argentine and Chile-Straits of Magellan,low,none
+1885.1,1885,General Act of the Conference of Berlin,low,none
+1888.1,1888,Constantinople Convention of the Suez Canal,high,verification
+1899.1,1899,"Hague Declaration (IV,2) Concerning Asphyxiating Gases",low,none
+1899.2,1899,"Hague Declaration (IV,3) Concerning Expanding Bullets",low,none
+1902.1,1902,Convention Between Chile and the Argentine Republic on the Limitation of Naval Armaments,low,reporting
+1905.1,1905,Karlstad Convention - Final Separation of Sweden and Norway,high,observation
+1905.2,1905,The Treaty of Portsmouth,low,none
+1907.1,1907,Hague Convention (IV) Respecting the Laws and Customs of War on Land,low,none
+1907.2,1907,Hague Convention (IX) Concerning Bombardment by Naval Forces in Time of War,low,none
+1907.3,1907,Hague Convention (V) Respecting the Rights and Duties of Neutral Powers and Persons in Case of War on Land,low,none
+1907.4,1907,Hague Convention (VIII) Relative to the Laying of Automatic Submarine Contact Mines,low,none
+1907.5,1907,Hague Convention (XIII) Concerning the Rights and Duties of Neutral Powers in Naval War,low,none
+1918.1,1918,Treaty of Brest-Litovsk,low,none
+1919.1,1919,Convention for the Control of the Trade in Arms and Ammunition,high,verification
+1919.2,1919,Covenant of the League of Nations,low,none
+1919.3,1919,Treaty of Versailles,high,verification
+1919.4,1919,Treaty of Neuilly,high,verification
+1919.5,1919,Treaty of Saint-Germain-en-Laye - the Allied and Associated Powers and Austria,high,verification
+1920.1,1920,Peace Treaty of Sèvres,high,verification
+1920.2,1920,Treaty Concerning the Archipelago of Spitsbergen (Spitsbergen Treaty),low,none
+1920.3,1920,Treaty of Peace Between Russia and Estonia,high,verification
+1920.4,1920,Treaty of Trianon,high,verification
+1921.1,1921,Convention Relating to the Non-Fortification and Neutralisation of the Åland Islands,low,none
+1921.2,1921,Peace Treaty of Riga,low,none
+1921.3,1921,Treaty and Supplementary Declaration Between Four Powers,low,none
+1922.2,1922,Treaty Between All Nine Powers in Matters Concerning China,low,none
+1922.3,1922,Washington Conference on the Limitation of Armament,low,reporting
+1922.4,1922,Washington Treaty in Relation to the Use of Submarines and Noxious Gases in Warfare,low,none
+1923.1,1923,Convention for the Limitation of Armaments Adopted at the Conference on Central American Affairs,low,reporting
+1923.2,1923,Gondra Treaty-Treaty to Avoid or Prevent Conflicts Between the American States,low,reporting
+1923.3,1923,The Convention Relating to the Regime of the Straits and Turkey,high,observation
+1925.1,1925,"Protocol for the Prohibition of the Use in War of Asphyxiating, Poisonous or Other Gases, and of Bacteriological Methods of Warfare (1925 Geneva Protocol)",low,none
+1928.1,1928,Pact of Paris for the Renunciation of War as an Instrument of National Policy (Kellogg–Briand Pact),low,none
+1930.1,1930,International Treaty for the Limitation and Reduction of Naval Armament (London Naval Treaty),low,reporting
+1931.1,1931,Turkey-USSR-Naval Protocol,low,reporting
+1933.1,1933,Anti-War Treaty of Non-Aggression and Conciliation,low,reporting
+1934.1,1934,The Treaty of Taif,low,none
+1935.1,1935,Anglo-German Naval Agreement,low,reporting
+1936.1,1936,Convention Regarding the Regime of the Straits (Montreux Convention),low,reporting
+1936.2,1936,London Conference-Treaty for the Limitation of Naval Armament,low,reporting
+1945.2,1945,Charter of the United Nations,low,reporting
+1947.1,1947,Treaty of Peace With Bulgaria,low,reporting
+1947.2,1947,Treaty of Peace With Finland,low,reporting
+1947.3,1947,Treaty of Peace With Hungary,low,reporting
+1947.4,1947,Treaty of Peace With Italy,high,verification
+1947.5,1947,Treaty of Peace With Romania,low,reporting
+1949.1,1949,Geneva Convention (IV) Relative to the Protection of Civilian Persons in Time of War,low,none
+1949.2,1949,Israel-Egypt Armistice Agreement,high,verification
+1949.3,1949,Israel-Jordan Armistice Agreement,high,observation
+1949.4,1949,Israel-Lebanon Armistice Agreement,high,observation
+1949.5,1949,Israel-Syria Armistice Agreement,high,observation
+1953.1,1953,Korean War Armistice Agreement,high,verification
+1954.1,1954,Convention for the Protection of Cultural Property in the Event of Armed Conflict (Cultural Property Protection Convention),low,none
+1954.2,1954,First Indochina War Demilitarized Zone-Geneva Conference,high,verification
+1955.1,1955,Treaty for the Re-Establishment of an Independent and Democratic Austria (Austrian State Treaty),low,reporting
+1956.1,1956,Statute of the International Atomic Energy Agency,high,verification
+1959.1,1959,Antarctic Treaty,high,observation
+1963.1,1963,Memorandum of Understanding Between the USA and the USSR Regarding the Establishment of a Direct Communications Link (Hot Line Agreement),low,reporting
+1963.2,1963,"Treaty Banning Nuclear Weapon Tests in the Atmosphere, in Outer Space and Under Water (Partial Test Ban Treaty, PTBT)",low,none
+1964.1,1964,"Unilateral Statements by the USA, the USSR and the UK Regarding the Reduction of Fissionable Materials Production",low,none
+1966.1,1966,Tashkent Declaration (India-Pakistan),low,none
+1967.1,1967,"Treaty for the Prohibition of Nuclear Weapons in Latin America and the Caribbean (Treaty of Tlatelolco), as Amended",high,verification
+1967.2,1967,"Treaty on Principles Governing the Activities of States, in the Exploration and Use of Outer Space, Including the Moon and Other Celestial Bodies (Outer Space Treaty)",high,observation
+1968.1,1968,Treaty on the Non-Proliferation of Nuclear Weapons (NPT),high,verification
+1968.2,1968,United Nations Security Council Resolution 255 on Security Assurances to Non-Nuclear-Weapon States,high,observation
+1971.1,1971,Agreement Between the USA and the USSR on Measures to Reduce the Risk of Outbreak of Nuclear War (US-Soviet Nuclear Accidents Agreement),low,reporting
+1971.3,1971,Treaty on the Prohibition of the Emplacement of Nuclear Weapons and Other Weapons of Mass Destruction on the Seabed and the Ocean Floor and in the Subsoil Thereof (Seabed Treaty),high,observation
+1972.1,1972,"Agreement Between the USA and the USSR on the Prevention of Incidents on and Over the High Seas (Incidents at Sea Agreement, INCSEA)",low,reporting
+1972.2,1972,"Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on Their Destruction (Biological Weapons Convention)",low,reporting
+1972.3,1972,India-Pakistan Simla Agreement,low,reporting
+1972.4,1972,Interim Agreement Between the USA and the USSR on Certain Measures With Respect to the Limitation of Strategic Offensive Arms (SALT I Agreement),high,observation
+1972.5,1972,Treaty Between the USA and the USSR on the Limitation of Anti-Ballistic Missile Systems (ABM Treaty),high,observation
+1973.1,1973,Agreement Between the USA and the USSR on the Prevention of Nuclear War,low,reporting
+1973.2,1973,Agreement on Ending the War and Restoring Peace in Vietnam,high,verification
+1973.3,1973,Protocol to the 1972 Incidents at Sea Agreement,low,none
+1974.1,1974,Agreement on Disengagement of Forces Between Israel and Syria,high,verification
+1974.2,1974,Declaration of Ayacucho,low,none
+1974.3,1974,Israel-Egypt Separation of Forces Agreement,high,verification
+1974.4,1974,Joint Statement by the USA and the USSR on Strategic Offensive Arms (Vladivostok Accord),low,reporting
+1974.5,1974,Protocol to the 1972 ABM Treaty,low,reporting
+1974.6,1974,"Treaty Between the USA and the USSR on the Limitation of Underground Nuclear Weapon Tests (Threshold Test Ban Treaty, TTBT)",high,observation
+1974.7,1974,United Nations General Assembly Resolution 3314 (XXIX) on the Definition of Aggression,high,observation
+1975.1,1975,Convention on Registration of Objects Launched Into Outer Space (Registration Convention),low,reporting
+1975.2,1975,"Document on Confidence-Building Measures and Certain Aspects of Security and Disarmament, Included in the Final Act of the Conference on Security and Co-Operation in Europe (Helsinki CBM Document)",low,reporting
+1975.3,1975,Interim Agreement Between Israel and Egypt,high,verification
+1975.4,1975,"United Nations General Assembly Resolution 3472 B (XXX), Declaration on Nuclear-Weapon-Free Zones",high,observation
+1976.1,1976,Agreement Between France and the USSR on the Prevention of the Accidental or Unauthorized Use of Nuclear Weapons,low,reporting
+1976.3,1976,"Treaty Between the USA and the USSR on Underground Nuclear Explosions for Peaceful Purposes (Peaceful Nuclear Explosions Treaty, PNET)",high,verification
+1977.1,1977,Agreement Between the UK and the USSR on the Prevention of Accidental Nuclear War,low,reporting
+1977.11,1977,Convention of the OAU for the Elimination of Mercenarism in Africa,low,reporting
+1977.2,1977,Convention on the Prohibition of Military or Any Other Hostile Use of Environmental Modification Techniques (ENMOD Convention),low,reporting
+1977.3,1977,"Protocol (I) Additional to the Geneva Conventions of 12 August 1949, and Relating to the Protection of Victims of International Armed Conflicts (1977 Protocol I)",low,reporting
+1979.1,1979,Agreement Governing the Activities of States on the Moon and Other Celestial Bodies (Moon Agreement),high,observation
+1979.2,1979,Peace Treaty Between Israel and Egypt,high,verification
+1979.3,1979,Soviet Statement on the Backfire Bomber,low,none
+1979.4,1979,Treaty Between the USA and the USSR on the Limitation of Strategic Offensive Arms (SALT II Treaty),high,observation
+1980.1,1980,Convention on the Physical Protection of Nuclear Material,low,reporting
+1981.1,1981,"Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons Which May Be Deemed to Be Excessively Injurious or to Have Indiscriminate Effects (CCW, or Inhumane Weapons Convention)",low,reporting
+1982.1,1982,United Nations Convention on the Law of the Sea (UNCLOS),low,reporting
+1983.1,1983,Agreement Between Israel and Lebanon,high,verification
+1985.1,1985,South Pacific Nuclear Free Zone Treaty (Treaty of Rarotonga),high,verification
+1986.1,1986,Document of Stockholm Conference,high,verification
+1986.2,1986,USSR and United Kingdom Agreement on INCSEA,low,reporting
+1987.1,1987,Agreement Between the USA and the USSR on the Establishment of Nuclear Risk Reduction Centers,low,reporting
+1988.1,1988,Agreement Between Pakistan and India on the Prohibition of Attack Against Nuclear Installations and Facilities,low,reporting
+1988.2,1988,Agreement Between the USA and the USSR on Notifications of Launches of Intercontinental Ballistic Missiles and Submarine-Launched Ballistic Missiles,low,reporting
+1988.4,1988,Treaty Between the USA and the USSR on the Elimination of Their Intermediate-Range and Shorter-Range Missiles (INF Treaty),high,verification
+1988.5,1988,USSR and Federal Republic of Germany Agreement on INCSEA,low,reporting
+1989.1,1989,Agreement Between the USA and the USSR on Reciprocal Advance Notification of Major Strategic Exercises,low,reporting
+1989.2,1989,Agreement Between the USA and the USSR on the Prevention of Dangerous Military Activities (DMA Agreement),low,reporting
+1989.3,1989,"International Convention Against the Recruitment, Use, Financing and Training of Mercenaries",low,reporting
+1989.4,1989,USSR and Canada Agreement on INCSEA,low,reporting
+1989.5,1989,USSR and France Agreement on INCSEA,low,reporting
+1989.6,1989,USSR and Italy Agreement on INCSEA,low,reporting
+1990.1,1990,Agreement Between the USA and the USSR on Destruction and Non-Production of Chemical Weapons and on Measures to Facilitate the Multilateral Convention on Banning Chemical Weapons (US-Soviet Chemical Weapons Agreement),high,verification
+1990.2,1990,Charter of Paris for a New Europe,high,observation
+1990.3,1990,Federal Republic of Germany and Poland Agreement on INCSEA,low,reporting
+1990.4,1990,"Treaty on Conventional Armed Forces in Europe (CFE Treaty), as Amended by the 1999 Agreement on Adaptation",high,verification
+1990.5,1990,USSR and Netherlands Agreement on INCSEA,low,reporting
+1990.6,1990,USSR and Spain Agreement on INCSEA,low,reporting
+1990.7,1990,Protocol to TTBT,high,verification
+1990.8,1990,Vienna Document,high,verification
+1991.1,1991,Agreement Between India and Pakistan on Prevention of Air Space Violations and for Permitting Over Flights and Landings by Military Aircraft,low,reporting
+1991.11,1991,United Nations Security Council Resolution 687 Imposing Arms Restrictions on Iraq and Establishing the UN Special Commission on Iraq (UNSCOM),high,verification
+1991.12,1991,United Nations Security Council Resolution 715 on the Monitoring of Iraqi Compliance With Arms Restrictions,high,verification
+1991.14,1991,USSR and Canada Agreement on the Prevention of Dangerous Military Activities,low,reporting
+1991.15,1991,USSR and Greece Agreement on INCSEA,low,reporting
+1991.16,1991,Agreement Between Russia and Greece on Prevention of Dangerous Military Activities,low,reporting
+1991.17,1991,Agreement Between Romania and Hungary on the Establishment of an Open Skies Regime,high,verification
+1991.2,1991,Agreement Between India and Pakistan on the Advance Notice of Military Exercises,low,reporting
+1991.3,1991,Cartagena Declaration on Renunciation of Weapons of Mass Destruction,low,none
+1991.4,1991,Guidelines for Conventional Arms Transfers Agreed by the Permanent Members of the UN Security Council,low,none
+1991.5,1991,Gulf War Ceasefire,high,verification
+1991.6,1991,Protocol on Environmental Protection to the 1959 Antarctic Treaty (Madrid Protocol),high,observation
+1991.7,1991,Soviet President’s Announcement Regarding Unilateral Reductions of Nuclear Weapons,low,none
+1991.8,1991,Treaty Between the USA and the USSR on the Reduction and Limitation of Strategic Offensive Arms (START I Treaty),high,verification
+1991.9,1991,UN General Assembly Resolution 46/36 on Transparency in Armaments,high,observation
+1992.1,1992,1992 Helsinki Document of the Conference on Security and Co-Operation in Europe,low,reporting
+1992.11,1992,Tashkent Document,high,verification
+1992.12,1992,Treaty on Open Skies,high,observation
+1992.13,1992,Memorandum Between Russian Federation and China on Mutual Reduction of Troops in the Border Area,low,reporting
+1992.2,1992,Concluding Act of the Negotiation on Personnel Strength of Conventional Armed Forces in Europe (CFE-1A Agreement),high,verification
+1992.4,1992,"Guidelines for Sensitive Missile-Relevant Transfers (Missile Technology Control Regime, MTCR), (Revised 1987 Guidelines)",low,none
+1992.5,1992,Joint Declaration by Pakistan and India on the Complete Prohibition of Chemical Weapons,low,none
+1992.6,1992,Joint Declaration by South and North Korea on the Denuclearization of the Korean Peninsula,high,verification
+1992.9,1992,Protocol to the 1991 START I Treaty (Lisbon Protocol),high,verification
+1993.1,1993,Agreement on the Maintenance of Peace Along the Line of Actual Control in the India-China Border,high,verification
+1993.2,1993,"Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction (Chemical Weapons Convention)",high,verification
+1993.3,1993,Treaty Between the USA and Russia on Further Reduction and Limitation of Strategic Offensive Arms (START II Treaty),high,verification
+1994.1,1994,Agreed Framework Between the USA and North Korea,high,verification
+1994.2,1994,"Agreement Between the USA and Russia to De-Target Strategic Nuclear Missiles, Contained in the Moscow Declaration of the US and Russian Presidents",low,none
+1994.4,1994,"Code of Conduct on Politico-Military Aspects of Security, Included in the Conference on Security and Co-Operation in Europe Budapest Decisions",low,none
+1994.5,1994,Joint Declaration by the UK and Russia on the De-Targeting of Nuclear Missiles,low,none
+1994.6,1994,Russian Federation and Republic of Korea Agreement on INCSEA,low,reporting
+1994.7,1994,Agreement Between Russia and China on Prevention of Dangerous Military Activities,low,reporting
+1995.1,1995,Declaration of Santiago,low,reporting
+1995.3,1995,NPT Review and Extension Conference Decision on Principles and Objectives for Nuclear Non-Proliferation and Disarmament,high,observation
+1995.6,1995,Protocol IV to the 1981 Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons Which May Be Deemed to Be Excessively Injurious or to Have Indiscriminate Effects (Protocol on Blinding Laser Weapons),low,none
+1995.7,1995,The Dayton Peace Accords,high,verification
+1995.8,1995,Treaty on the Southeast Asia Nuclear Weapon-Free Zone (Treaty of Bangkok),high,verification
+1996.1,1996,OSCE Lisbon Document,high,observation
+1996.11,1996,Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies,low,reporting
+1996.12,1996,Agreement Between Russia and China on Establishing a Direct Secret Phone Line,low,reporting
+1996.3,1996,Agreement Between India and China on Confidence-Building Measures in the Military Field Along the Line of Actual Control in the India-China Border Areas,low,reporting
+1996.4,1996,"Agreement Between Russia, Kazakhstan, Kyrgyzstan, Tajikistan (as a Joint Party) and China on Confidence Building in the Military Field in the Border Area Agreement",high,observation
+1996.5,1996,"Agreement on Sub-Regional Arms Control Concerning Yugoslavia (Serbia and Montenegro), Bosnia and Herzegovina, and Croatia (Florence Agreement)",high,verification
+1996.6,1996,"Amended Protocol II on Prohibitions or Restrictions on the Use of Mines, Booby-Traps and Other Devices to the 1981 Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons Which May Be Deemed to Be Excessively Injurious",high,observation
+1996.7,1996,Comprehensive Nuclear Test-Ban Treaty (CTBT),high,verification
+1996.8,1996,Israel-Lebanon Ceasefire Understanding,high,observation
+1996.9,1996,Treaty on the African Nuclear-Weapon-Free Zone (Treaty of Pelindaba),high,verification
+1997.1,1997,"Agreed Statements and Common Understandings Between Russia, the USA, Belarus, Kazakhstan and Ukraine Relating to the 1972 ABM Treaty",low,reporting
+1997.13,1997,"NATO-Russia Founding Act on Mutual Relations, Cooperation and Security",low,reporting
+1997.14,1997,Protocol to the 1993 START II Treaty,low,reporting
+1997.2,1997,"Agreement Between Russia, Kazakhstan, Kyrgyzstan and Tajikistan (as a Joint Party) and China on the Mutual Reduction of Armed Forces in the Border Area",high,verification
+1997.3,1997,"Agreement Between Russia, the USA, Belarus, Kazakhstan and Ukraine on Confidence-Building Measures Related to Systems to Counter Ballistic Missiles Other Than Strategic Ballistic Missiles",low,reporting
+1997.4,1997,"Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on Their Destruction (APM Convention)",high,verification
+1997.7,1997,"Inter-American Convention Against the Illicit Manufacturing of and Trafficking in Firearms, Ammunition, Explosives, and Other Related Materials",low,reporting
+1997.9,1997,Joint Statement by the USA and Russia on Parameters on Future Reductions in Nuclear Forces,low,none
+1998.1,1998,"Declaration of a Moratorium on the Importation, Exportation and Manufacture of Light Weapons in West Africa (ECOWAS Moratorium)",low,reporting
+1998.2,1998,European Union Code of Conduct on Arms Exports,low,reporting
+1998.3,1998,European Union Joint Action Concerning the Spread of Small Arms and Light Weapons,low,reporting
+1998.4,1998,Joint Statement by the USA and Russia on the Exchange of Information on Missile Launches and Early Warning,low,reporting
+1998.5,1998,"Political Declaration of Mercosur, Bolivia and Chile as Zone of Peace",low,none
+1998.7,1998,United Nations Security Council Resolution 1209 on Illicit Arms Flow,low,reporting
+1998.8,1998,US-China MMCA Agreement,low,none
+1999.1,1999,Code of Conduct for the Implementation of the 1998 ECOWAS Moratorium,high,verification
+1999.2,1999,Inter-American Convention on Transparency in Conventional Weapons Acquisitions,low,reporting
+1999.3,1999,Memorandum of Understanding Between India and Pakistan Relating to Confidence-Building Measures,high,observation
+1999.7,1999,"United Nations Security Council Resolution 1284 Establishing the UN Monitoring, Verification and Inspection Commission (UNMOVIC) on Iraq",high,verification
+1999.8,1999,Vienna Document of the Negotiations on Confidence- and Security-Building Measures (1999 Vienna CSBM Document),high,verification
+2000.1,2000,"Agreement Between the USA and Russia Concerning the Management and Disposition of Plutonium Designated as No Longer Required for Defense Purposes and Related Cooperation (Plutonium Management and Disposition Agreement, PMDA)",low,reporting
+2000.2,2000,Joint Statement by the USA and Russia on the Strategic Stability Cooperation Initiative,high,observation
+2000.3,2000,Memorandum of Agreement Between the USA and Russia on the Establishment of a Joint Center for the Exchange of Data From Early Warning Systems and Notifications of Missile Launches,high,observation
+2000.4,2000,Nairobi Protocol,high,observation
+2000.5,2000,"Nuclear Suppliers Group Guidelines for Nuclear Transfers (Guidelines for Nuclear Transfers, Revised 1977 London Guidelines)",low,reporting
+2000.6,2000,"Nuclear Suppliers Group Guidelines for Transfers of Nuclear-Related Dual-Use Equipment, Materials, Software, and Related Technology (nuclear Dual-Use Guidelines, Revised 1992 Warsaw Guidelines)",low,reporting
+2000.7,2000,OSCE Document on Small Arms and Light Weapons,high,observation
+2000.8,2000,Russian Federation and Portugal Agreement on INCSEA,low,reporting
+2001.1,2001,"Protocol Against the Illicit Manufacturing of and Trafficking in Firearms, Their Parts and Components and Ammunition (Firearms Protocol), Supplementing the 15 November 2000 United Nations Convention Against Transnational Organized Crime",low,reporting
+2001.2,2001,"Protocol on the Control of Firearms, Ammunition and Other Related Materials in the Southern African Development Community (SADC) Region",high,observation
+2001.3,2001,"United Nations Programme of Action to Prevent, Combat and Eradicate the Illicit Trade in Small Arms and Light Weapons in All Its Aspects",low,reporting
+2001.4,2001,Agreement Between Russia and Czech Republic on Prevention of Dangerous Military Activities,low,reporting
+2002.1,2002,Declaration by Heads of State and Government of NATO Member States and the Russian Federation on NATO-Russia Relations,high,observation
+2002.2,2002,Joint Declaration on the New Strategic Relationship by the USA and Russia,high,observation
+2002.3,2002,"Treaty Between the USA and Russia on Strategic Offensive Reductions (Moscow Treaty, SORT)",low,reporting
+2002.4,2002,Kazakhstan and China Agreement on Prevention of Dangerous Military Activities,low,reporting
+2005.1,2005,Agreement Between India and Pakistan on Pre-Notification of Flight Testing of Ballistic Missiles,low,reporting
+2006.1,2006,Central Asian Nuclear-Weapon-Free Zone (CANWFZ),low,reporting
+2006.2,2006,"Ecowas Convention on Small Arms and Light Weapons, Their Ammunition and Other Related Materials",high,observation
+2007.1,2007,Indo-Pakistan Agreement on Reducing Risk From Accidents Relating to Nuclear Weapons,low,reporting
+2008.1,2008,Convention on Cluster Munitions,low,reporting
+2009.1,2009,Russia-China Ballistic Missiles Launch Notification,low,reporting
+2010.1,2010,New START Treaty,high,verification
