@@ -41,6 +41,7 @@ def props(i):
      'Negotiation Status':S(i.get('negotiation_status')),
      AD:D(i.get('date_adopted')),OS:D(i.get('opened_for_signature')),
      'Date Entered into Force':D(i.get('entry_into_force')),'Expiration Date':D(i.get('date_ended')),
+     'End Reason':S(i.get('end_reason')),
      'Participation Structure':S(i.get('participation_structure')),
      'Region':M(i.get('geographic_coverage')),'Operating Environment':M(i.get('operating_environment')),
      'Weapon Families':M(i.get('weapon_families')),'Legal Subject Matter':M(i.get('legal_subject_matter')),

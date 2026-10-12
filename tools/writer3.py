@@ -189,7 +189,8 @@ def upsert_log(pid,entry,etype,detail):
     return 'created' if requests.post(f'{API}/pages',headers=H,json={'parent':{'database_id':LOG},'properties':props}).ok else 'fail'
 CLEARABLE={'opened_for_signature':OS,'date_adopted':AD,'entry_into_force':'Date Entered into Force','date_ended':'Expiration Date',
  'signed_at':'Signed at:','depositary':'Depository','number_of_parties':'Number of Parties','number_of_signatories':'Number of Signatories',
- 'parties_as_of':'Parties As Of','treaty_url':'Treaty URL'}
+ 'parties_as_of':'Parties As Of','treaty_url':'Treaty URL','end_reason':'End Reason',
+ 'duration_years':'Duration (years)','review_conferences_held':'Number of review conferences held'}
 def _empty(prop_type): return {'date':{'date':None},'rich_text':{'rich_text':[]},'number':{'number':None},'url':{'url':None},'select':{'select':None},'multi_select':{'multi_select':[]}}[prop_type]
 def write3(pid,j,name,old_text=None):
     """Properties (null = leave as is), explicit clears, idempotent rows, log upsert, key-facts resync. Page prose is not touched."""
