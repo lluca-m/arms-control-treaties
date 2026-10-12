@@ -1,0 +1,264 @@
+{
+ "instrument": {
+  "full_name": "Treaty banning the production of fissile material for nuclear weapons or other nuclear explosive devices (Fissile Material Cut-off Treaty)",
+  "short_name": "FMCT",
+  "record_type": "Negotiation",
+  "instrument_form": "Not applicable",
+  "legal_character": "Not established",
+  "instrument_status": "Not applicable",
+  "negotiation_status": "Stalled",
+  "date_adopted": null,
+  "opened_for_signature": null,
+  "entry_into_force": null,
+  "date_ended": null,
+  "participation_structure": "Multilateral (open)",
+  "geographic_coverage": [],
+  "operating_environment": [
+   "Not specific"
+  ],
+  "weapon_families": [
+   "Fissile material",
+   "Nuclear weapons"
+  ],
+  "legal_subject_matter": [
+   "Arms limitation & disarmament",
+   "Nonproliferation"
+  ],
+  "signed_at": null,
+  "adopted_at": null,
+  "depositary": null,
+  "number_of_parties": null,
+  "number_of_signatories": null,
+  "parties_as_of": null,
+  "key_non_parties": "No treaty exists, so there are no parties or non-parties. Negotiations are to take place in the 65-member Conference on Disarmament (CD), which works by consensus. Pakistan has blocked consensus on starting negotiations since 2009, arguing (by its own account) that a ban limited to future production would freeze an asymmetry with India and that existing stocks must be covered. The states whose conduct a treaty would most change are the nuclear-armed states, in particular India, Pakistan, Israel and the Democratic People's Republic of Korea, which are outside the NPT, and the five NPT nuclear-weapon States.",
+  "information_provisions": [],
+  "inspection_access": [],
+  "monitoring_means_specified": [],
+  "institutional_oversight": null,
+  "consultation_mechanism": null,
+  "reporting_requirements": "Not applicable",
+  "enforcement": "Not applicable",
+  "dispute_resolution": "Not applicable",
+  "national_authority": "Not applicable",
+  "technical_cooperation": "Not applicable",
+  "third_party_roles": "Not applicable",
+  "reservations": null,
+  "duration_type": null,
+  "duration_years": null,
+  "duration_clause": null,
+  "extension_type": null,
+  "extension_clause": null,
+  "withdrawal_type": null,
+  "withdrawal_notice_months": null,
+  "withdrawal_clause": null,
+  "amendment_procedure": null,
+  "amendment_clause": null,
+  "review_conferences": null,
+  "review_interval_years": null,
+  "review_conferences_held": null,
+  "entry_into_force_requirements": null,
+  "number_of_articles": null,
+  "word_count": null,
+  "count_basis": "No treaty text exists. The only agreed negotiating text is the three-paragraph mandate in CD/1299 (24 March 1995); it is not counted here because it is a procedural mandate, not an instrument.",
+  "weapons_systems_limited": "None in force. The agreed mandate (CD/1299) envisages a ban on the production of fissile material for nuclear weapons or other nuclear explosive devices; whether existing stocks would be covered is unresolved.",
+  "key_provisions": "No treaty provisions exist. CD/1299, paras 1-3 of the mandate: the CD is to establish an ad hoc committee on a 'ban on the production of fissile material for nuclear weapons or other nuclear explosive devices', directed to negotiate a 'non-discriminatory, multilateral and internationally and effectively verifiable treaty'. The accompanying statement records that the mandate does not preclude any delegation from raising past production or the management of fissile material.",
+  "behavior_change": "Prospective only. Four of the five NPT nuclear-weapon States (the United States, Russia, the United Kingdom and France) have declared that they no longer produce fissile material for weapons; China has made no official declaration. Non-nuclear-weapon States party to the NPT are already barred from acquiring nuclear explosives and accept safeguards. On one analytical reading, a treaty would mainly constrain the states outside the NPT that are reported to continue production and, if stocks were included, the existing holdings of all nuclear-armed states; even without an immediate change in production, it would turn unilateral restraint into a verifiable obligation. The extent depends on the unresolved scope and verification.",
+  "historical_background": "The UN General Assembly recommended negotiation of a cut-off treaty by consensus in resolution 48/75 L of 16 December 1993. In March 1995 the CD accepted the mandate in the report of Ambassador Gerald Shannon of Canada (CD/1299), which left the treatment of existing stocks open. An ad hoc committee was established in August 1998 (CD/1547) but met only briefly, and a 2009 programme of work (CD/1864) providing for negotiations was never implemented. Since then the work has moved to expert bodies outside the CD (a Group of Governmental Experts reporting in 2015 and a High-Level Expert Preparatory Group reporting in 2018) and to non-negotiating CD subsidiary bodies. As of October 2026, sustained negotiations have not followed.",
+  "treaty_url": null,
+  "source_quality": "Not applicable (no concluded treaty text)",
+  "related": []
+ },
+ "provisions": [],
+ "events": [
+  {
+   "event": "UNGA resolution 48/75 L recommends negotiation of a cut-off treaty",
+   "date": "1993-12-16",
+   "effective_date": null,
+   "event_type": "Adoption",
+   "actors": "UN General Assembly",
+   "attribution": "UN General Assembly (official record); consensus adoption reported by ACRONYM Institute",
+   "description": "The General Assembly adopted by consensus resolution 48/75 L, 'Prohibition of the production of fissile material for nuclear weapons or other nuclear explosive devices', recommending negotiation in the most appropriate international forum of a non-discriminatory, multilateral and internationally and effectively verifiable treaty, and requesting IAEA assistance on verification. This adopted a recommendation, not a treaty.",
+   "source_url": "https://undocs.org/A/RES/48/75",
+   "locator": "A/RES/48/75 L"
+  },
+  {
+   "event": "Shannon report and mandate (CD/1299)",
+   "date": "1995-03-24",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "Conference on Disarmament; Ambassador Gerald E. Shannon (Canada)",
+   "attribution": "CD/1299 (official document)",
+   "description": "The Special Coordinator reported agreement on a mandate, based on resolution 48/75 L, for an ad hoc committee to negotiate a treaty banning the production of fissile material for nuclear weapons or other nuclear explosive devices, reporting before the end of the 1995 session. The report records divided views on whether past production and management of material could be considered, and that the mandate does not preclude raising them. The committee was not convened in 1995. The date is the document date.",
+   "source_url": "https://undocs.org/CD/1299",
+   "locator": "CD/1299, mandate paras 1-3 and p. 2"
+  },
+  {
+   "event": "CD establishes ad hoc committee on fissile material ban (CD/1547)",
+   "date": "1998-08-11",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "Conference on Disarmament",
+   "attribution": "CD/1547 (official document); reported by ACRONYM Institute",
+   "description": "The CD decided to establish an ad hoc committee to negotiate, on the basis of the Shannon report and mandate, a treaty banning the production of fissile material for nuclear weapons or other nuclear explosive devices. The committee met for a few weeks at the end of the 1998 session and was not re-established in 1999.",
+   "source_url": "https://undocs.org/CD/1547",
+   "locator": "CD/1547"
+  },
+  {
+   "event": "CD adopts programme of work providing for FMCT negotiations (CD/1864)",
+   "date": "2009-05-29",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "Conference on Disarmament",
+   "attribution": "CD/1864 (official document); Arms Control Today",
+   "description": "The CD adopted its first programme of work since 1998, establishing a working group to negotiate a treaty banning the production of fissile material for nuclear weapons or other nuclear explosive devices on the basis of CD/1299 and its mandate. The decision was not implemented: the CD did not agree on the implementing arrangements during 2009, with Pakistan reported to have withheld consensus, and the programme lapsed at the end of the session.",
+   "source_url": "https://undocs.org/CD/1864",
+   "locator": "CD/1864, para. 1"
+  },
+  {
+   "event": "Group of Governmental Experts report (A/70/81)",
+   "date": "2015-05-07",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Group of Governmental Experts established under UNGA resolution 67/53",
+   "attribution": "A/70/81 (official document)",
+   "description": "The Group, mandated to make recommendations on possible aspects that could contribute to, but not negotiate, a treaty, transmitted a consensus report setting out the range of expert views on definitions, scope (including the treatment of existing stocks), verification, legal and institutional arrangements. Text agreed at its final session in March 2015.",
+   "source_url": "https://undocs.org/A/70/81",
+   "locator": "A/70/81"
+  },
+  {
+   "event": "CD establishes subsidiary bodies; SB2 discusses fissile material (CD/2119)",
+   "date": "2018-02-16",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Conference on Disarmament",
+   "attribution": "CD/2119 (official document); IPFM blog",
+   "description": "The CD established five subsidiary bodies with discussion (not negotiating) mandates. Subsidiary Body 2, on prevention of nuclear war including all related matters, focused on a ban on fissile material production; its report (CD/2139) was adopted on 5 September 2018. The bodies were not re-established in 2019.",
+   "source_url": "https://undocs.org/CD/2119",
+   "locator": "CD/2119; CD/2139"
+  },
+  {
+   "event": "High-Level FMCT Expert Preparatory Group report (A/73/159)",
+   "date": "2018-07-13",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "High-Level FMCT Expert Preparatory Group (chair: Canada) established under UNGA resolution 71/259",
+   "attribution": "A/73/159 (official document); UNODA",
+   "description": "The Group adopted its report by consensus on 8 June 2018; the Secretary-General transmitted it on 13 July 2018. It sets out possible treaty elements and options on definitions, scope, verification and institutional arrangements, and recommends that negotiations begin without delay. It did not resolve the existing-stocks question.",
+   "source_url": "https://undocs.org/A/73/159",
+   "locator": "A/73/159"
+  },
+  {
+   "event": "CD decision on work for 2022 re-creates subsidiary bodies (CD/2229)",
+   "date": "2022-03-08",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Conference on Disarmament; Spain (coordinator of Subsidiary Body 2)",
+   "attribution": "CD/2229 (official document); UN Geneva meeting summary",
+   "description": "The CD established five subsidiary bodies for 2022. Spain, as coordinator of Subsidiary Body 2, stated that the body would address fissile material in all its forms and what would bring the CD closer to a treaty. The bodies held discussions only.",
+   "source_url": "https://undocs.org/CD/2229",
+   "locator": "CD/2229, paras 1-6"
+  },
+  {
+   "event": "Launch of the Friends of a Fissile Material Cut-off Treaty",
+   "date": "2024-09-23",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Australia, Brazil, Canada, France, Germany, Italy, Japan, Netherlands, Nigeria, Philippines, United Kingdom, United States",
+   "attribution": "Joint press release published by Australia's DFAT",
+   "description": "Twelve states launched a cross-regional group in New York to build support for negotiating a non-discriminatory, multilateral and effectively verifiable treaty banning fissile material production for nuclear weapons.",
+   "source_url": "https://www.dfat.gov.au/news/media-release/joint-press-release-friends-fmct",
+   "locator": "Joint press release, 23 September 2024"
+  },
+  {
+   "event": "CD re-establishes subsidiary bodies for 2025 (CD/2443)",
+   "date": "2025-01-31",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Conference on Disarmament",
+   "attribution": "CD/2443 and CD/2493 (official documents)",
+   "description": "The CD re-established the five subsidiary bodies created by CD/2390 for 2024, with discussion mandates. The CD's 2025 report (CD/2493) records that the bodies discussed areas of possible convergence; no negotiating mandate was agreed. The date is the document date.",
+   "source_url": "https://undocs.org/CD/2443",
+   "locator": "CD/2443; CD/2493, paras 24-30"
+  },
+  {
+   "event": "Draft decision keeps FMCT on the UNGA agenda (A/C.1/80/L.39)",
+   "date": "2025-10-14",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Canada, Germany, Netherlands (sponsors); UNGA First Committee",
+   "attribution": "A/C.1/80/L.39 (official document); First Committee record",
+   "description": "The sponsors tabled a procedural draft decision placing the sub-item on a fissile material production ban on the provisional agenda of the eighty-first session, in place of a substantive resolution. Cuba explained its abstention by arguing that a treaty leaving stockpiles uncontrolled would be insufficient. The date is the document date; the plenary adoption date was not verified.",
+   "source_url": "https://undocs.org/A/C.1/80/L.39",
+   "locator": "A/C.1/80/L.39"
+  },
+  {
+   "event": "NPT Review Conference ends without a final document",
+   "date": "2026-05-22",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "States parties to the NPT",
+   "attribution": "Jiji Press via Nippon.com",
+   "description": "The 2026 NPT Review Conference closed without a consensus final document, so it produced no agreed language on a fissile material treaty. Working papers before the conference, including one by Argentina, Canada, Japan, the Republic of Korea, the European Union and others, had urged progress on an FMCT.",
+   "source_url": "https://www.nippon.com/en/news/yjj2026052300170/",
+   "locator": "News report, 23 May 2026"
+  },
+  {
+   "event": "CD 2026 session ends without reinstating subsidiary bodies",
+   "date": null,
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Conference on Disarmament",
+   "attribution": "Permanent Representation of Italy to the CD",
+   "description": "According to Italy's mission, no consensus was reached in 2026 on a programme of work that would have reinstated the subsidiary bodies of 2025; the CD worked through plenary meetings, and differences among members continued to prevent negotiations on an FMCT. Dated by the scheduled close of the session; no closing record was consulted.",
+   "source_url": "https://italiarappdisarmo.esteri.it/en/il-disarmo/la-conferenza-del-disarmo/",
+   "locator": "Section on the 2026 session",
+   "date_precision": "Exact day",
+   "date_as_reported": "Session scheduled to close 11 September 2026"
+  }
+ ],
+ "section_provisions_md": "### No treaty obligations exist\nThere is no FMCT text, so there are no obligations, parties or provisions to record. The provisions table is deliberately empty. The only agreed negotiating text is the mandate in CD/1299 (1995), reaffirmed by CD/1547 (1998) and CD/1864 (2009). It is a procedural mandate that tells a committee what to negotiate; it binds no state to any restriction.\n\n### The agreed mandate (CD/1299)\n- **Object:** a \"ban on the production of fissile material for nuclear weapons or other nuclear explosive devices\" (mandate para. 1).\n- **Character:** the treaty is to be \"non-discriminatory, multilateral and internationally and effectively verifiable\" (para. 2), wording taken from UNGA resolution 48/75 L.\n- **Reporting:** the committee was to report on progress before the end of the 1995 session (para. 3). It did not convene that year.\n- **Built-in ambiguity:** the report records that some delegations read the mandate as covering only future production, others as also covering past production, and others as extending to management of material. It states that the mandate \"does not preclude any delegation from raising\" these issues (CD/1299, p. 2).\n\n### Open scope questions\n- **Existing stocks.** The central dispute. A production-only ban would leave existing military stocks untouched. Pakistan has argued that this would lock in an advantage for India and has insisted on covering stocks. Several non-aligned states, including Cuba in 2025, have argued that a treaty leaving stockpiles uncontrolled would be insufficient. Most nuclear-weapon States have favoured a cut-off of future production. The GGE (A/70/81) and HLEPG (A/73/159) reports set out options, from excluding stocks to covering some categories (for example material released from weapons programmes), without choosing among them.\n- **Definitions.** What counts as \"fissile material\" (for instance whether to cover only weapons-usable plutonium and highly enriched uranium, or also other materials) and what counts as \"production\" (enrichment and reprocessing only, or other processes).\n- **Naval and other non-explosive military uses.** Whether material for naval propulsion would be exempt and, if so, how it would be accounted for.\n- **Verification.** Whether verification would be comprehensive (covering all relevant facilities) or focused on enrichment and reprocessing plants, what role the IAEA would play, and how classified information would be protected. In 2006 the United States tabled a draft treaty without verification provisions and later, under President Obama, reverted to supporting a verifiable treaty.\n- **Institutions, entry into force and duration.** The expert reports outline options for a treaty organization or reliance on the IAEA, for entry-into-force conditions (including whether specified states must ratify) and for duration and withdrawal. None of these has been negotiated.\n\n### Practical status of production\nFour NPT nuclear-weapon States (United States, Russia, United Kingdom and France) have declared that they no longer produce fissile material for weapons. China is widely reported to have stopped but has made no official declaration. These are unilateral political statements, not obligations under any FMCT.\n",
+ "section_history_md": "### Origins\nProposals to halt the production of fissile material for weapons date to the 1950s. The current effort began with a speech by President Clinton to the General Assembly in September 1993 and with resolution 48/75 L, adopted by consensus on 16 December 1993, which recommended negotiation of a verifiable treaty. The CD appointed Ambassador Gerald Shannon of Canada as Special Coordinator in January 1994, and in March 1995 accepted his report and mandate (CD/1299). The 1995 NPT Review and Extension Conference also called for early conclusion of such a treaty.\n\n### Stalemate in the CD\n- **1995 to 1998.** Disputes over linkage to other agenda items, especially nuclear disarmament and the prevention of an arms race in outer space, prevented the ad hoc committee from meeting until August 1998 (CD/1547). It met only for a few weeks and was not re-established.\n- **2009.** The CD adopted a programme of work (CD/1864) with a negotiating working group on the Shannon mandate. The CD could not agree on implementing arrangements; Pakistan is widely reported to have withheld consensus. Pakistan has since stated that it will not join negotiations on a treaty confined to future production.\n- **2012 to 2018.** Work moved to expert bodies created by the General Assembly: a Group of Governmental Experts under resolution 67/53, which reported in May 2015 (A/70/81), and a High-Level Expert Preparatory Group under resolution 71/259, which adopted its report in June 2018 (A/73/159). Both reports set out options and did not negotiate. In 2015 France tabled a draft treaty text in the CD.\n- **Subsidiary bodies.** The CD established discussion-only subsidiary bodies in 2018 (CD/2119), 2022 (CD/2229), 2024 (CD/2390) and 2025 (CD/2443). Fissile material was discussed in them but no negotiating mandate followed. In 2026 the CD could not agree to reinstate them.\n\n### Recent developments to October 2026\nIn September 2024 twelve states launched the Friends of a Fissile Material Cut-off Treaty. In 2025 the General Assembly's First Committee handled the item through a procedural draft decision (A/C.1/80/L.39) rather than a substantive resolution. The 2026 NPT Review Conference ended on 22 May 2026 without a final document. The CD's 2026 session closed without a programme of work. Negotiations have not begun.\n\n### Compliance\nNo obligations exist, so there is no compliance record. Statements about current production rest on unilateral declarations and outside assessments.\n\n### Sources\n- [UNGA resolution 48/75 L (1993)](https://undocs.org/A/RES/48/75)\n- [CD/1299, Shannon report (1995)](https://undocs.org/CD/1299)\n- [CD/1547 (1998)](https://undocs.org/CD/1547)\n- [CD/1864, 2009 programme of work](https://undocs.org/CD/1864)\n- [A/70/81, GGE report (2015)](https://undocs.org/A/70/81)\n- [A/73/159, HLEPG report (2018)](https://undocs.org/A/73/159)\n- [CD/2119 (2018)](https://undocs.org/CD/2119)\n- [CD/2229 (2022)](https://undocs.org/CD/2229)\n- [CD/2443 (2025)](https://undocs.org/CD/2443)\n- [A/C.1/80/L.39 (2025)](https://undocs.org/A/C.1/80/L.39)\n- [CNS NPT Briefing Book 2026, CD documents](https://nonproliferation.org/wp-content/uploads/2026/04/Chapter-P_CD-BB26.pdf)\n- [Friends of an FMCT joint press release (2024)](https://www.dfat.gov.au/news/media-release/joint-press-release-friends-fmct)\n- [Italian mission to the CD, 2026 session](https://italiarappdisarmo.esteri.it/en/il-disarmo/la-conferenza-del-disarmo/)\n- [Nippon.com, NPT Review Conference ends without final document](https://www.nippon.com/en/news/yjj2026052300170/)\n- [Arms Control Today, CD Breaks Deadlock on Work Plan (2009)](https://www.armscontrol.org/act/2009-06/cd-breaks-deadlock-work-plan)\n- [Arms Control Association, FMCT at a Glance](https://www.armscontrol.org/factsheets/fmct)\n",
+ "unverified": [
+  {
+   "field": "date_adopted, opened_for_signature, entry_into_force, date_ended, signed_at, adopted_at, depositary, number_of_parties, number_of_signatories, parties_as_of, treaty_url",
+   "reason": "No treaty has been negotiated; these values do not exist."
+  },
+  {
+   "field": "institutional_oversight, consultation_mechanism, reservations, duration_type, duration_years, duration_clause, extension_type, extension_clause, withdrawal_type, withdrawal_notice_months, withdrawal_clause, amendment_procedure, amendment_clause, review_conferences, review_interval_years, review_conferences_held, entry_into_force_requirements",
+   "reason": "No treaty text exists; the allowed values describe text that is absent, so null is used rather than 'None' or 'Not specified'. Options appear only in A/70/81 and A/73/159."
+  },
+  {
+   "field": "number_of_articles, word_count",
+   "reason": "No treaty text exists."
+  },
+  {
+   "field": "events: dates of UNGA resolutions 67/53 and 71/259; date of CD/2390; plenary adoption date of A/C.1/80/L.39",
+   "reason": "Not checked against primary records; mentioned in prose without dates or omitted as separate events."
+  },
+  {
+   "field": "events: France draft treaty (2015) and US draft treaty (2006)",
+   "reason": "Document symbols and exact dates not confirmed (sources conflict on CD/1776 vs CD/1777 for the US draft); mentioned in prose only."
+  },
+  {
+   "field": "events: Pakistan withholding consensus on implementing CD/1864",
+   "reason": "Based on secondary reporting (Arms Control Today, Arms Control Association), attributed accordingly; not checked against CD plenary records."
+  },
+  {
+   "field": "source_quality",
+   "reason": "No concluded treaty text exists, so treaty-text quality is not applicable. The mandate (CD/1299) and process documents are official UN documents."
+  }
+ ],
+ "corrections": [
+  "Body cites 'UN resolution 78/57 L'; the correct symbol is resolution 48/75 L, adopted by consensus on 16 December 1993 (the hyperlink already points to 48/75).",
+  "Status 'Under Negotiation' and 'Compliance History: Stil under negotiation' (typo) are inaccurate: formal negotiations have never begun. The 1998 ad hoc committee met only briefly and the CD/1864 working group never convened. negotiation_status should be 'Stalled'.",
+  "Body says the Shannon mandate directed the ad hoc committee 'to negotiate an FMCT by the end of the 1995 session'. CD/1299 para. 3 says only that the committee would report on the progress of its work before the end of the 1995 session.",
+  "Body says the FMCT 'has been negotiated for two decades' while the Historical Background property says 'three decades'. Both overstate: negotiations have not started; the issue has been on the CD agenda since 1994-95.",
+  "'Duration: Unlimited' has no basis; there is no treaty text.",
+  "'Quantitative Limits: Zero (Ban on future production)' presumes the outcome of the unresolved existing-stocks dispute; the mandate leaves past production open.",
+  "'Type of Limitation' includes 'Development', which the mandate does not mention; the mandated object is a production ban.",
+  "Behavior change is recorded inconsistently: property says 'Change current behavior', body says 'Change future behavior'.",
+  "'Signatories & Dates: 65 member states' conflates CD membership with signature; there are no signatories.",
+  "The full name 'Fissile Material Production Cutoff Treaty' is non-standard; the UN wording is 'treaty banning the production of fissile material for nuclear weapons or other nuclear explosive devices', commonly 'Fissile Material Cut-off Treaty'.",
+  "Several body passages are unattributed quotations (apparently from Arms Control Association material) and should be cited or paraphrased."
+ ]
+}

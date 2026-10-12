@@ -1,0 +1,327 @@
+{
+ "instrument": {
+  "full_name": "Additional Protocol to the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons which may be deemed to be Excessively Injurious or to have Indiscriminate Effects (Protocol IV, entitled Protocol on Blinding Laser Weapons)",
+  "short_name": "CCW Protocol IV",
+  "record_type": "Instrument",
+  "instrument_form": "Protocol",
+  "legal_character": "Legally binding",
+  "instrument_status": "In force",
+  "negotiation_status": "Concluded",
+  "date_adopted": "1995-10-13",
+  "opened_for_signature": null,
+  "entry_into_force": "1998-07-30",
+  "date_ended": null,
+  "participation_structure": "Multilateral (open)",
+  "geographic_coverage": [],
+  "operating_environment": [
+   "Not specific"
+  ],
+  "weapon_families": [
+   "Blinding lasers"
+  ],
+  "legal_subject_matter": [
+   "Conduct of hostilities (IHL)",
+   "Arms trade & transfer control"
+  ],
+  "signed_at": null,
+  "adopted_at": "Vienna",
+  "depositary": "Secretary-General of the United Nations (CCW Art. 10(1))",
+  "number_of_parties": 111,
+  "number_of_signatories": null,
+  "parties_as_of": "2026-10-11",
+  "key_non_parties": "States not bound by Protocol IV per the UN Treaty Collection status list (11 October 2026) include Egypt, Indonesia, the Islamic Republic of Iran, the Democratic People's Republic of Korea, the Republic of Korea, the Syrian Arab Republic and Viet Nam. China, France, India, Israel, Pakistan, the Russian Federation, the United Kingdom and the United States are all parties.",
+  "information_provisions": [
+   "None"
+  ],
+  "inspection_access": [
+   "None"
+  ],
+  "monitoring_means_specified": [
+   "None specified"
+  ],
+  "institutional_oversight": "Depositary only",
+  "consultation_mechanism": "Review conferences only",
+  "reporting_requirements": "Not specified in text",
+  "enforcement": "Not specified in text",
+  "dispute_resolution": "Not specified in text",
+  "national_authority": "Not specified in text",
+  "technical_cooperation": "Not specified in text",
+  "third_party_roles": "Not specified in text",
+  "reservations": "Not Specified",
+  "duration_type": "Indefinite",
+  "duration_years": null,
+  "duration_clause": "Protocol IV contains no duration clause. As an annexed Protocol it forms an integral part of the CCW for each party bound by it (CCW Art. 4(5)), and neither the Protocol nor the Convention sets a term. It therefore remains in force indefinitely, subject to denunciation under CCW Art. 9.",
+  "extension_type": "None stated",
+  "extension_clause": "No extension provision is needed or stated: the Protocol has no fixed term. Its duration follows the CCW framework, which is of unlimited duration subject to denunciation (CCW Art. 9).",
+  "withdrawal_type": "Notice",
+  "withdrawal_notice_months": 12,
+  "withdrawal_clause": "Protocol IV has no withdrawal article of its own; withdrawal is governed by the CCW framework. Under CCW Art. 9(1) any High Contracting Party may denounce the Convention or any annexed Protocol by notifying the Depositary. Under Art. 9(2) denunciation takes effect one year after receipt of the notification, but a party engaged on expiry of that year in an armed conflict or occupation covered by Art. 1 remains bound until the end of the conflict or occupation and the completion of release, repatriation or re-establishment of protected persons. Denunciation of the Convention extends to all annexed Protocols (Art. 9(3)), affects only the denouncing party (Art. 9(4)), and does not affect obligations already incurred for acts committed before it takes effect (Art. 9(5)).",
+  "amendment_procedure": "Other",
+  "amendment_clause": "Protocol IV has no amendment article of its own; amendment follows the CCW framework. Under CCW Art. 8(1)(a) any High Contracting Party may propose an amendment to a Protocol by which it is bound; the Depositary convenes a conference if a majority of parties, not less than eighteen, agree. Under Art. 8(1)(b) the conference may agree upon amendments, which are adopted and enter into force in the same manner as the Convention and its Protocols, and amendments to a specific Protocol may be adopted only by the parties bound by that Protocol. Amendments may also be agreed at a review conference under Art. 8(3)(a). The text does not specify a voting rule; CCW conferences operate by consensus in practice.",
+  "review_conferences": "Ad hoc / on request",
+  "review_interval_years": null,
+  "review_conferences_held": 5,
+  "entry_into_force_requirements": "Under Art. 2 of the Additional Protocol, Protocol IV enters into force as provided in CCW Art. 5(3) and (4): six months after the date by which twenty States have notified their consent to be bound, and for each later State six months after its own notification. Consent may be expressed only by States party to the CCW (Art. 4(3)-(4)). The twentieth notification (Hungary) was made on 30 January 1998, and the Protocol entered into force on 30 July 1998.",
+  "number_of_articles": 6,
+  "word_count": 276,
+  "count_basis": "English authentic text in the UN certified true copy (Ch_XXVI_02_ap.pdf), cross-checked against the ICRC reproduction. Six articles: two articles of the Additional Protocol (Art. 1 annexing Protocol IV; Art. 2 entry into force) and four articles of Protocol IV itself. Word count of 276 covers the full English instrument including title and article headings, counted with a whitespace tokenizer; the operative body of Protocol IV Arts. 1-4 alone is 166 words. CCW framework articles are not counted.",
+  "weapons_systems_limited": "Laser weapons specifically designed, as their sole combat function or as one of their combat functions, to cause permanent blindness to unenhanced vision. Laser systems in general are not banned; their employment is subject to a precautions obligation.",
+  "key_provisions": "Art. 1 prohibits the employment of laser weapons specifically designed, as their sole or one of their combat functions, to cause permanent blindness to unenhanced vision (the naked eye or the eye with corrective eyesight devices), and prohibits their transfer to any State or non-State entity. Art. 2 requires all feasible precautions, including training of armed forces, to avoid permanent blindness in the employment of other laser systems. Art. 3 excludes blinding as an incidental or collateral effect of legitimate military employment of laser systems, including against optical equipment. Art. 4 defines permanent blindness (irreversible, uncorrectable, seriously disabling loss of vision; visual acuity below 20/200 Snellen measured using both eyes). The Protocol does not prohibit development, production or stockpiling. Final clauses (entry into force, denunciation, amendment, depositary) derive from CCW Arts. 4-5 and 8-10.",
+  "behavior_change": "Largely preventive. The Protocol banned the battlefield use and transfer of a weapon category before it had been used in combat. Human Rights Watch Arms Project findings, cited by the ICRC's Louise Doswald-Beck in 1996, identified research on blinding laser weapons in China, France, Germany, Israel, Russia and the United Kingdom and ten active or dormant US programmes. The Protocol required parties to forgo employment and transfer of such weapons and to take precautions and train forces in using other military lasers (Art. 2). It did not require destruction of existing systems or end research and production.",
+  "historical_background": "Sweden brought the issue of blinding laser weapons to international attention, circulating a position paper in 1987 and later proposing a protocol during the preparations for the First CCW Review Conference. The ICRC convened four expert meetings between June 1989 and April 1991. Protocol IV was adopted by consensus at the Vienna session of the First Review Conference on 13 October 1995, under CCW Art. 8(3)(b). The ICRC described it in 1998 as only the second time in history that such a means of warfare had been prohibited before its use on the battlefield, after the 1868 St Petersburg Declaration. The ICRC customary IHL study (Rule 86) treats the prohibition of use as customary international law. (Sources: Doswald-Beck, International Review of the Red Cross, 1996; ICRC press release, 2 February 1998.)",
+  "treaty_url": "https://treaties.un.org/doc/Treaties/1995/10/19951013%2001-30%20AM/Ch_XXVI_02_ap.pdf",
+  "source_quality": "Official text",
+  "related": [
+   {
+    "relation": "protocol_to",
+    "target": "Convention on Certain Conventional Weapons (CCW)"
+   },
+   {
+    "relation": "produced_by",
+    "target": "First Review Conference of the States Parties to the CCW (1995-1996)"
+   }
+  ]
+ },
+ "provisions": [
+  {
+   "provision": "Prohibit use of blinding laser weapons",
+   "article": "Protocol IV, Art. 1 (first sentence)",
+   "weapon_activity": [
+    "Blinding lasers"
+   ],
+   "restriction_type": "Prohibit use",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All High Contracting Parties bound by Protocol IV",
+   "geographic_scope": "Armed conflicts within the scope of CCW Art. 1 (international armed conflicts; extended to non-international armed conflicts for parties bound by the amended Art. 1 of 2001). Several parties declared they will apply the Protocol in all circumstances.",
+   "exceptions": "Blinding as an incidental or collateral effect of legitimate military employment of laser systems, including systems used against optical equipment, is not covered (Art. 3).",
+   "effective_from": "1998-07-30",
+   "effective_until": null,
+   "text_or_paraphrase": "\"It is prohibited to employ laser weapons specifically designed, as their sole combat function or as one of their combat functions, to cause permanent blindness to unenhanced vision, that is to the naked eye or to the eye with corrective eyesight devices.\"",
+   "source_url": "https://treaties.un.org/doc/Treaties/1995/10/19951013%2001-30%20AM/Ch_XXVI_02_ap.pdf",
+   "locator": "Additional Protocol, Art. 1; Protocol IV, Art. 1"
+  },
+  {
+   "provision": "Prohibit transfer of blinding laser weapons",
+   "article": "Protocol IV, Art. 1 (second sentence)",
+   "weapon_activity": [
+    "Blinding lasers"
+   ],
+   "restriction_type": "Prohibit transfer",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All High Contracting Parties bound by Protocol IV",
+   "geographic_scope": "Not limited; transfers to any State or non-State entity",
+   "exceptions": null,
+   "effective_from": "1998-07-30",
+   "effective_until": null,
+   "text_or_paraphrase": "\"The High Contracting Parties shall not transfer such weapons to any State or non-State entity.\"",
+   "source_url": "https://treaties.un.org/doc/Treaties/1995/10/19951013%2001-30%20AM/Ch_XXVI_02_ap.pdf",
+   "locator": "Protocol IV, Art. 1"
+  },
+  {
+   "provision": "Precautions in employment of laser systems",
+   "article": "Protocol IV, Art. 2",
+   "weapon_activity": [
+    "Blinding lasers"
+   ],
+   "restriction_type": "Other",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All High Contracting Parties bound by Protocol IV",
+   "geographic_scope": "Armed conflicts within the scope of CCW Art. 1",
+   "exceptions": null,
+   "effective_from": "1998-07-30",
+   "effective_until": null,
+   "text_or_paraphrase": "Parties must take all feasible precautions to avoid the incidence of permanent blindness to unenhanced vision when employing laser systems, including training of their armed forces and other practical measures.",
+   "source_url": "https://treaties.un.org/doc/Treaties/1995/10/19951013%2001-30%20AM/Ch_XXVI_02_ap.pdf",
+   "locator": "Protocol IV, Art. 2"
+  }
+ ],
+ "events": [
+  {
+   "event": "Adoption at the Vienna session of the First CCW Review Conference",
+   "date": "1995-10-13",
+   "effective_date": null,
+   "event_type": "Adoption",
+   "actors": "Conference of the States Parties to the CCW",
+   "attribution": "UN Treaty Collection",
+   "description": "At its 8th plenary meeting the Review Conference adopted, pursuant to CCW Art. 8(3)(b), an additional Protocol entitled \"Protocol on Blinding Laser Weapons (Protocol IV)\". It was not opened for signature; States express consent to be bound under CCW Art. 4.",
+   "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-2-a&chapter=26&clang=_en",
+   "locator": "Note to chapter XXVI-2-a"
+  },
+  {
+   "event": "First notification of consent to be bound (Finland)",
+   "date": "1996-01-11",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Finland",
+   "attribution": "UN Treaty Collection",
+   "description": "Finland was the first State to notify consent to be bound by Protocol IV.",
+   "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-2-a&chapter=26&clang=_en",
+   "locator": "Participant list"
+  },
+  {
+   "event": "Twentieth notification of consent to be bound (Hungary)",
+   "date": "1998-01-30",
+   "effective_date": "1998-07-30",
+   "event_type": "Other",
+   "actors": "Hungary",
+   "attribution": "UN Treaty Collection",
+   "description": "Hungary's notification was the twentieth, triggering entry into force six months later under CCW Art. 5(3).",
+   "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-2-a&chapter=26&clang=_en",
+   "locator": "Participant list"
+  },
+  {
+   "event": "Entry into force",
+   "date": "1998-07-30",
+   "effective_date": "1998-07-30",
+   "event_type": "Entry into force",
+   "actors": "Parties to Protocol IV",
+   "attribution": "UN Treaty Collection",
+   "description": "Entered into force in accordance with Art. 2 of the Additional Protocol and CCW Art. 5(3); registered the same day (No. 22495).",
+   "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-2-a&chapter=26&clang=_en",
+   "locator": "Entry into force; Registration"
+  },
+  {
+   "event": "Second CCW Review Conference",
+   "date": "2001-12-11",
+   "effective_date": null,
+   "event_type": "Review conference",
+   "actors": "CCW High Contracting Parties",
+   "attribution": "CCW review conference records",
+   "description": "Reviewed the Convention and its Protocols and adopted the amendment to CCW Art. 1 extending the scope of the Convention and its Protocols to non-international armed conflicts for parties bound by the amendment.",
+   "source_url": "https://press.un.org/en/2001/dc2810.doc.htm",
+   "locator": "UN press release DC/2810"
+  },
+  {
+   "event": "Third CCW Review Conference",
+   "date": "2006-11-07",
+   "effective_date": null,
+   "event_type": "Review conference",
+   "actors": "CCW High Contracting Parties",
+   "attribution": "CCW review conference records",
+   "description": "Reviewed the operation of the Convention and its annexed Protocols, including Protocol IV.",
+   "source_url": "https://unoda-documents-library.s3.amazonaws.com/Convention_on_Certain_Conventional_Weapons_-_Third_Review_Conference_%282006%29/CCW%2BCONF.III%2B11%2BPART%2BI%2BE.pdf",
+   "locator": "CCW/CONF.III/11 (Part I)"
+  },
+  {
+   "event": "United States notifies consent to be bound, with an understanding on Art. 2",
+   "date": "2009-01-21",
+   "effective_date": "2009-07-21",
+   "event_type": "Other",
+   "actors": "United States",
+   "attribution": "UN Treaty Collection",
+   "description": "The United States notified consent to be bound, with an understanding that decisions under Art. 2 are to be judged on the information reasonably available at the time. Effective date computed under CCW Art. 5(4) (six months).",
+   "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-2-a&chapter=26&clang=_en",
+   "locator": "Participant list; Declarations and Reservations"
+  },
+  {
+   "event": "Fourth CCW Review Conference",
+   "date": "2011-11-14",
+   "effective_date": null,
+   "event_type": "Review conference",
+   "actors": "CCW High Contracting Parties",
+   "attribution": "United States Mission to the UN in Geneva (statement of 25 November 2011); Arms Control Association",
+   "description": "Reviewed the operation of the Convention and its annexed Protocols, including Protocol IV.",
+   "source_url": "https://geneva.usmission.gov/2011/11/25/u-s-deeply-disappointed-by-ccws-failure-to-conclude-procotol-on-cluster-munitions/",
+   "locator": "US Mission Geneva statement, 25 November 2011; see also Arms Control Today, December 2011"
+  },
+  {
+   "event": "Fifth CCW Review Conference",
+   "date": "2016-12-12",
+   "effective_date": null,
+   "event_type": "Review conference",
+   "actors": "CCW High Contracting Parties",
+   "attribution": "CCW review conference records",
+   "description": "Reviewed the operation of the Convention and its annexed Protocols, including Protocol IV.",
+   "source_url": "https://docs-library.unoda.org/Convention_on_Certain_Conventional_Weapons_-_Fifth_Review_Conference_(2016)/FinalDocument_FifthCCWRevCon.pdf",
+   "locator": "CCW/CONF.V/10, Decision 1 and para. 49"
+  },
+  {
+   "event": "United States alleges Chinese laser injuries to US aircrew near Djibouti",
+   "date": "2018-05-03",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States; China",
+   "attribution": "US Department of Defense spokesperson Dana White",
+   "description": "The Pentagon stated that lasers from China's base in Djibouti had targeted US aircraft on several occasions, causing minor eye injuries to two C-130 pilots, and that the United States had lodged a demarche. The United States did not frame this as a Protocol IV violation; it is recorded for context on military laser use.",
+   "source_url": "https://www.defensenews.com/air/2018/05/03/two-us-airmen-injured-by-chinese-lasers-in-djibouti",
+   "locator": null
+  },
+  {
+   "event": "China rejects the Djibouti laser allegation",
+   "date": "2018-05-04",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "China",
+   "attribution": "Chinese Foreign Ministry spokesperson Hua Chunying (as reported by VOA)",
+   "description": "China's Foreign Ministry said that after careful checks the US accusations were inconsistent with the facts; China's Defense Ministry also called them false.",
+   "source_url": "https://www.globalsecurity.org/military/library/news/2018/05/mil-180504-voa01.htm",
+   "locator": null
+  },
+  {
+   "event": "Sixth CCW Review Conference",
+   "date": "2021-12-13",
+   "effective_date": null,
+   "event_type": "Review conference",
+   "actors": "CCW High Contracting Parties",
+   "attribution": "CCW review conference records",
+   "description": "Reviewed the operation of the Convention and its annexed Protocols, including Protocol IV.",
+   "source_url": "https://digitallibrary.un.org/record/3981774/files/CCW_CONF.VI_11-EN.pdf",
+   "locator": "CCW/CONF.VI/11"
+  },
+  {
+   "event": "Most recent consent to be bound (Trinidad and Tobago)",
+   "date": "2024-07-29",
+   "effective_date": "2025-01-29",
+   "event_type": "Other",
+   "actors": "Trinidad and Tobago",
+   "attribution": "UN Treaty Collection",
+   "description": "Latest notification on the status list as of 11 October 2026, bringing the number of parties to 111.",
+   "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-2-a&chapter=26&clang=_en",
+   "locator": "Participant list"
+  }
+ ],
+ "section_provisions_md": "### Scope and core prohibition\n- **Prohibition of use (Art. 1).** Parties may not employ laser weapons specifically designed, as their sole combat function or as one of their combat functions, to cause permanent blindness to unenhanced vision, meaning the naked eye or the eye with corrective eyesight devices.\n- **Prohibition of transfer (Art. 1).** Parties shall not transfer such weapons to any State or non-State entity.\n- The Protocol does not prohibit research, development, production or stockpiling, and contains no destruction obligation.\n\n### Precautions and exclusions\n- **Precautions (Art. 2).** In employing any laser system, parties must take all feasible precautions to avoid permanent blindness to unenhanced vision, including training of armed forces and other practical measures.\n- **Incidental blinding excluded (Art. 3).** Blinding as an incidental or collateral effect of legitimate military employment of laser systems, including lasers used against optical equipment, is outside the prohibition.\n- **Definition (Art. 4).** Permanent blindness is irreversible and uncorrectable loss of vision that is seriously disabling with no prospect of recovery, equivalent to visual acuity below 20/200 Snellen measured with both eyes.\n\n### Field of application\n- The Protocol applies in the situations covered by CCW Art. 1: international armed conflicts, extended to non-international armed conflicts for parties bound by the 2001 amendment to Art. 1.\n- Australia, Belgium, Ireland, the Netherlands, Sweden, the United Kingdom and others declared on consent that they will apply the Protocol in all circumstances or at all times.\n- The United States filed an understanding that decisions under Art. 2 are judged on the information reasonably available at the time.\n\n### Final clauses (derived from the CCW framework)\n- **Entry into force (Additional Protocol Art. 2; CCW Art. 5(3)-(4)).** Six months after twenty States notified consent; six months after notification for each later State.\n- **Participation (CCW Art. 4).** Only CCW parties may become bound; there was no signature stage.\n- **Duration and withdrawal (CCW Art. 9).** No fixed term. Denunciation by notice to the Depositary takes effect after one year, deferred if the party is then engaged in an armed conflict or occupation.\n- **Amendment and review (CCW Art. 8).** Amendments are proposed through the Depositary and adopted at a conference by the parties bound by the Protocol; review conferences consider the operation of all Protocols.\n- **Verification and enforcement.** None specified. There are no reporting, inspection, verification or dispute-settlement provisions in the Protocol.\n- **Depositary (CCW Art. 10).** The UN Secretary-General.\n",
+ "section_history_md": "### Origins\nSweden and Switzerland campaigned from the 1980s for a ban on anti-personnel blinding lasers, arguing that deliberate blinding causes unnecessary suffering. The ICRC convened expert meetings between 1989 and 1991, and the issue was placed before the First Review Conference of the CCW. Human Rights Watch and the ICRC reported that several states had developed prototype blinding laser systems by the mid-1990s.\n\n### Adoption and entry into force\nProtocol IV was adopted on 13 October 1995 at the Vienna session of the First Review Conference, pursuant to CCW Art. 8(3)(b). It was not opened for signature. Finland was the first State to notify consent (11 January 1996). Hungary's notification of 30 January 1998 was the twentieth, and the Protocol entered into force on 30 July 1998. The United States notified consent on 21 January 2009, with an understanding on Art. 2. As of 11 October 2026 the UN Treaty Collection lists 111 parties; the most recent are Singapore (2023) and Trinidad and Tobago (2024).\n\n### Review\nProtocol IV has no review mechanism of its own. Its operation has been considered at CCW review conferences in 2001, 2006, 2011, 2016 and 2021. The ICRC describes the Protocol as the first prohibition of a weapon before its battlefield use since the 1868 St Petersburg Declaration, and its customary IHL study (Rule 86) treats the prohibition of use as customary law.\n\n### Compliance\nNo party has, to available knowledge, formally alleged a violation of Protocol IV, and no denunciations are recorded. In May 2018 the US Department of Defense stated that lasers from China's base in Djibouti had caused minor eye injuries to two US C-130 pilots and lodged a demarche; China's Foreign Ministry said the accusations were inconsistent with the facts. That exchange concerned laser harassment and was not framed by either side as a Protocol IV matter.\n\n### Sources\n- [UN Treaty Collection, chapter XXVI-2-a (status and declarations)](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-2-a&chapter=26&clang=_en)\n- [UN certified true copy of the Additional Protocol](https://treaties.un.org/doc/Treaties/1995/10/19951013%2001-30%20AM/Ch_XXVI_02_ap.pdf)\n- [ICRC IHL database text of Protocol IV](https://ihl-databases.icrc.org/public/treaties/570-IHL-91-EN.pdf)\n- [UN certified true copy of the CCW (Arts. 4, 5, 8, 9, 10)](https://treaties.un.org/doc/Treaties/1983/12/19831202%2001-19%20AM/XXVI-2-revised.pdf)\n- [ICRC Customary IHL, Rule 86](https://ihl-databases.icrc.org/en/customary-ihl/v1/rule86)\n- [Defense News, 3 May 2018](https://www.defensenews.com/air/2018/05/03/two-us-airmen-injured-by-chinese-lasers-in-djibouti)\n- [VOA via GlobalSecurity, 4 May 2018](https://www.globalsecurity.org/military/library/news/2018/05/mil-180504-voa01.htm)\n",
+ "unverified": [
+  {
+   "field": "number_of_signatories",
+   "reason": "Not applicable rather than unknown: Protocol IV was never opened for signature; States become bound by notifying consent under CCW Art. 4. Null avoids implying zero signatures were sought."
+  },
+  {
+   "field": "events: CCW review conference dates (2001, 2006, 2011, 2016, 2021) and review_conferences_held",
+   "reason": "Resolved 11 Oct 2026: review-conference events now cite the conference final documents (CCW/CONF.III/11, CCW/CONF.V/10, CCW/CONF.VI/11), the UN press release for 2001 and the US Mission statement for 2011, shared with the CCW record."
+  },
+  {
+   "field": "historical_background / behavior_change (pre-1995 development programmes, Sweden-Switzerland initiative, ICRC expert meetings 1989-1991, ICRC 'first since 1868' characterization)",
+   "reason": "Resolved 11 Oct 2026 after Codex review: Sweden's 1987 position paper, the four ICRC expert meetings (June 1989 to April 1991) and the HRW Arms Project findings checked against Doswald-Beck, IRRC no. 312 (1996); the 'second time in history' characterization checked against the ICRC press release of 2 February 1998. The earlier claim that Switzerland campaigned for the laser ban was wrong (Switzerland proposed a separate small-calibre weapons protocol) and was removed."
+  },
+  {
+   "field": "events: effective dates for US (2009-07-21) and Trinidad and Tobago (2025-01-29)",
+   "reason": "Computed under CCW Art. 5(4) as six months after notification, not read from the depositary record."
+  }
+ ],
+ "corrections": [
+  "Type of Limitation lists Use, Development, Production, Stockpiling, Transfer, Testing and Deployment, and the page body says 'Complete prohibition, so all of the above'. The text prohibits only use and transfer (Art. 1) and requires precautions (Art. 2); development, production, stockpiling, testing and deployment are not restricted.",
+  "Quantitative Limits 'Zero (Complete Ban)' / body 'Yes - 0' is inaccurate: the Protocol sets no numerical limit and is not a complete ban.",
+  "Number of Signatories 159 is wrong: the Protocol was never opened for signature. The body's '# of Parties 159' is also wrong.",
+  "Number of Parties 109 is outdated: the UN Treaty Collection lists 111 parties as of 11 October 2026 (the page's own table already has 111 rows).",
+  "The 'Signatories & Dates' and 'Date Signed' fields contain dates of consent to be bound, not signatures.",
+  "Bosnia and Herzegovina's date is 11 October 2001 per UNTC, not 10 October 2001.",
+  "Uruguay's date is 18 September 1998 per UNTC, not 18 August 1998.",
+  "Montenegro became bound by succession (23 October 2006), not ratification.",
+  "Official name on the page ('Protocol on Blinding Laser Weapons (Protocol IV)') is the annexed protocol's title; the depositary title is 'Additional Protocol to the Convention ... (Protocol IV, entitled Protocol on Blinding Laser Weapons)'.",
+  "Enforcement Mechanisms 'Yes' and Dispute Resolution 'Yes' are not supported by the text; neither the Protocol nor the CCW contains enforcement or dispute-settlement clauses.",
+  "Reservations 'Allowed' is not supported: neither the Protocol nor the CCW addresses reservations. Parties filed declarations and one understanding (United States).",
+  "Word count 174 / article count 4 understate the instrument: the English Additional Protocol has 6 articles and 276 words (166 words in the operative body of Protocol IV Arts. 1-4).",
+  "Entry into force requirement '20 Ratifications' should read twenty notifications of consent to be bound, with entry into force six months later (CCW Art. 5(3)).",
+  "Extension provisions 'None' and Review Conference 'In Parent Treaty' are acceptable in substance but the duration, withdrawal and amendment rules should be stated as derived from CCW Arts. 8-9.",
+  "Compliance History 'Strong' is an unattributed verdict and should be replaced with attributed events.",
+  "For US President 'Bill Clinton' reflects the adoption date; US consent to be bound was notified on 21 January 2009."
+ ]
+}

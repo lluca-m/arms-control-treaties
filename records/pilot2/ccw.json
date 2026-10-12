@@ -1,0 +1,375 @@
+{
+ "instrument": {
+  "full_name": "Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons which may be deemed to be Excessively Injurious or to have Indiscriminate Effects",
+  "short_name": "CCW",
+  "record_type": "Instrument",
+  "instrument_form": "Treaty/Convention",
+  "legal_character": "Legally binding",
+  "instrument_status": "In force",
+  "negotiation_status": "Concluded",
+  "date_adopted": "1980-10-10",
+  "opened_for_signature": "1981-04-10",
+  "entry_into_force": "1983-12-02",
+  "date_ended": null,
+  "participation_structure": "Multilateral (open)",
+  "geographic_coverage": [],
+  "operating_environment": [
+   "Not specific"
+  ],
+  "weapon_families": [],
+  "legal_subject_matter": [
+   "Conduct of hostilities (IHL)"
+  ],
+  "signed_at": "United Nations Headquarters, New York (Art. 3)",
+  "adopted_at": "Geneva, Switzerland (United Nations Conference on Prohibitions or Restrictions of Use of Certain Conventional Weapons)",
+  "depositary": "Secretary-General of the United Nations (Art. 10)",
+  "number_of_parties": 128,
+  "number_of_signatories": 50,
+  "parties_as_of": "2026-10-11",
+  "key_non_parties": "Signatories that have not ratified: Egypt, Nigeria, Sudan and Viet Nam. States that have neither signed nor acceded include Iran, Syria, Indonesia, Thailand, Malaysia, Myanmar, the Democratic People's Republic of Korea, Ethiopia and Kenya. All five permanent members of the Security Council, India, Pakistan and Israel are parties (UN Treaty Collection, XXVI-2, as of 11 October 2026).",
+  "information_provisions": [
+   "Notifications"
+  ],
+  "inspection_access": [
+   "None"
+  ],
+  "monitoring_means_specified": [
+   "None specified"
+  ],
+  "institutional_oversight": "Depositary only",
+  "consultation_mechanism": "Review conferences only",
+  "reporting_requirements": "Not specified in text",
+  "enforcement": "Not specified in text",
+  "dispute_resolution": "Not specified in text",
+  "national_authority": "Not specified in text",
+  "technical_cooperation": "Not specified in text",
+  "third_party_roles": "Yes",
+  "reservations": "Not Specified",
+  "duration_type": "Not specified",
+  "duration_years": null,
+  "duration_clause": "The Convention contains no duration clause. It continues for each party until denunciation under Art. 9.",
+  "extension_type": "None stated",
+  "extension_clause": "No extension clause; none is needed because no term is fixed.",
+  "withdrawal_type": "Notice",
+  "withdrawal_notice_months": 12,
+  "withdrawal_clause": "Art. 9: any party may denounce the Convention or any annexed Protocol by notifying the Depositary. Denunciation takes effect one year after receipt, but if the denouncing party is then engaged in an armed conflict or occupation covered by Art. 1, it remains bound until the end of the conflict or occupation and the completion of release and repatriation of protected persons (and, for Protocols covering UN missions, until those functions end). Denunciation of the Convention applies to all annexed Protocols by which the party is bound, and does not affect obligations already incurred for prior acts.",
+  "amendment_procedure": "Other",
+  "amendment_clause": "Art. 8(1): any party may propose amendments to the Convention or to a Protocol by which it is bound. The Depositary convenes a conference if a majority, not less than eighteen parties, agrees. Amendments are adopted and enter into force in the same manner as the Convention (Art. 5: six months after the twentieth instrument); amendments to the Convention may be adopted only by its parties, and amendments to a Protocol only by parties bound by it. The text does not specify a voting rule; in practice conferences have adopted decisions by consensus. Art. 8(2) provides a parallel procedure for additional protocols on other categories of conventional weapons.",
+  "review_conferences": "Ad hoc / on request",
+  "review_interval_years": null,
+  "review_conferences_held": 6,
+  "entry_into_force_requirements": "Art. 5(1): six months after deposit of the twentieth instrument of ratification, acceptance, approval or accession; for later states, six months after their own deposit (Art. 5(2)). Under Art. 4(3), a state must, when it joins, notify its consent to be bound by at least two of the annexed Protocols. Each Protocol enters into force six months after twenty states have consented to it (Art. 5(3)-(4)). The Convention entered into force on 2 December 1983.",
+  "number_of_articles": 11,
+  "word_count": 2420,
+  "count_basis": "English authentic text of the framework Convention (title, preamble and Arts. 1-11), excluding the annexed Protocols, taken from the UN certified true copy (UNTC PDF, pages 25-32) by OCR and counted as whitespace-separated tokens; page numbers removed. Approximate (plus or minus about 1 percent for OCR noise). Operative Arts. 1-11 alone: about 1,955 words.",
+  "weapons_systems_limited": "None directly. The framework Convention restricts no weapon itself; it is an umbrella that sets scope, entry into force, review and denunciation rules for annexed Protocols (I-V), which carry the substantive restrictions and are separate records.",
+  "key_provisions": "Art. 1 (as concluded): applies to international armed conflicts under Art. 2 common to the 1949 Geneva Conventions and to situations in Art. 1(4) of Additional Protocol I (the 2001 amendment extending scope to non-international conflicts is a separate record). Art. 2: does not detract from other IHL obligations. Arts. 3-5: signature, ratification, entry into force; consent to at least two Protocols required (Art. 4(3)). Art. 6: dissemination of the Convention and Protocols, including in military instruction. Art. 7: treaty relations with non-parties and with authorities under Additional Protocol I Art. 96(3). Art. 8: amendments, additional protocols and review conferences. Art. 9: denunciation with one year's notice. Arts. 10-11: depositary and authentic texts.",
+  "behavior_change": "Limited at the framework level. The Convention's only operative conduct obligation is dissemination of its rules to armed forces and the public (Art. 6). Substantive behavioural constraints arise only through the Protocols a party accepts. The 2006 compliance mechanism decision added politically agreed annual national reporting on dissemination, legislation and technical measures.",
+  "historical_background": "Work on restricting specific conventional weapons grew out of ICRC expert conferences (Lucerne 1974, Lugano 1976) and the 1974-77 Diplomatic Conference that produced the Additional Protocols, which left weapon-specific rules unresolved. A United Nations conference met in Geneva from 10 to 28 September 1979 and from 15 September to 10 October 1980, and on 10 October 1980 adopted the Convention with Protocols I-III. The Convention was opened for signature in New York on 10 April 1981 and entered into force on 2 December 1983. Its modular design has since allowed new Protocols (IV in 1995, V in 2003) and a scope amendment (2001), and since 2014 it has hosted the international discussions on lethal autonomous weapons systems.",
+  "treaty_url": "https://treaties.un.org/doc/Treaties/1983/12/19831202%2001-19%20AM/XXVI-2-revised.pdf",
+  "source_quality": "Official text",
+  "related": [
+   {
+    "relation": "negotiated_alongside",
+    "target": "Protocol on Non-Detectable Fragments (Protocol I), 1980"
+   },
+   {
+    "relation": "negotiated_alongside",
+    "target": "Protocol on Prohibitions or Restrictions on the Use of Mines, Booby-Traps and Other Devices (Protocol II), 1980"
+   },
+   {
+    "relation": "negotiated_alongside",
+    "target": "Protocol on Prohibitions or Restrictions on the Use of Incendiary Weapons (Protocol III), 1980"
+   },
+   {
+    "relation": "produced_by",
+    "target": "Protocol on Blinding Laser Weapons (Protocol IV), 1995 (produced by the First Review Conference)"
+   },
+   {
+    "relation": "produced_by",
+    "target": "Amended Protocol II on Mines, Booby-Traps and Other Devices, 1996 (produced by the First Review Conference)"
+   },
+   {
+    "relation": "produced_by",
+    "target": "Amendment to Article 1 of the CCW, 2001 (produced by the Second Review Conference)"
+   },
+   {
+    "relation": "produced_by",
+    "target": "Protocol on Explosive Remnants of War (Protocol V), 2003 (adopted by the 2003 Meeting of States Parties)"
+   }
+  ]
+ },
+ "provisions": [
+  {
+   "provision": "Disseminate the Convention and accepted Protocols, including in military instruction",
+   "article": "Art. 6",
+   "weapon_activity": [],
+   "restriction_type": "Notification or transparency",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "",
+   "geographic_scope": "Each party's territory; applies in peace and in armed conflict",
+   "exceptions": "Applies only to Protocols by which the party is bound",
+   "effective_from": "1983-12-02",
+   "effective_until": null,
+   "text_or_paraphrase": "\"The High Contracting Parties undertake, in time of peace as in time of armed conflict, to disseminate this Convention and those of its annexed Protocols by which they are bound as widely as possible in their respective countries and, in particular, to include the study thereof in their programmes of military instruction, so that those instruments may become known to their armed forces.\"",
+   "source_url": "https://treaties.un.org/doc/Treaties/1983/12/19831202%2001-19%20AM/XXVI-2-revised.pdf",
+   "locator": "Art. 6, UNTC certified copy PDF p. 28"
+  },
+  {
+   "provision": "Consent to be bound by at least two annexed Protocols on joining",
+   "article": "Art. 4(3)",
+   "weapon_activity": [],
+   "restriction_type": "Other",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "Applies to every state at the time it joins",
+   "geographic_scope": "Not applicable",
+   "exceptions": "Further Protocols may be accepted at any time (Art. 4(4))",
+   "effective_from": "1983-12-02",
+   "effective_until": null,
+   "text_or_paraphrase": "A state must, when depositing its instrument of ratification, acceptance, approval or accession, notify the Depositary of its consent to be bound by any two or more of the annexed Protocols.",
+   "source_url": "https://treaties.un.org/doc/Treaties/1983/12/19831202%2001-19%20AM/XXVI-2-revised.pdf",
+   "locator": "Art. 4(3)"
+  }
+ ],
+ "events": [
+  {
+   "event": "UN Conference on certain conventional weapons, first session",
+   "date": "1979-09-10",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "85 states participated across both sessions (82 in 1979)",
+   "attribution": "Final Act of the Conference",
+   "description": "First session of the United Nations Conference on Prohibitions or Restrictions of Use of Certain Conventional Weapons, Palais des Nations, Geneva, 10-28 September 1979.",
+   "source_url": "https://hrlibrary.umn.edu/instree/1980a.htm",
+   "locator": "Final Act, paras. on sessions"
+  },
+  {
+   "event": "UN Conference, second session",
+   "date": "1980-09-15",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "76 states participated in 1980",
+   "attribution": "Final Act of the Conference",
+   "description": "Second session, Geneva, 15 September to 10 October 1980.",
+   "source_url": "https://hrlibrary.umn.edu/instree/1980a.htm",
+   "locator": "Final Act"
+  },
+  {
+   "event": "Convention adopted in Geneva",
+   "date": "1980-10-10",
+   "effective_date": null,
+   "event_type": "Adoption",
+   "actors": "UN Conference",
+   "attribution": "UN Treaty Collection; Final Act",
+   "description": "The Conference adopted the Convention together with Protocols I, II and III.",
+   "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-2&chapter=26&clang=_en",
+   "locator": "Header: Concluded at Geneva on 10 October 1980"
+  },
+  {
+   "event": "Opened for signature in New York",
+   "date": "1981-04-10",
+   "effective_date": null,
+   "event_type": "Opening for signature",
+   "actors": "All states",
+   "attribution": "Treaty text, Art. 3",
+   "description": "Opened for signature at UN Headquarters for twelve months from 10 April 1981; 50 states signed.",
+   "source_url": "https://treaties.un.org/doc/Treaties/1983/12/19831202%2001-19%20AM/XXVI-2-revised.pdf",
+   "locator": "Art. 3"
+  },
+  {
+   "event": "Entry into force",
+   "date": "1983-12-02",
+   "effective_date": null,
+   "event_type": "Entry into force",
+   "actors": "First twenty parties",
+   "attribution": "UN Treaty Collection",
+   "description": "Entered into force under Art. 5(1) and (3), six months after the twentieth instrument; registered the same day, UNTS No. 22495.",
+   "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-2&chapter=26&clang=_en",
+   "locator": "Entry into force line"
+  },
+  {
+   "event": "First Review Conference",
+   "date": "1995-09-25",
+   "effective_date": "1996-05-03",
+   "event_type": "Review conference",
+   "actors": "High Contracting Parties",
+   "attribution": "Final Document CCW/CONF.I/16",
+   "description": "Held in Vienna, 25 September to 13 October 1995, and resumed in Geneva 15-19 January and 22 April to 3 May 1996. Adopted Protocol IV on blinding laser weapons (13 October 1995) and Amended Protocol II on mines (3 May 1996), both separate records.",
+   "source_url": "https://treaties.un.org/doc/source/docs/CCW_CONF.I_16_Part%20I-E.pdf",
+   "locator": "CCW/CONF.I/16 Part I"
+  },
+  {
+   "event": "Second Review Conference",
+   "date": "2001-12-11",
+   "effective_date": "2001-12-21",
+   "event_type": "Review conference",
+   "actors": "High Contracting Parties",
+   "attribution": "UN press release DC/2810",
+   "description": "Held in Geneva, 11-21 December 2001. Adopted the amendment to Art. 1 and established a Group of Governmental Experts to address explosive remnants of war and other issues, including compliance.",
+   "source_url": "https://press.un.org/en/2001/dc2810.doc.htm",
+   "locator": "Press release"
+  },
+  {
+   "event": "Amendment to Article 1 adopted",
+   "date": "2001-12-21",
+   "effective_date": null,
+   "event_type": "Amendment adopted",
+   "actors": "Second Review Conference",
+   "attribution": "UN Treaty Collection XXVI-2-c",
+   "description": "Amendment extending the Convention and its Protocols to non-international armed conflicts (separate record).",
+   "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-2-c&chapter=26&clang=_en",
+   "locator": "Header"
+  },
+  {
+   "event": "Meeting of States Parties adopts Protocol V",
+   "date": "2003-11-28",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Meeting of States Parties",
+   "attribution": "UN Geneva press release",
+   "description": "The Meeting of States Parties adopted the Protocol on Explosive Remnants of War (Protocol V, separate record), negotiated by the Group of Governmental Experts in 2002-2003.",
+   "source_url": "https://ungeneva.org/zh/news-media/press-release/2007/11/ccw-protocol-explosive-remnants-war-leaps-action",
+   "locator": "Press release"
+  },
+  {
+   "event": "Amendment to Article 1 enters into force",
+   "date": "2004-05-18",
+   "effective_date": null,
+   "event_type": "Amendment in force",
+   "actors": "Accepting parties",
+   "attribution": "UN Treaty Collection XXVI-2-c",
+   "description": "Entered into force for accepting states under Art. 8(1)(b); 90 parties as of 11 October 2026.",
+   "source_url": "https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-2-c&chapter=26&clang=_en",
+   "locator": "Entry into force line"
+  },
+  {
+   "event": "Third Review Conference",
+   "date": "2006-11-07",
+   "effective_date": "2006-11-17",
+   "event_type": "Review conference",
+   "actors": "High Contracting Parties",
+   "attribution": "Final Document CCW/CONF.III/11; UNODA",
+   "description": "Held in Geneva, 7-17 November 2006. Adopted a Decision on a Compliance Mechanism applicable to the Convention and its annexed Protocols, a plan of action on universalization and a sponsorship programme.",
+   "source_url": "https://unoda-documents-library.s3.amazonaws.com/Convention_on_Certain_Conventional_Weapons_-_Third_Review_Conference_%282006%29/CCW%2BCONF.III%2B11%2BPART%2BI%2BE.pdf",
+   "locator": "CCW/CONF.III/11 (Part I)"
+  },
+  {
+   "event": "Compliance mechanism decision",
+   "date": "2006-11-17",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Third Review Conference",
+   "attribution": "UNODA",
+   "description": "Parties undertook to consult and cooperate bilaterally, through the Secretary-General or other voluntary procedures on compliance concerns, and to report on dissemination, technical requirements, legislation and technical cooperation.",
+   "source_url": "https://unoda-documents-library.s3.amazonaws.com/Convention_on_Certain_Conventional_Weapons_-_Third_Review_Conference_%282006%29/CCW%2BCONF.III%2B11%2BPART%2BI%2BE.pdf",
+   "locator": "CCW/CONF.III/11 (Part I), adopted 17 November 2006"
+  },
+  {
+   "event": "Implementation Support Unit established",
+   "date": "2009-11-13",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Meeting of High Contracting Parties",
+   "attribution": "UNODA; CCW/MSP/2009/5 paras. 34-37",
+   "description": "The 12-13 November 2009 meeting established an Implementation Support Unit within the UNODA Geneva Branch.",
+   "source_url": "https://disarmament.unoda.org/the-convention-on-certain-conventional-weapons/ccw-implementation-support-unit",
+   "locator": "ISU page"
+  },
+  {
+   "event": "Fourth Review Conference",
+   "date": "2011-11-14",
+   "effective_date": "2011-11-25",
+   "event_type": "Review conference",
+   "actors": "High Contracting Parties",
+   "attribution": "United States Mission to the UN in Geneva (statement of 25 November 2011); Arms Control Association",
+   "description": "Held in Geneva, 14-25 November 2011. Failed to reach consensus on a draft Protocol VI on cluster munitions. Set 31 March as the annual deadline for compliance-mechanism reports.",
+   "source_url": "https://geneva.usmission.gov/2011/11/25/u-s-deeply-disappointed-by-ccws-failure-to-conclude-procotol-on-cluster-munitions/",
+   "locator": "US Mission Geneva statement, 25 November 2011; see also Arms Control Today, December 2011"
+  },
+  {
+   "event": "Fifth Review Conference",
+   "date": "2016-12-12",
+   "effective_date": "2016-12-16",
+   "event_type": "Review conference",
+   "actors": "High Contracting Parties",
+   "attribution": "Fifth Review Conference, Final Document (CCW/CONF.V/10), Decision 1",
+   "description": "Held in Geneva, 12-16 December 2016. On 16 December established an open-ended Group of Governmental Experts on emerging technologies in the area of lethal autonomous weapons systems.",
+   "source_url": "https://docs-library.unoda.org/Convention_on_Certain_Conventional_Weapons_-_Fifth_Review_Conference_(2016)/FinalDocument_FifthCCWRevCon.pdf",
+   "locator": "CCW/CONF.V/10, Decision 1 and para. 49"
+  },
+  {
+   "event": "Arms Control Association reports meetings cancelled for lack of funds",
+   "date": null,
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "High Contracting Parties; Implementation Support Unit",
+   "attribution": "Reported by the Arms Control Association (Arms Control Today, July/August 2017)",
+   "description": "The Arms Control Association reported that unpaid assessed contributions, most notably by Brazil, led to cancellation of an August 2017 expert meeting and to cuts in other CCW activities. Date is the month of the report.",
+   "source_url": "https://www.armscontrol.org/act/2017-07/news-briefs/money-woes-curtail-killer-robot-talks",
+   "locator": "July/August 2017 news brief",
+   "date_precision": "Month",
+   "date_as_reported": "July 2017 (date of report)"
+  },
+  {
+   "event": "Sixth Review Conference",
+   "date": "2021-12-13",
+   "effective_date": "2021-12-17",
+   "event_type": "Review conference",
+   "actors": "High Contracting Parties",
+   "attribution": "UNODA meetings place; CCW/CONF.VI/11",
+   "description": "Held in Geneva, 13-17 December 2021, chaired by Ambassador Yann Hwang (France). Considered the future work of the GGE on lethal autonomous weapons systems, including its estimated costs for 2022.",
+   "source_url": "https://digitallibrary.un.org/record/3981774/files/CCW_CONF.VI_11-EN.pdf",
+   "locator": "CCW/CONF.VI/11"
+  },
+  {
+   "event": "Preparatory Committee for the Seventh Review Conference",
+   "date": "2026-09-07",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "High Contracting Parties",
+   "attribution": "Reaching Critical Will",
+   "description": "Met 7-9 September 2026 to prepare the Seventh Review Conference, scheduled for 16-20 November 2026 in Geneva (not yet held as of 11 October 2026).",
+   "source_url": "https://reachingcriticalwill.org/disarmament-fora/ccw/2026/revcon",
+   "locator": "2026 RevCon page"
+  }
+ ],
+ "section_provisions_md": "### Nature of the instrument\n- The Convention is a framework treaty. It contains no substantive weapons restrictions of its own; those are set out in the annexed Protocols (I-V), which are separate records.\n- Any Protocol a party accepts \"shall for that Party form an integral part of this Convention\" (Art. 4(5)).\n\n### Scope (Arts. 1, 2 and 7)\n- As concluded, the Convention and its Protocols apply in international armed conflicts under Art. 2 common to the 1949 Geneva Conventions, including wars of national liberation described in Art. 1(4) of Additional Protocol I (Art. 1). The 2001 amendment extending scope to non-international armed conflicts is a separate record.\n- Nothing in the Convention detracts from other obligations under international humanitarian law (Art. 2).\n- Parties bound by a Protocol remain bound in their mutual relations even if another party to the conflict is not (Art. 7(1)), and are bound towards a non-party that accepts and applies the Convention or Protocol and notifies the Depositary (Art. 7(2)).\n- Art. 7(4) lets an authority of the type in Additional Protocol I Art. 96(3) accept and apply the Convention in a conflict against a party.\n\n### Joining and entry into force (Arts. 3-5)\n- Open for signature in New York for twelve months from 10 April 1981; thereafter by accession (Arts. 3-4).\n- A joining state must consent to at least two annexed Protocols (Art. 4(3)) and may accept others later (Art. 4(4)).\n- Entry into force six months after the twentieth instrument; Protocols separately after twenty consents (Art. 5).\n\n### Conduct obligation\n- Dissemination: parties must disseminate the Convention and their accepted Protocols in peace and war and include them in military instruction (Art. 6).\n\n### Review, amendment and additional protocols (Art. 8)\n- Amendments to the Convention or a Protocol: a conference is convened if a majority of not less than eighteen parties agrees; amendments enter into force like the Convention (Art. 8(1)).\n- Additional protocols on other categories of conventional weapons may be adopted by a conference open to all states (Art. 8(2)).\n- If no conference is held within ten years of entry into force, any party may request a review conference (Art. 8(3)). Since 1995 parties have in practice convened review conferences about every five years.\n\n### Denunciation, depositary and texts (Arts. 9-11)\n- Denunciation takes effect one year after notice, deferred while the party is engaged in an Art. 1 conflict or occupation; it covers all Protocols the party has accepted (Art. 9).\n- The UN Secretary-General is Depositary (Art. 10). Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic (Art. 11).\n\n### Later decisions (not treaty text)\n- The 2006 Third Review Conference adopted a compliance mechanism: consultation and cooperation on compliance concerns, and national reports on dissemination, legislation, technical measures and cooperation. The 2011 Fourth Review Conference set 31 March as the annual reporting deadline.\n- The text contains no verification, inspection, enforcement or dispute-settlement provisions.\n",
+ "section_history_md": "### Origins and negotiation\nWeapon-specific restrictions were left unresolved by the 1974-77 Diplomatic Conference that produced the Additional Protocols to the Geneva Conventions, after preparatory ICRC expert conferences at Lucerne (1974) and Lugano (1976). A United Nations conference met in Geneva from 10 to 28 September 1979 and from 15 September to 10 October 1980. On 10 October 1980 it adopted the Convention with Protocols I (non-detectable fragments), II (mines and booby-traps) and III (incendiary weapons).\n\n### Entry into force and participation\nThe Convention opened for signature in New York on 10 April 1981 and 50 states signed. It entered into force on 2 December 1983 and was registered as UNTS No. 22495 (vol. 1342). As of 11 October 2026 the UN Treaty Collection lists 128 parties. Egypt, Nigeria, Sudan and Viet Nam have signed but not ratified. Trinidad and Tobago (29 July 2024) is the most recent accession.\n\n### Review conferences and development\n- First Review Conference (Vienna, 25 September to 13 October 1995; Geneva, January and April-May 1996): adopted Protocol IV on blinding lasers and Amended Protocol II.\n- Second Review Conference (Geneva, 11-21 December 2001): amended Art. 1 to cover non-international armed conflicts (in force 18 May 2004) and launched the expert work that produced Protocol V, adopted by the Meeting of States Parties on 28 November 2003.\n- Third Review Conference (Geneva, 7-17 November 2006): adopted the compliance mechanism, a universalization plan and a sponsorship programme. An Implementation Support Unit followed in November 2009.\n- Fourth Review Conference (Geneva, 14-25 November 2011): did not reach consensus on a draft Protocol VI on cluster munitions.\n- Fifth Review Conference (Geneva, 12-16 December 2016): established a Group of Governmental Experts on lethal autonomous weapons systems.\n- Sixth Review Conference (Geneva, 13-17 December 2021): considered the continuation of that work.\n- The Seventh Review Conference is scheduled for 16-20 November 2026 in Geneva, after a Preparatory Committee on 7-9 September 2026. It had not yet met at the time of coding.\n\n### Compliance and operation\nThe framework text has no verification or enforcement machinery, and no formal compliance finding has been made under it. Allegations about particular weapons (for example incendiary weapons or mines) concern the Protocols and are recorded there. Operational strain has been financial: the Arms Control Association reported in 2017 that unpaid assessments, most notably by Brazil, forced cancellation of meetings.\n\n### Sources\n- [UN Treaty Collection, chapter XXVI-2 (status)](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-2&chapter=26&clang=_en)\n- [Certified true copy of the Convention (UNTC PDF)](https://treaties.un.org/doc/Treaties/1983/12/19831202%2001-19%20AM/XXVI-2-revised.pdf)\n- [UN Treaty Collection, Amendment to Article 1 (XXVI-2-c)](https://treaties.un.org/Pages/ViewDetails.aspx?src=TREATY&mtdsg_no=XXVI-2-c&chapter=26&clang=_en)\n- [Final Act of the 1979-80 Conference (reproduction)](https://hrlibrary.umn.edu/instree/1980a.htm)\n- [First Review Conference Final Document, CCW/CONF.I/16](https://treaties.un.org/doc/source/docs/CCW_CONF.I_16_Part%20I-E.pdf)\n- [UN press release on the Second Review Conference](https://press.un.org/en/2001/dc2810.doc.htm)\n- [UNODA, CCW compliance mechanism](https://www.unoda.org/es/ccw-compliance/ccw-compliance-mechanism)\n- [UNODA, CCW Implementation Support Unit](https://disarmament.unoda.org/the-convention-on-certain-conventional-weapons/ccw-implementation-support-unit)\n- [Arms Control Association on the 2011 Review Conference](https://armscontrol.org/act/2011_10/Cluster_Bomb_Protocol_Status_Uncertain)\n- [Reaching Critical Will on the Fifth Review Conference](https://reachingcriticalwill.org/news/latest-news/11351-fifth-ccw-review-conference-begins-in-geneva)\n- [UNODA, Sixth Review Conference](https://meetings.unoda.org/meeting/57889)\n- [Reaching Critical Will, Seventh Review Conference](https://reachingcriticalwill.org/disarmament-fora/ccw/2026/revcon)\n- [Arms Control Association on 2017 funding shortfall](https://www.armscontrol.org/act/2017-07/news-briefs/money-woes-curtail-killer-robot-talks)\n",
+ "unverified": [
+  {
+   "field": "events: 2003 compliance mechanism decision",
+   "reason": "The task named a 2003 compliance mechanism decision, but UNODA states the compliance mechanism was established by the Third Review Conference in 2006. No 2003 compliance decision was found; the 2003 Meeting of States Parties is recorded only for adopting Protocol V. Whether that meeting also took a procedural decision on compliance work was not verified."
+  },
+  {
+   "field": "word_count",
+   "reason": "Derived by OCR of the scanned certified copy; approximate, not an exact count of a digital text."
+  },
+  {
+   "field": "historical_background (Lucerne 1974, Lugano 1976 conferences)",
+   "reason": "Drawn from standard ICRC and scholarly accounts; not checked against a primary document in this pass."
+  },
+  {
+   "field": "events: Sixth Review Conference outcome on LAWS mandate",
+   "reason": "Dates and chair verified; the exact wording of the GGE renewal in CCW/CONF.VI/11 was not read."
+  },
+  {
+   "field": "events: Fourth Review Conference 31 March reporting deadline",
+   "reason": "Stated by UNODA compliance page; the Fourth Review Conference final document itself was not read."
+  }
+ ],
+ "corrections": [
+  "Treaty Name (Full) reads 'CCW Framework Convention'; the official title is 'Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons which may be deemed to be Excessively Injurious or to have Indiscriminate Effects'. The page body's 'Convention on Certain Conventional Weapons' is the common name, not the official one.",
+  "Number of Parties is 126; the UN Treaty Collection lists 128 as of 11 October 2026 (recent accessions include Malawi 2022, Singapore 2023, Trinidad and Tobago 2024).",
+  "Number of Signatories is 51; the UN Treaty Collection lists 50.",
+  "Date Entered into Force is empty; it is 2 December 1983 (Art. 5(1)).",
+  "Signed at is empty; signature was at UN Headquarters, New York (Art. 3). Depositary (UN Secretary-General) is empty.",
+  "The page body's entry-into-force note ('must sign on to at least two of the convention's protocols') misstates Art. 4(3): states must notify consent to be bound by at least two Protocols when they ratify or accede; it is a condition of joining, not an entry-into-force requirement for the Convention, which entered into force six months after the twentieth instrument (Art. 5(1)).",
+  "Treaty URL points to a UNODA overview page, not the official text; replaced with the UNTC certified true copy.",
+  "Verification, enforcement and dispute resolution are recorded as 'None'. The text is silent ('Not specified in text'); the 2006 compliance mechanism decision adds consultation and national reporting outside the treaty text.",
+  "Type tag 'Conventional' is acceptable, but the subject matter is conduct of hostilities (IHL); the framework itself limits no specific weapon."
+ ]
+}

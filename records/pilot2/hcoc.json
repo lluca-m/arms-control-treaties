@@ -1,0 +1,553 @@
+{
+ "instrument": {
+  "full_name": "Hague Code of Conduct against Ballistic Missile Proliferation",
+  "short_name": "HCoC (adopted as the ICOC)",
+  "record_type": "Instrument",
+  "instrument_form": "Code of Conduct",
+  "legal_character": "Politically binding",
+  "instrument_status": "In force",
+  "negotiation_status": "Concluded",
+  "date_adopted": "2002-11-25",
+  "opened_for_signature": null,
+  "entry_into_force": null,
+  "date_ended": null,
+  "participation_structure": "Multilateral (open)",
+  "geographic_coverage": [],
+  "operating_environment": [
+   "Not specific"
+  ],
+  "weapon_families": [
+   "Missiles & delivery systems"
+  ],
+  "legal_subject_matter": [
+   "Nonproliferation",
+   "Risk reduction & CBMs",
+   "Arms limitation & disarmament"
+  ],
+  "signed_at": null,
+  "adopted_at": "The Hague, Netherlands (launching conference hosted by the Netherlands)",
+  "depositary": "None. The Code has no depositary. Austria (Federal Ministry for European and International Affairs) serves as the Immediate Central Contact (Executive Secretariat), which receives and announces new subscriptions and circulates confidence-building submissions (Sec. 5(c)).",
+  "number_of_parties": 145,
+  "number_of_signatories": null,
+  "parties_as_of": "2026-05-29",
+  "key_non_parties": "Subscribing states, not parties: the Code is politically binding and states subscribe by note verbale to the Immediate Central Contact. Not on the official list of subscribing states (January 2024 update, count unchanged at 145 per the May 2026 press release): China, Pakistan, Iran, Israel, the Democratic People's Republic of Korea, Egypt, Saudi Arabia, Syria, the United Arab Emirates, Brazil, Indonesia, Algeria, Cuba, Mexico, Malaysia, Thailand and Viet Nam, among others. India subscribed on 1 June 2016. China, India, Israel and Pakistan attended the Madrid negotiating session of June 2002; Iran attended the Paris session but not Madrid.",
+  "information_provisions": [
+   "Declarations & data exchange",
+   "Notifications",
+   "Periodic reports"
+  ],
+  "inspection_access": [
+   "Voluntary observation"
+  ],
+  "monitoring_means_specified": [
+   "None specified"
+  ],
+  "institutional_oversight": "Treaty body or commission",
+  "consultation_mechanism": "Consultative meetings",
+  "reporting_requirements": "Yes",
+  "enforcement": "Not specified in text",
+  "dispute_resolution": "Not specified in text",
+  "national_authority": "Not specified in text",
+  "technical_cooperation": "Not specified in text",
+  "third_party_roles": "Yes",
+  "reservations": "Not Specified",
+  "duration_type": "Not specified",
+  "duration_years": null,
+  "duration_clause": "The Code contains no duration clause.",
+  "extension_type": "None stated",
+  "extension_clause": "None stated.",
+  "withdrawal_type": "None stated",
+  "withdrawal_notice_months": null,
+  "withdrawal_clause": "None stated. Participation is voluntary (Sec. 2(d)); the text sets no procedure for ceasing to subscribe.",
+  "amendment_procedure": "Consensus",
+  "amendment_clause": "Sec. 5(c): the regular meetings may agree 'possible amendments to the Code'. Sec. 5(b): all decisions, substantive and procedural, are taken by consensus of the Subscribing States present.",
+  "review_conferences": "None",
+  "review_interval_years": null,
+  "review_conferences_held": 0,
+  "entry_into_force_requirements": "None. As a politically binding code it took effect on adoption at the launching conference in The Hague on 25 November 2002. A state joins by sending a note verbale to the Immediate Central Contact in Vienna (Sec. 5(c); A/57/724, letter of 11 January 2003).",
+  "number_of_articles": 5,
+  "word_count": 1059,
+  "count_basis": "English text of the Code as published on hcoc.at (identical in substance to the enclosure to UN doc. A/57/724): preamble plus five numbered sections (1 adoption, 2 Principles, 3 General Measures, 4 confidence-building and transparency measures, 5 Organisational aspects). Word count is a whitespace token count from 'Preamble' through the final clause of Sec. 5, excluding the covering letters and the annexed list of subscribing states; the web version omits the section numerals.",
+  "weapons_systems_limited": "Ballistic missiles capable of delivering weapons of mass destruction; space launch vehicle programmes are covered by transparency and vigilance commitments. There are no numerical limits, and cruise missiles are not covered.",
+  "key_provisions": "Sec. 2: principles, including that participation is voluntary and open to all states (2(d)) and that space launch vehicle programmes should not conceal ballistic missile programmes (2(g)). Sec. 3: general measures, namely adherence to the 1967 Outer Space Treaty, 1972 Liability Convention and 1975 Registration Convention (3(a)); curbing proliferation (3(b)); maximum possible restraint in the development, testing and deployment of WMD-capable ballistic missiles and, where possible, reduction of national holdings (3(c)); vigilance in assisting foreign space launch vehicle programmes (3(d)); no assistance to ballistic missile programmes of states that might be developing or acquiring WMD in contravention of their obligations (3(e)). Sec. 4: annual declarations of ballistic missile and space launch vehicle policies and annual launch data (4(a)(i)-(ii)); voluntary invitation of international observers to launch sites (4(a)(ii)); pre-launch notifications (4(a)(iii)); confidence-building measures do not justify the programmes concerned (4(c)). Sec. 5: annual regular meetings, decisions by consensus, an immediate central contact and possible amendments.",
+  "behavior_change": "Mixed. The core new behaviour is transparency: subscribing states committed to file annual declarations on ballistic missile and space launch vehicle policies and to exchange pre-launch notifications, which most had not done multilaterally before. The restraint and non-assistance commitments (Sec. 3(c), 3(e)) are qualified ('maximum possible restraint', 'where possible') and set no limits, so they largely codify forbearance rather than require changes in existing missile holdings.",
+  "historical_background": "The Code originated in the Missile Technology Control Regime, whose partners issued a draft International Code of Conduct at their Helsinki plenary in October 2000 and agreed at the Ottawa plenary in September 2001 to open its negotiation to non-members. At a meeting in Paris in February 2002, more than 80 states agreed on a revised draft with looser language ('obligations' became 'general measures'), and delegations from nearly 100 states continued negotiations in Madrid on 17-19 June 2002. The Code was adopted at a launching conference hosted by the Netherlands in The Hague on 25 November 2002; the subscribing states made the Netherlands the first Chair, named Austria the Immediate Central Contact, and renamed the instrument The Hague Code of Conduct. The UN General Assembly has supported it in successive resolutions since resolution 59/91 of 2004.",
+  "treaty_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+  "source_quality": "Official text",
+  "related": [
+   {
+    "relation": "produced_by",
+    "target": "Missile Technology Control Regime (MTCR)"
+   }
+  ]
+ },
+ "provisions": [
+  {
+   "provision": "Adhere to the three core outer space treaties",
+   "article": "Sec. 3(a)",
+   "weapon_activity": [
+    "Missiles & delivery systems",
+    "Space & orbital weapons"
+   ],
+   "restriction_type": "Other",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All Subscribing States (political commitment)",
+   "geographic_scope": "Worldwide",
+   "exceptions": null,
+   "effective_from": "2002-11-25",
+   "effective_until": null,
+   "text_or_paraphrase": "To ratify, accede to or otherwise abide by the Outer Space Treaty (1967), the Liability Convention (1972) and the Registration Convention (1975).",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+   "locator": "A/57/724, enclosure, Sec. 3(a)"
+  },
+  {
+   "provision": "Curb and prevent ballistic missile proliferation",
+   "article": "Sec. 3(b)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All Subscribing States (political commitment)",
+   "geographic_scope": "Worldwide",
+   "exceptions": null,
+   "effective_from": "2002-11-25",
+   "effective_until": null,
+   "text_or_paraphrase": "To curb and prevent the proliferation of Ballistic Missiles capable of delivering weapons of mass destruction, both at a global and regional level, through multilateral, bilateral and national endeavours.",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+   "locator": "A/57/724, enclosure, Sec. 3(b)"
+  },
+  {
+   "provision": "Restraint in development, testing and deployment of WMD-capable ballistic missiles",
+   "article": "Sec. 3(c)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All Subscribing States (political commitment)",
+   "geographic_scope": "Worldwide",
+   "exceptions": "Qualified commitment ('maximum possible restraint'); no limits specified.",
+   "effective_from": "2002-11-25",
+   "effective_until": null,
+   "text_or_paraphrase": "To exercise maximum possible restraint in the development, testing and deployment of Ballistic Missiles capable of delivering weapons of mass destruction.",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+   "locator": "A/57/724, enclosure, Sec. 3(c)"
+  },
+  {
+   "provision": "Reduce national holdings of WMD-capable ballistic missiles where possible",
+   "article": "Sec. 3(c)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Reduction or elimination",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All Subscribing States (political commitment)",
+   "geographic_scope": "Worldwide",
+   "exceptions": "Conditional ('where possible'); no quantity or timetable.",
+   "effective_from": "2002-11-25",
+   "effective_until": null,
+   "text_or_paraphrase": "Including, where possible, to reduce national holdings of such missiles, in the interest of global and regional peace and security.",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+   "locator": "A/57/724, enclosure, Sec. 3(c)"
+  },
+  {
+   "provision": "Vigilance in assisting foreign space launch vehicle programmes",
+   "article": "Sec. 3(d)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All Subscribing States (political commitment)",
+   "geographic_scope": "Worldwide",
+   "exceptions": null,
+   "effective_from": "2002-11-25",
+   "effective_until": null,
+   "text_or_paraphrase": "To exercise the necessary vigilance in the consideration of assistance to Space Launch Vehicle programmes in any other country so as to prevent contributing to delivery systems for weapons of mass destruction.",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+   "locator": "A/57/724, enclosure, Sec. 3(d)"
+  },
+  {
+   "provision": "No assistance to ballistic missile programmes of WMD-seeking states",
+   "article": "Sec. 3(e)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Prohibit transfer",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All Subscribing States (political commitment)",
+   "geographic_scope": "Worldwide",
+   "exceptions": null,
+   "effective_from": "2002-11-25",
+   "effective_until": null,
+   "text_or_paraphrase": "Not to contribute to, support or assist any Ballistic Missile programme in countries which might be developing or acquiring weapons of mass destruction in contravention of norms established by, and of those countries' obligations under, international disarmament and non-proliferation treaties.",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+   "locator": "A/57/724, enclosure, Sec. 3(e)"
+  },
+  {
+   "provision": "Annual declaration of ballistic missile policies",
+   "article": "Sec. 4(a)(i)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Notification or transparency",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All Subscribing States (political commitment)",
+   "geographic_scope": "Worldwide",
+   "exceptions": null,
+   "effective_from": "2002-11-25",
+   "effective_until": null,
+   "text_or_paraphrase": "Make an annual declaration providing an outline of their Ballistic Missile policies; examples of openness might include information on ballistic missile systems and land (test-) launch sites.",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+   "locator": "A/57/724, enclosure, Sec. 4(a)(i)"
+  },
+  {
+   "provision": "Annual information on ballistic missiles launched",
+   "article": "Sec. 4(a)(i)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Notification or transparency",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All Subscribing States (political commitment)",
+   "geographic_scope": "Worldwide",
+   "exceptions": null,
+   "effective_from": "2002-11-25",
+   "effective_until": null,
+   "text_or_paraphrase": "Provide annual information on the number and generic class of Ballistic Missiles launched during the preceding year, as declared under the pre-launch notification mechanism.",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+   "locator": "A/57/724, enclosure, Sec. 4(a)(i)"
+  },
+  {
+   "provision": "Annual declaration of space launch vehicle policies and launch sites",
+   "article": "Sec. 4(a)(ii)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Notification or transparency",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All Subscribing States (political commitment)",
+   "geographic_scope": "Worldwide",
+   "exceptions": "Consistent with commercial and economic confidentiality principles.",
+   "effective_from": "2002-11-25",
+   "effective_until": null,
+   "text_or_paraphrase": "With respect to expendable Space Launch Vehicle programmes, and consistent with commercial and economic confidentiality principles, make an annual declaration outlining Space Launch Vehicle policies and land (test-) launch sites.",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+   "locator": "A/57/724, enclosure, Sec. 4(a)(ii)"
+  },
+  {
+   "provision": "Annual information on space launch vehicles launched",
+   "article": "Sec. 4(a)(ii)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Notification or transparency",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All Subscribing States (political commitment)",
+   "geographic_scope": "Worldwide",
+   "exceptions": "Consistent with commercial and economic confidentiality principles.",
+   "effective_from": "2002-11-25",
+   "effective_until": null,
+   "text_or_paraphrase": "Provide annual information on the number and generic class of Space Launch Vehicles launched during the preceding year.",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+   "locator": "A/57/724, enclosure, Sec. 4(a)(ii)"
+  },
+  {
+   "provision": "Voluntary invitation of observers to launch sites",
+   "article": "Sec. 4(a)(ii)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Notification or transparency",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All Subscribing States (political commitment)",
+   "geographic_scope": "Worldwide",
+   "exceptions": "Entirely voluntary.",
+   "effective_from": "2002-11-25",
+   "effective_until": null,
+   "text_or_paraphrase": "Consider, on a voluntary basis (including on the degree of access permitted), inviting international observers to their land (test-) launch sites.",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+   "locator": "A/57/724, enclosure, Sec. 4(a)(ii)"
+  },
+  {
+   "provision": "Pre-launch notification of ballistic missile and space launch vehicle launches",
+   "article": "Sec. 4(a)(iii)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Notification or transparency",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "All Subscribing States (political commitment)",
+   "geographic_scope": "Worldwide",
+   "exceptions": null,
+   "effective_from": "2002-11-25",
+   "effective_until": null,
+   "text_or_paraphrase": "Exchange pre-launch notifications on Ballistic Missile and Space Launch Vehicle launches and test flights, including the generic class, the planned launch notification window, the launch area and the planned direction.",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+   "locator": "A/57/724, enclosure, Sec. 4(a)(iii)"
+  }
+ ],
+ "events": [
+  {
+   "event": "MTCR issues draft International Code of Conduct",
+   "date": "2000-10",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "MTCR partners",
+   "attribution": "HCoC website (Austrian Foreign Ministry), chronology",
+   "description": "At its Helsinki plenary, the MTCR issued a draft code containing principles, obligations, incentives and confidence-building measures.",
+   "source_url": "https://www.hcoc.at/what-is-hcoc/hcoc-chronology.html",
+   "locator": "2000, October"
+  },
+  {
+   "event": "MTCR Ottawa plenary opens drafting to non-members",
+   "date": "2001-09",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "MTCR partners; France",
+   "attribution": "HCoC website, chronology",
+   "description": "MTCR partners agreed that France would host a meeting of member and non-member states early in 2002 to finalise the draft.",
+   "source_url": "https://www.hcoc.at/what-is-hcoc/hcoc-chronology.html",
+   "locator": "2001, September"
+  },
+  {
+   "event": "Paris negotiating meeting",
+   "date": "2002-02",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "More than 80 states",
+   "attribution": "HCoC website, chronology",
+   "description": "More than 80 states agreed on a revised draft with looser language: 'obligations' became 'general measures' and 'incentives' became 'cooperation' and 'cooperative measures'.",
+   "source_url": "https://www.hcoc.at/what-is-hcoc/hcoc-chronology.html",
+   "locator": "2002, February"
+  },
+  {
+   "event": "Madrid negotiating meeting",
+   "date": "2002-06-17",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "Delegations from nearly 100 states, including China, India, Israel and Pakistan",
+   "attribution": "HCoC website, chronology",
+   "description": "Negotiations continued on the revised text transmitted by France on 17-19 June 2002; Iran, which had attended in Paris, did not attend.",
+   "source_url": "https://www.hcoc.at/what-is-hcoc/hcoc-chronology.html",
+   "locator": "2002, 17-19 June"
+  },
+  {
+   "event": "Adoption at The Hague launching conference",
+   "date": "2002-11-25",
+   "effective_date": "2002-11-25",
+   "event_type": "Adoption",
+   "actors": "Subscribing States; Netherlands (host)",
+   "attribution": "Netherlands letter in UN doc. A/57/724; HCoC website",
+   "description": "The International Code of Conduct against Ballistic Missile Proliferation was adopted in The Hague. At their first meeting the Subscribing States named the Netherlands Chair for one year and Austria the Immediate Central Contact, and declared the Code would be known as The Hague Code of Conduct.",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+   "locator": "A/57/724, letter of 11 January 2003"
+  },
+  {
+   "event": "Code circulated as UN General Assembly document",
+   "date": "2003-02-06",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Netherlands",
+   "attribution": "UN doc. A/57/724",
+   "description": "The Netherlands transmitted the text and the list of Subscribing States to the UN Secretary-General for circulation under agenda item 66.",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf",
+   "locator": "A/57/724, cover page"
+  },
+  {
+   "event": "UNGA resolution 59/91 welcomes the Code",
+   "date": "2004-12-03",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "UN General Assembly",
+   "attribution": "HCoC website, UNGA resolutions page",
+   "description": "First General Assembly resolution welcoming the adoption of the HCoC and calling on states that have not adhered to do so.",
+   "source_url": "https://www.hcoc.at/background-documents/un-general-assembly-resolutions.html",
+   "locator": "A/RES/59/91"
+  },
+  {
+   "event": "UNGA resolution 60/62",
+   "date": "2005-12-08",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "UN General Assembly",
+   "attribution": "HCoC website, FAQ",
+   "description": "Adopted with 158 votes in favour, per the HCoC website.",
+   "source_url": "https://www.hcoc.at/what-is-hcoc/frequently-asked-questions.html",
+   "locator": "A/RES/60/62"
+  },
+  {
+   "event": "UNGA First Committee vote on HCoC draft resolution; Iran votes against",
+   "date": "2008-10-28",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "UN First Committee; Iran",
+   "attribution": "HCoC website, chronology",
+   "description": "Draft resolution L.38 was approved 146-1-19. Per the chronology, Iran voted against to protest that the HCoC was negotiated outside the United Nations without all interested states.",
+   "source_url": "https://www.hcoc.at/what-is-hcoc/hcoc-chronology.html",
+   "locator": "2008, 28 October"
+  },
+  {
+   "event": "UNGA resolution 63/64",
+   "date": "2008-12-02",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "UN General Assembly",
+   "attribution": "HCoC website, UNGA resolutions page",
+   "description": "General Assembly resolution supporting the HCoC.",
+   "source_url": "https://www.hcoc.at/background-documents/un-general-assembly-resolutions.html",
+   "locator": "A/RES/63/64"
+  },
+  {
+   "event": "UNGA resolution 65/73",
+   "date": "2010-12-08",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "UN General Assembly",
+   "attribution": "HCoC website, chronology",
+   "description": "Reaffirmed the importance of the HCoC by a recorded vote of 162 in favour.",
+   "source_url": "https://www.hcoc.at/what-is-hcoc/hcoc-chronology.html",
+   "locator": "2010, 8 December"
+  },
+  {
+   "event": "India subscribes",
+   "date": "2016-06-01",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "India",
+   "attribution": "HCoC list of subscribing states",
+   "description": "India became a Subscribing State.",
+   "source_url": "https://www.hcoc.at/subscribing-states/list-of-hcoc-subscribing-states.html",
+   "locator": "List, entry 'India'"
+  },
+  {
+   "event": "Qatar subscribes (145th state)",
+   "date": "2024-01-22",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Qatar",
+   "attribution": "HCoC list of subscribing states",
+   "description": "Most recent subscription on the official list, bringing the total to 145.",
+   "source_url": "https://www.hcoc.at/subscribing-states/list-of-hcoc-subscribing-states.html",
+   "locator": "List, entry 'Qatar'"
+  },
+  {
+   "event": "UNGA resolution 79/29; Russia and Iran vote against",
+   "date": "2024-12-02",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "UN General Assembly; Russian Federation; Iran",
+   "attribution": "UN voting record as compiled by un-project.org; UN Digital Library record",
+   "description": "Adopted 172-2-10. Iran and the Russian Federation (itself a Subscribing State) voted against; abstentions included China, Pakistan, Egypt, Indonesia, Libya and the United Arab Emirates.",
+   "source_url": "https://un-project.org/votes/resolution/A-RES-79-29/",
+   "locator": "A/RES/79/29 (draft A/C.1/79/L.16)"
+  },
+  {
+   "event": "25th Annual Regular Meeting of Subscribing States",
+   "date": "2026-05-28",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Subscribing States; Jordan (Chair 2026-2027)",
+   "attribution": "HCoC press release, 29 May 2026",
+   "description": "Held in Vienna on 28-29 May 2026 with 74 registered delegations. Participants expressed concern about ballistic missile proliferation and its use in multiple military conflicts and reported 145 Subscribing States.",
+   "source_url": "https://www.hcoc.at/sites/default/files/documents/Adopted%20Press%20Release%2025th%20ARM%202026.pdf",
+   "locator": "Press release, paras. 1-4"
+  }
+ ],
+ "section_provisions_md": "### Character of the commitments\nThe HCoC is a politically binding code, not a treaty. Participation is \"voluntary and open to all States\" (Sec. 2(d)). It sets no numerical limits and has no verification, enforcement, withdrawal or duration clauses.\n\n### Principles (Sec. 2)\n- Need to prevent and curb the proliferation of ballistic missile systems capable of delivering weapons of mass destruction (2(a)).\n- Strengthening and universalising multilateral disarmament and non-proliferation mechanisms (2(b)-(c)).\n- Commitment to the 1996 UN Declaration on international cooperation in outer space (2(e)); states should not be excluded from the peaceful benefits of space but must not contribute to missile proliferation (2(f)).\n- Space launch vehicle programmes should not be used to conceal ballistic missile programmes (2(g)); transparency is needed for both (2(h)).\n\n### General measures (Sec. 3)\n- Ratify, accede to or otherwise abide by the Outer Space Treaty, the Liability Convention and the Registration Convention (3(a)).\n- Curb and prevent proliferation of WMD-capable ballistic missiles at global and regional level (3(b)).\n- Exercise maximum possible restraint in development, testing and deployment of such missiles and, where possible, reduce national holdings (3(c)).\n- Exercise vigilance when assisting foreign space launch vehicle programmes (3(d)).\n- Do not contribute to, support or assist ballistic missile programmes in countries that might be developing or acquiring WMD in contravention of their treaty obligations (3(e)).\n\n### Transparency and confidence-building measures (Sec. 4)\n- **Ballistic missiles:** annual declaration outlining ballistic missile policies; annual information on the number and generic class of missiles launched in the preceding year (4(a)(i)).\n- **Expendable space launch vehicles:** annual declaration of policies and land (test-) launch sites, and annual launch data, consistent with commercial and economic confidentiality; voluntary consideration of inviting international observers to launch sites (4(a)(ii)).\n- **Pre-launch notifications** for ballistic missile and space launch vehicle launches and test flights, giving generic class, launch window, launch area and planned direction (4(a)(iii)).\n- Optional bilateral or regional transparency measures (4(b)). These measures do not justify the programmes they cover (4(c)).\n\n### Organisation (Sec. 5)\n- Regular meetings, annually or as agreed (5(a)); all decisions by consensus of the Subscribing States present (5(b)).\n- Meetings define procedures for notifications, a mechanism for the voluntary resolution of questions on declarations, an immediate central contact, and possible amendments (5(c)). Austria serves as the Immediate Central Contact (Executive Secretariat). Notifications and declarations are exchanged through a restricted website.\n",
+ "section_history_md": "### Origins and negotiation\nThe Code grew out of the Missile Technology Control Regime. MTCR partners issued a draft International Code of Conduct at their Helsinki plenary in October 2000 and, at the Ottawa plenary in September 2001, agreed to open the text to non-members. A meeting in Paris in February 2002 produced a revised draft with looser language, and delegations from nearly 100 states, including China, India, Israel and Pakistan, met in Madrid on 17-19 June 2002. The Code was adopted at a launching conference hosted by the Netherlands in The Hague on 25 November 2002.\n\n### Institutions and membership\nAt the first meeting, the Netherlands became Chair and Austria the Immediate Central Contact; the instrument was renamed The Hague Code of Conduct. The Netherlands circulated the text as UN doc. A/57/724 (6 February 2003). The Austrian Foreign Ministry reports growth from 93 subscribing states at launch to 145; the most recent listed subscription is Qatar (22 January 2024), and the press release of the 25th Regular Meeting (Vienna, 28-29 May 2026, chaired by Jordan) gives 145. India subscribed in 2016. China, Pakistan, Iran, Israel and the DPRK are among the states that have not subscribed.\n\n### UN General Assembly support\nThe General Assembly has adopted resolutions supporting the Code at its 59th, 60th, 63rd, 65th, 67th, 69th, 71st, 73rd, 75th and 77th sessions, and resolution 79/29 of 2 December 2024. Per the HCoC chronology, Iran voted against the 2008 First Committee draft, objecting that the Code was negotiated outside the United Nations. According to the UN voting record as compiled by un-project.org, resolution 79/29 passed 172-2-10, with Iran and the Russian Federation voting against.\n\n### Compliance\nThe Code has no verification or compliance mechanism, and no formal compliance findings exist. Implementation data (declarations and notifications) are exchanged on a restricted website and are not public, so the extent of subscriber implementation could not be verified from official sources. In May 2026 Subscribing States expressed concern about the use of ballistic missiles in multiple military conflicts.\n\n### Sources\n- [Text of the HCoC (hcoc.at, Austrian Foreign Ministry)](https://www.hcoc.at/what-is-hcoc/text-of-the-hcoc.html)\n- [UN doc. A/57/724 (English)](https://www.hcoc.at/sites/default/files/documents/Hague-Code-of-Conduct-A_57_724-English.pdf)\n- [List of HCoC Subscribing States](https://www.hcoc.at/subscribing-states/list-of-hcoc-subscribing-states.html)\n- [HCoC chronology](https://www.hcoc.at/what-is-hcoc/hcoc-chronology.html)\n- [HCoC FAQ](https://www.hcoc.at/what-is-hcoc/frequently-asked-questions.html)\n- [Description of HCoC](https://www.hcoc.at/what-is-hcoc/description-of-hcoc.html)\n- [UN General Assembly resolutions on the HCoC](https://www.hcoc.at/background-documents/un-general-assembly-resolutions.html)\n- [Press release, 25th Annual Regular Meeting (29 May 2026)](https://www.hcoc.at/sites/default/files/documents/Adopted%20Press%20Release%2025th%20ARM%202026.pdf)\n- [UN Digital Library: A/RES/79/29](https://digitallibrary.un.org/record/4070627)\n- [Voting record for A/RES/79/29 (un-project.org)](https://un-project.org/votes/resolution/A-RES-79-29/)\n",
+ "unverified": [
+  {
+   "field": "record_type",
+   "reason": "Judgement call. Coded 'Instrument' because the HCoC rests on a single adopted text (A/57/724) with a fixed adoption date, numbered sections and an instrument_form of 'Code of Conduct'. It also has regime-like features (annual Regular Meetings, a rotating Chair, Austria as Immediate Central Contact, a restricted data exchange); recode as 'Regime' if the database reserves 'Instrument' for documents and 'Regime' for standing arrangements with membership."
+  },
+  {
+   "field": "instrument_status",
+   "reason": "Coded 'In force' to mean the arrangement is operative and has not been terminated; the Austrian Foreign Ministry itself refers to its 'entering into force' in November 2002. Strictly, a politically binding code has no legal entry into force, so entry_into_force is null; 'Not applicable' is the alternative coding."
+  },
+  {
+   "field": "number_of_parties",
+   "reason": "145 is a count of subscribing states, not parties; the Code is politically binding. Source: press release of the 25th Regular Meeting (29 May 2026) and the official list (last updated January 2024, totals 145). The list page states 'Total: 145 states'; my own count of dated entries also gives 145."
+  },
+  {
+   "field": "opened_for_signature",
+   "reason": "Set to null: the Code is not signed but subscribed to by note verbale, open from adoption on 25 November 2002."
+  },
+  {
+   "field": "events.date (partial dates)",
+   "reason": "The Helsinki (October 2000), Ottawa (September 2001) and Paris (February 2002) meetings are dated only to the month in the HCoC chronology, recorded as YYYY-MM."
+  },
+  {
+   "field": "historical_background (renaming date)",
+   "reason": "Sources conflict. The Netherlands' letter of 11 January 2003 (A/57/724) says the Subscribing States declared at their first meeting that the Code would 'henceforth be known as The Hague Code of Conduct'; the HCoC chronology attributes the naming decision to a Regular Conference in November 2004 (a date that also seems inconsistent with its own list of meetings). The primary document was followed."
+  },
+  {
+   "field": "subscribers at launch",
+   "reason": "The Austrian Foreign Ministry gives 93 subscribers at launch. The annex to A/57/724 lists 101 states (by OCR count), including some dated 26 November and 4 December 2002, so the two figures were not reconciled."
+  },
+  {
+   "field": "events: A/RES/79/29 vote",
+   "reason": "The UN Digital Library returned HTTP 403. The tally and voting list come from un-project.org, a secondary compilation of UN voting data, and agree with the 172-2-10 tally in search-result summaries of the UN record."
+  },
+  {
+   "field": "events: UNGA 67th-77th session resolutions",
+   "reason": "Not all resolutions are listed as events. The dates of 67/42, 69/44, 71/33, 73/49 and 75/60 appear on hcoc.at; the date of 77/58 was not checked against an official source."
+  },
+  {
+   "field": "operating_environment",
+   "reason": "Coded 'Not specific'. The commitments apply to programmes (ballistic missiles and space launch vehicles), not to a particular environment, although land launch sites and outer space use are mentioned."
+  },
+  {
+   "field": "institutional_oversight",
+   "reason": "Coded 'Treaty body or commission' for the Regular Meeting of Subscribing States, which reviews and develops the workings of the Code (Sec. 5(c)), together with Austria's Immediate Central Contact role. There is no international organisation or compliance body."
+  },
+  {
+   "field": "third_party_roles",
+   "reason": "Coded 'Yes' only because Sec. 4(a)(ii) contemplates voluntary invitations to international observers at launch sites. The text gives no other third-party role."
+  },
+  {
+   "field": "key_non_parties",
+   "reason": "Non-subscribers are inferred from their absence on the official list (January 2024 update) and are not exhaustive."
+  },
+  {
+   "field": "word_count",
+   "reason": "Counted from the hcoc.at web text, which omits the section numerals; the OCR of the scanned A/57/724 PDF was used only to confirm the section numbering."
+  },
+  {
+   "field": "inspection_access",
+   "reason": "No inspection or access is required. Coded 'Voluntary observation' because Sec. 4(a)(ii) invites subscribing states to consider, on a voluntary basis, inviting international observers to their land (test-) launch sites; this is not compulsory verification."
+  }
+ ],
+ "corrections": [
+  "Number of Parties was 143; the official count is 145 subscribing states (official list total; 25th Regular Meeting press release of 29 May 2026). These are subscribing states, not treaty parties.",
+  "'Opened for Signature' is set to 2002-11-25, but the Code is not open for signature; states subscribe by note verbale to the Immediate Central Contact. This should be null or relabelled as subscription.",
+  "Status 'In Force' needs a qualifier: the Code is politically binding and has no legal entry into force. It is operative since adoption on 25 November 2002.",
+  "Depository, Treaty URL, Key Provisions, Weapons/Systems Limited, Withdrawal/Amendment/Duration clauses and Historical Background were empty. The Code has no depositary; Austria is the Immediate Central Contact (Executive Secretariat).",
+  "Page body abbreviation 'HCOC' should be 'HCoC', the form used by the official website."
+ ]
+}

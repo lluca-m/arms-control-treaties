@@ -1,0 +1,1156 @@
+{
+ "instrument": {
+  "full_name": "Treaty between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles",
+  "short_name": "INF Treaty",
+  "record_type": "Instrument",
+  "instrument_form": "Treaty/Convention",
+  "legal_character": "Legally binding",
+  "instrument_status": "Terminated",
+  "negotiation_status": "Concluded",
+  "date_adopted": "1987-12-08",
+  "opened_for_signature": "1987-12-08",
+  "entry_into_force": "1988-06-01",
+  "date_ended": "2019-08-02",
+  "participation_structure": "Bilateral",
+  "geographic_coverage": [],
+  "operating_environment": [
+   "Land"
+  ],
+  "weapon_families": [
+   "Missiles & delivery systems",
+   "Fortifications & bases"
+  ],
+  "legal_subject_matter": [
+   "Arms limitation & disarmament"
+  ],
+  "signed_at": "Washington, D.C.",
+  "adopted_at": "Washington, D.C.",
+  "depositary": "None designated (bilateral treaty); registered with the UN Secretariat by both Parties on 13 December 1991 under Art. XVII(2)",
+  "number_of_parties": 2,
+  "number_of_signatories": 2,
+  "parties_as_of": "1988-06-01",
+  "key_non_parties": "The Treaty bound only the United States and the USSR. After 1991 implementation was multilateralized with the six former Soviet republics with inspectable facilities (Belarus, Kazakhstan, Russia, Turkmenistan, Ukraine, Uzbekistan), of which Belarus, Kazakhstan, Russia and Ukraine participated actively. China, other missile-possessing states and NATO allies (including basing countries Belgium, Germany, Italy, the Netherlands and the United Kingdom) were not parties; basing countries accepted inspections on their territory.",
+  "information_provisions": [
+   "Declarations & data exchange",
+   "Notifications"
+  ],
+  "inspection_access": [
+   "Routine on-site inspection",
+   "Continuous monitoring"
+  ],
+  "monitoring_means_specified": [
+   "National technical means",
+   "Non-interference with NTM",
+   "Cooperative measures"
+  ],
+  "institutional_oversight": "Treaty body or commission",
+  "consultation_mechanism": "Standing commission",
+  "reporting_requirements": "Yes",
+  "enforcement": "Not specified in text",
+  "dispute_resolution": "Yes",
+  "national_authority": "Yes",
+  "technical_cooperation": "Not specified in text",
+  "third_party_roles": "Yes",
+  "reservations": "Not Specified",
+  "duration_type": "Indefinite",
+  "duration_years": null,
+  "duration_clause": "Art. XV(1): \"This Treaty shall be of unlimited duration.\" Inspection rights under Art. XI(5)-(6) ran for 13 years only.",
+  "extension_type": "None stated",
+  "extension_clause": null,
+  "withdrawal_type": "Supreme interests (with notice)",
+  "withdrawal_notice_months": 6,
+  "withdrawal_clause": "Art. XV(2): each Party, in exercising its national sovereignty, may withdraw if it decides that extraordinary events related to the subject matter of the Treaty have jeopardized its supreme interests, giving notice six months before withdrawal, including a statement of the extraordinary events.",
+  "amendment_procedure": "Unanimity",
+  "amendment_clause": "Art. XVI: each Party may propose amendments; agreed amendments enter into force under the Art. XVII procedure (ratification by each Party and exchange of instruments). The protocols state that measures agreed in the SVC to improve viability and effectiveness are not deemed amendments (Art. XIII(1)(b)).",
+  "review_conferences": "None",
+  "review_interval_years": null,
+  "review_conferences_held": 0,
+  "entry_into_force_requirements": "Art. XVII(1): ratification by each Party in accordance with its constitutional procedures; entry into force on the date of exchange of instruments of ratification (exchanged at Moscow on 1 June 1988).",
+  "number_of_articles": 17,
+  "word_count": 6283,
+  "count_basis": "Word count is the English treaty text only (title through signature block, excluding FAS proclamation notes), counted with wc on the FAS reproduction, which matches the UNTS English text; 17 articles. The MOU, Protocol on Elimination, Protocol on Inspection and its Annex are integral parts (Art. I, XVII) but are excluded; the full English text in UNTS vol. 1657 (pp. 4-167) is roughly 33,000 words by machine count of the PDF text layer, including MOU data tables and running heads.",
+  "weapons_systems_limited": "All US and Soviet ground-launched ballistic and cruise missiles with ranges of 500 to 5,500 km, with their launchers, support structures and equipment, regardless of warhead type: Pershing II, BGM-109G, Pershing IA and IB (US); SS-20, SS-4, SS-5, SS-12, SS-23 and SSC-X-4 (USSR).",
+  "key_provisions": "Elimination of all intermediate-range missiles (over 1,000 and up to 5,500 km) within three years, with phase-one ceilings at 29 months (Art. IV), and of all shorter-range missiles (500 to 1,000 km) within 18 months (Art. V); permanent bans on producing or flight-testing intermediate-range missiles and on producing their stages or launchers, and on producing, flight-testing or launching shorter-range missiles and producing their stages or launchers (Art. VI); counting and range rules (Art. VII); locational restrictions, including no missiles at listed production facilities or test ranges from 30 days after entry into force, and a freeze on declared facilities other than elimination facilities (Art. VIII); data exchange and notifications via the Nuclear Risk Reduction Centers (Art. IX); elimination procedures (Art. X; Protocol on Elimination); baseline, closeout and elimination inspections tied to the elimination schedule, plus 13 years of short-notice inspections and continuous portal monitoring at Votkinsk and Magna (Art. XI; Protocol on Inspection); NTM and non-interference (Art. XII); Special Verification Commission (Art. XIII); withdrawal on six months' notice (Art. XV).",
+  "behavior_change": "Yes. The Treaty required the destruction of deployed and stockpiled forces as well as forgoing future systems. The MOU declared 695 US and 826 Soviet intermediate-range missiles and 170 US and 926 Soviet shorter-range missiles as of 1 November 1987; the State Department reports 2,692 missiles eliminated by June 1991.",
+  "historical_background": "Soviet deployment of the SS-20 from the mid-1970s prompted NATO's December 1979 dual-track decision to deploy Pershing II and ground-launched cruise missiles in Europe while seeking negotiations. Talks begun in 1981 stalled, and US deployments proceeded from 1983. After Mikhail Gorbachev took office in 1985 the negotiations broadened to a global elimination of the whole missile class, and the Treaty was signed at Washington on 8 December 1987. It was the first agreement to eliminate an entire category of US and Soviet nuclear delivery systems and to use extensive on-site inspection.",
+  "treaty_url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201657/v1657.pdf",
+  "source_quality": "Official text",
+  "related": [
+   {
+    "relation": "negotiated_alongside",
+    "target": "Agreement between the United States and the USSR on the Establishment of Nuclear Risk Reduction Centers (1987)"
+   },
+   {
+    "relation": "negotiated_alongside",
+    "target": "Treaty on the Reduction and Limitation of Strategic Offensive Arms (START I)"
+   }
+  ]
+ },
+ "provisions": [
+  {
+   "provision": "Eliminate all intermediate-range missiles, launchers, support structures and support equipment",
+   "article": "Art. IV(1), IV(2)(b)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Reduction or elimination",
+   "value": 3,
+   "unit": "years after entry into force",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "1991-06-01",
+   "text_or_paraphrase": "Each Party shall eliminate all its intermediate-range missiles (range over 1,000 km up to 5,500 km) and launchers, and all associated support structures and support equipment of the categories listed in the MOU, so that no later than three years after entry into force none are possessed.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. IV(1), IV(2)(b)"
+  },
+  {
+   "provision": "Phase one ceiling on deployed intermediate-range launchers",
+   "article": "Art. IV(2)(a)(i)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Numerical ceiling",
+   "value": 171,
+   "unit": "warheads (launcher capacity)",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": "Interim ceiling superseded by full elimination at end of phase two.",
+   "effective_from": "1990-11-01",
+   "effective_until": "1991-06-01",
+   "text_or_paraphrase": "By 29 months after entry into force, deployed launchers of intermediate-range missiles may not exceed the number capable of carrying or containing missiles considered to carry 171 warheads.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. IV(2)(a)(i)"
+  },
+  {
+   "provision": "Phase one ceiling on deployed intermediate-range missiles",
+   "article": "Art. IV(2)(a)(ii)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Numerical ceiling",
+   "value": 180,
+   "unit": "warheads",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1990-11-01",
+   "effective_until": "1991-06-01",
+   "text_or_paraphrase": "By 29 months after entry into force, deployed intermediate-range missiles may not exceed the number considered to carry 180 warheads.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. IV(2)(a)(ii)"
+  },
+  {
+   "provision": "Phase one ceiling on aggregate intermediate-range launchers",
+   "article": "Art. IV(2)(a)(iii)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Numerical ceiling",
+   "value": 200,
+   "unit": "warheads (launcher capacity)",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1990-11-01",
+   "effective_until": "1991-06-01",
+   "text_or_paraphrase": "By 29 months after entry into force, deployed and non-deployed intermediate-range launchers combined may not exceed the number capable of carrying missiles considered to carry 200 warheads.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. IV(2)(a)(iii)"
+  },
+  {
+   "provision": "Phase one ceiling on aggregate intermediate-range missiles",
+   "article": "Art. IV(2)(a)(iv)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Numerical ceiling",
+   "value": 200,
+   "unit": "warheads",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1990-11-01",
+   "effective_until": "1991-06-01",
+   "text_or_paraphrase": "By 29 months after entry into force, deployed and non-deployed intermediate-range missiles combined may not exceed the number considered to carry 200 warheads.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. IV(2)(a)(iv)"
+  },
+  {
+   "provision": "Phase one cap on GLBM share of intermediate-range missiles",
+   "article": "Art. IV(2)(a)(v)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Freeze",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1990-11-01",
+   "effective_until": "1991-06-01",
+   "text_or_paraphrase": "By the end of phase one, the ratio of intermediate-range GLBMs of existing types to all intermediate-range missiles of existing types may not exceed each Party's ratio as of 1 November 1987 as set out in the MOU.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. IV(2)(a)(v)"
+  },
+  {
+   "provision": "Eliminate all shorter-range missiles, launchers and support equipment",
+   "article": "Art. V(1)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Reduction or elimination",
+   "value": 18,
+   "unit": "months after entry into force",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "1989-12-01",
+   "text_or_paraphrase": "Each Party shall eliminate all its shorter-range missiles (range 500 km to 1,000 km), their launchers and associated support equipment so that no later than 18 months after entry into force none are possessed.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. V(1)"
+  },
+  {
+   "provision": "Remove shorter-range missiles and launchers to elimination facilities",
+   "article": "Art. V(2)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": 90,
+   "unit": "days (deployed missiles and launchers); 12 months for non-deployed missiles",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "1989-06-01",
+   "text_or_paraphrase": "Within 90 days of entry into force, all deployed shorter-range missiles and all launchers must be moved to elimination facilities; within 12 months, all non-deployed shorter-range missiles. They must be retained there until eliminated under the Protocol on Elimination.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. V(2)"
+  },
+  {
+   "provision": "Separate elimination facilities for shorter-range missiles and launchers",
+   "article": "Art. V(3)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": 1000,
+   "unit": "km minimum separation",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "1989-12-01",
+   "text_or_paraphrase": "Shorter-range missiles and their launchers shall not be located at the same elimination facility; such facilities shall be at least 1,000 km apart.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. V(3)"
+  },
+  {
+   "provision": "Prohibit possession of intermediate-range and shorter-range missiles after elimination",
+   "article": "Art. I; Art. IV(1); Art. V(1)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Prohibit acquisition or possession",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": "Art. VII(3): GLBMs developed and tested solely to intercept objects not on the earth's surface are excluded. Art. VII(11): sea- or air-mode missiles test-launched from fixed, distinguishable test launchers at test sites are not GLBMs/GLCMs. Art. VII(12): R&D booster systems using existing booster stage types under stated conditions are not flight-testing.",
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "Each Party shall eliminate its intermediate-range and shorter-range missiles and not have such systems thereafter; after the elimination deadlines no such missiles, launchers or support equipment may be possessed.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. I; Art. IV(1); Art. V(1)"
+  },
+  {
+   "provision": "Prohibit production of intermediate-range missiles, their stages and launchers",
+   "article": "Art. VI(1)(a)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Prohibit production",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": "Art. VI(2): a Party may produce one type of GLBM not limited by the Treaty using a stage outwardly similar to, but not interchangeable with, a stage of an existing multi-stage intermediate-range GLBM, provided it produces no other such stage. Art. VII(3): GLBMs developed and tested solely to intercept objects not on the earth's surface are excluded. Art. VII(11): sea- or air-mode missiles test-launched from fixed, distinguishable test launchers at test sites are not GLBMs/GLCMs. Art. VII(12): R&D booster systems using existing booster stage types under stated conditions are not flight-testing.",
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "Upon entry into force and thereafter, neither Party shall produce any intermediate-range missiles, any stages of such missiles, or any launchers of such missiles.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. VI(1)(a)"
+  },
+  {
+   "provision": "Prohibit flight-testing of intermediate-range missiles",
+   "article": "Art. VI(1)(a)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Prohibit testing",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": "Art. VII(3): GLBMs developed and tested solely to intercept objects not on the earth's surface are excluded. Art. VII(11): sea- or air-mode missiles test-launched from fixed, distinguishable test launchers at test sites are not GLBMs/GLCMs. Art. VII(12): R&D booster systems using existing booster stage types under stated conditions are not flight-testing. Art. X(5): elimination by launching of up to 100 intermediate-range missiles in the first six months.",
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "Upon entry into force and thereafter, neither Party shall flight-test any intermediate-range missiles.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. VI(1)(a)"
+  },
+  {
+   "provision": "Prohibit production of shorter-range missiles, their stages and launchers",
+   "article": "Art. VI(1)(b)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Prohibit production",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": "Art. VII(3): GLBMs developed and tested solely to intercept objects not on the earth's surface are excluded. Art. VII(11): sea- or air-mode missiles test-launched from fixed, distinguishable test launchers at test sites are not GLBMs/GLCMs. Art. VII(12): R&D booster systems using existing booster stage types under stated conditions are not flight-testing.",
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "Upon entry into force and thereafter, neither Party shall produce any shorter-range missiles, any stages of such missiles, or any launchers of such missiles.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. VI(1)(b)"
+  },
+  {
+   "provision": "Prohibit flight-testing or launch of shorter-range missiles",
+   "article": "Art. VI(1)(b)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Prohibit testing",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": "Art. VII(3): GLBMs developed and tested solely to intercept objects not on the earth's surface are excluded. Art. VII(11): sea- or air-mode missiles test-launched from fixed, distinguishable test launchers at test sites are not GLBMs/GLCMs. Art. VII(12): R&D booster systems using existing booster stage types under stated conditions are not flight-testing.",
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "Upon entry into force and thereafter, neither Party shall flight-test or launch any shorter-range missiles.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. VI(1)(b)"
+  },
+  {
+   "provision": "Ceiling on launchers for research and development booster systems",
+   "article": "Art. VII(12)(c)-(d)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Numerical ceiling",
+   "value": 35,
+   "unit": "launchers per Party at any one time",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "Launchers for permitted R&D booster systems may not exceed 35 per Party at any one time and must be fixed, emplaced above ground and located only at R&D launch sites specified in the MOU.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. VII(12)(c)-(d)"
+  },
+  {
+   "provision": "Restrict location of intermediate-range missiles and launchers",
+   "article": "Art. VIII(1)-(2), VIII(9)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Prohibit deployment or stationing",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "1991-06-01",
+   "text_or_paraphrase": "Intermediate-range missiles, their launchers and stages (and training missiles and launchers) shall be located only in deployment areas, at missile support facilities, or in transit, and not elsewhere.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. VIII(1)-(2), VIII(9)"
+  },
+  {
+   "provision": "Restrict location of shorter-range missiles and launchers before removal",
+   "article": "Art. VIII(3), VIII(9)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Prohibit deployment or stationing",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "1989-06-01",
+   "text_or_paraphrase": "Until removed to elimination facilities, shorter-range missiles and launchers shall be located only at missile operating bases, missile support facilities or in transit.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. VIII(3), VIII(9)"
+  },
+  {
+   "provision": "Prohibit missiles at production facilities, test ranges and training facilities",
+   "article": "Art. VIII(6)-(8)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Prohibit deployment or stationing",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-07-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "From 30 days after entry into force, no intermediate-range or shorter-range missiles, stages or launchers may be located at missile or launcher production facilities or test ranges listed in the MOU; no such missiles at training facilities; non-deployed missiles may not be carried in launchers except for repair or elimination by launching.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. VIII(6)-(8)"
+  },
+  {
+   "provision": "Time limit on transit",
+   "article": "Art. VIII(4)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": 25,
+   "unit": "days",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "Transit of a missile or launcher subject to the Treaty shall be completed within 25 days.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. VIII(4)"
+  },
+  {
+   "provision": "Freeze on number and location of deployment areas, bases and support facilities",
+   "article": "Art. VIII(5)",
+   "weapon_activity": [
+    "Missiles & delivery systems",
+    "Fortifications & bases"
+   ],
+   "restriction_type": "Freeze",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": "Elimination facilities may be changed on 30 days' notice (Art. IX(5)(b)).",
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "Neither Party shall increase the number of, or change the location or boundaries of, deployment areas, missile operating bases or missile support facilities (other than elimination facilities) from those in the MOU.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. VIII(5)"
+  },
+  {
+   "provision": "Initial and six-monthly data exchanges",
+   "article": "Art. IX(1)-(4)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Notification or transparency",
+   "value": 6,
+   "unit": "months between data updates",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "Each Party shall provide updated data for all MOU categories within 30 days of entry into force, and within 30 days after each six-month interval thereafter, reporting all changes and their net effect, through the Nuclear Risk Reduction Centers.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. IX(1)-(4)"
+  },
+  {
+   "provision": "Advance and post-event notifications of eliminations, transits and facility changes",
+   "article": "Art. IX(5)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Notification or transparency",
+   "value": 30,
+   "unit": "days advance notice (main categories)",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "Each Party shall give 30 days' notice of scheduled eliminations of facilities, changes to elimination facilities and initiation of elimination; ten days' notice of elimination launches; and notice within 48 hours of eliminations completed and of completed transits (with location reported at least every four days).",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. IX(5)"
+  },
+  {
+   "provision": "Advance notification of R&D booster launches",
+   "article": "Art. IX(6)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Notification or transparency",
+   "value": 10,
+   "unit": "days",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "Each Party shall notify the other no less than ten days in advance of the date and location of each launch of an R&D booster system.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. IX(6)"
+  },
+  {
+   "provision": "Eliminate in complete deployed organizational units",
+   "article": "Art. X(3)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "1991-06-01",
+   "text_or_paraphrase": "Intermediate-range missiles, launchers and support equipment removed from deployment areas for elimination must move in complete deployed units: Pershing II batteries and BGM-109G flights (US); SS-20 regiments (USSR).",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. X(3)"
+  },
+  {
+   "provision": "Cap on elimination of intermediate-range missiles by launching",
+   "article": "Art. X(5)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Numerical ceiling",
+   "value": 100,
+   "unit": "missiles",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "1988-12-01",
+   "text_or_paraphrase": "During the first six months after entry into force each Party may eliminate by launching no more than 100 of its intermediate-range missiles.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. X(5)"
+  },
+  {
+   "provision": "Eliminate tested but undeployed Pershing IB and SSC-X-4",
+   "article": "Art. X(6)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Reduction or elimination",
+   "value": 6,
+   "unit": "months",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "Pershing IB for the United States; RK-55 (SSC-X-4) for the USSR",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "1988-12-01",
+   "text_or_paraphrase": "Intermediate-range and shorter-range missiles tested but never deployed and not listed as existing types (US Pershing IB; Soviet RK-55/SSC-X-4) and their launchers shall be eliminated within six months of entry into force.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. X(6)"
+  },
+  {
+   "provision": "Eliminate deployment areas, missile operating bases and support facilities",
+   "article": "Art. X(8)",
+   "weapon_activity": [
+    "Fortifications & bases"
+   ],
+   "restriction_type": "Reduction or elimination",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "Each Party shall eliminate its deployment areas, missile operating bases and missile support facilities by removing all missiles, launchers and support equipment, eliminating support structures in situ and ceasing all production, flight-testing, training, repair, storage and deployment activity there.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. X(8)"
+  },
+  {
+   "provision": "Accept short-notice on-site inspections within annual quotas",
+   "article": "Art. XI(2), XI(5)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": 20,
+   "unit": "inspections per year (first three years)",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "2001-05-31",
+   "text_or_paraphrase": "For 13 years each Party had the right to short-notice inspections of declared and former missile operating bases and support facilities: 20 per year in the first three years, 15 per year for the next five and ten per year for the last five, including in basing countries, with no more than half in any one basing country.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. XI(2), XI(5)"
+  },
+  {
+   "provision": "Accept baseline, closeout and elimination inspections",
+   "article": "Art. XI(3), XI(4), XI(7), XI(8)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "2001-05-31",
+   "text_or_paraphrase": "Each Party had to permit baseline inspections within 90 days of entry into force, closeout inspections of eliminated facilities within 60 days of scheduled elimination, and inspection of all elimination processes at elimination facilities.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. XI(3), XI(4), XI(7), XI(8)"
+  },
+  {
+   "provision": "Accept continuous portal monitoring at missile assembly plants",
+   "article": "Art. XI(6); Protocol on Inspection Sec. IX",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": 13,
+   "unit": "years",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "Votkinsk (USSR/Russia) and Magna, Utah (US) designated at entry into force",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "2001-05-31",
+   "text_or_paraphrase": "For 13 years each Party could continuously monitor the portal of the other's facility for final assembly of GLBMs with stages outwardly similar to a listed solid-propellant GLBM stage, or an agreed former production facility: Votkinsk Machine Building Plant (USSR) and Hercules Plant No. 1, Magna, Utah (US). The inspected Party must maintain one portal and no more than two other exits, declare large shipments, and not interfere with installed equipment.",
+   "source_url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201657/v1657.pdf",
+   "locator": "Protocol on Inspection, UNTS vol. 1657 pp. 149-167 (PDF pp. 155-173), Sec. IX; Treaty Art. XI(6)"
+  },
+  {
+   "provision": "Non-interference with national technical means and no concealment",
+   "article": "Art. XII(1)-(2)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": "Cover or concealment within a deployment area associated with normal training, maintenance and operations, including environmental shelters, is permitted (Art. XII(2)(b)).",
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "Neither Party shall interfere with the other's national technical means of verification or use concealment measures that impede verification by such means.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. XII(1)-(2)"
+  },
+  {
+   "provision": "Cooperative display of road-mobile ICBMs on request",
+   "article": "Art. XII(3)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": 6,
+   "unit": "requests per calendar year",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "1991-06-01",
+   "text_or_paraphrase": "Until a strategic arms reduction treaty entered into force, and no more than three years, each Party could request up to six times per year that the other open the roofs of fixed launcher structures at a road-mobile GLBM base (range over 5,500 km) within six hours and display missiles on launchers in the open for up to 12 hours.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. XII(3)"
+  },
+  {
+   "provision": "No conflicting international obligations",
+   "article": "Art. XIV",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "The Parties shall comply with the Treaty and shall not assume any international obligations or undertakings which would conflict with its provisions.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Treaty Art. XIV"
+  },
+  {
+   "provision": "Prescribed physical elimination procedures for each system",
+   "article": "Protocol on Elimination Sec. I-II",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Reduction or elimination",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": "Parties may agree different procedures achieving the same result (Sec. II(10)); warheads themselves are not subject to elimination.",
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "Each listed item must be destroyed by specified methods (for example, explosive demolition or burning of missile stages; longitudinal cutting of cruise missile airframes; cutting launcher chassis and erector-launcher mechanisms at non-assembly joints), confirmed in writing by both Parties. Nuclear warhead devices and guidance elements may be removed beforehand.",
+   "source_url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201657/v1657.pdf",
+   "locator": "Protocol on Elimination, UNTS vol. 1657 pp. 135-148 (PDF pp. 141-154), Sec. II(3), II(10)"
+  },
+  {
+   "provision": "Elimination stages must not be instrumented for data collection",
+   "article": "Protocol on Elimination Sec. II(7)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "1991-06-01",
+   "text_or_paraphrase": "A missile stage eliminated by burning shall not be instrumented for data collection, as confirmed by an inspector who observes it continuously until burning is complete.",
+   "source_url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201657/v1657.pdf",
+   "locator": "Protocol on Elimination, UNTS vol. 1657 pp. 135-148 (PDF pp. 141-154), Sec. II(7)"
+  },
+  {
+   "provision": "Conditions on elimination by launching",
+   "article": "Protocol on Elimination Sec. III",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "1988-12-01",
+   "text_or_paraphrase": "Missiles eliminated by launching must be fired from designated elimination facilities to existing impact areas, one at a time at least six hours apart, with all stages ignited; none may serve as a target for a ballistic missile interceptor, and no data may be transmitted or recovered except unencrypted range-safety data.",
+   "source_url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201657/v1657.pdf",
+   "locator": "Protocol on Elimination, UNTS vol. 1657 pp. 135-148 (PDF pp. 141-154), Sec. III(2)-(4)"
+  },
+  {
+   "provision": "Ceiling on missiles retained for static display",
+   "article": "Protocol on Elimination Sec. V(2)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Numerical ceiling",
+   "value": 15,
+   "unit": "each of missiles, launch canisters and launchers",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "A Party may eliminate items by placing them on static display, limited to 15 missiles, 15 launch canisters and 15 launchers each, after removing propellant and rendering erector-launcher mechanisms inoperative; the other Party may inspect within 60 days.",
+   "source_url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201657/v1657.pdf",
+   "locator": "Protocol on Elimination, UNTS vol. 1657 pp. 135-148 (PDF pp. 141-154), Sec. V(2)"
+  },
+  {
+   "provision": "Notification of loss or accidental destruction",
+   "article": "Protocol on Elimination Sec. V(1)",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Notification or transparency",
+   "value": 48,
+   "unit": "hours",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "2019-08-02",
+   "text_or_paraphrase": "An item lost or destroyed by accident must be notified within 48 hours with its type, location and circumstances; the other Party may inspect the accident site.",
+   "source_url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201657/v1657.pdf",
+   "locator": "Protocol on Elimination, UNTS vol. 1657 pp. 135-148 (PDF pp. 141-154), Sec. V(1)"
+  },
+  {
+   "provision": "Inspection procedure limits and notification",
+   "article": "Protocol on Inspection Sec. III-VI",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Other",
+   "value": 200,
+   "unit": "persons per list",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "2001-05-31",
+   "text_or_paraphrase": "Each Party's lists of inspectors and aircrew may not exceed 200 persons; inspection teams are limited to ten inspectors (20 for elimination inspections, 30 for portal monitoring); notice of 16 hours before arrival is required for baseline, closeout and short-notice inspections (72 hours for elimination inspections); inspections at a site may last 24 hours, extendable by eight. The inspected Party must facilitate inspections.",
+   "source_url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201657/v1657.pdf",
+   "locator": "Protocol on Inspection, UNTS vol. 1657 pp. 149-167 (PDF pp. 155-173), Sec. II(1), III(2), IV(1), VI(14)-(15)"
+  },
+  {
+   "provision": "Declared data base as of 1 November 1987",
+   "article": "Memorandum of Understanding Sec. II",
+   "weapon_activity": [
+    "Missiles & delivery systems"
+   ],
+   "restriction_type": "Notification or transparency",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United States and USSR (and, after 1991, the USSR successor states that implemented the Treaty)",
+   "geographic_scope": "Worldwide; no geographic limitation on the obligation",
+   "exceptions": null,
+   "effective_from": "1988-06-01",
+   "effective_until": "1991-06-01",
+   "text_or_paraphrase": "The MOU recorded each Party's holdings as of 1 November 1987: US 695 intermediate-range missiles (429 deployed) and 282 launchers, 170 shorter-range missiles; USSR 826 intermediate-range missiles (470 deployed) and 608 launchers, 926 shorter-range missiles (387 deployed). It also lists facilities, support structures and equipment, and R&D launch sites.",
+   "source_url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201657/v1657.pdf",
+   "locator": "Memorandum of Understanding, UNTS vol. 1657 pp. 20-134 (PDF pp. 26-140), Sec. II (pp. 21-22)"
+  }
+ ],
+ "events": [
+  {
+   "event": "Treaty signed by Reagan and Gorbachev",
+   "date": "1987-12-08",
+   "effective_date": null,
+   "event_type": "Adoption",
+   "actors": "United States; USSR",
+   "attribution": "Treaty text",
+   "description": "Signed at Washington by President Ronald Reagan and General Secretary Mikhail Gorbachev, with the MOU and two protocols forming an integral part.",
+   "source_url": "https://nuke.fas.org/control/inf/text/inf.htm",
+   "locator": "Final clause; Art. XVII"
+  },
+  {
+   "event": "US Senate advice and consent",
+   "date": "1988-05-27",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States Senate",
+   "attribution": "Senate roll call record",
+   "description": "The Senate gave advice and consent to ratification by a vote of 93 to 5.",
+   "source_url": "https://voteview.com/rollcall/RS1000586",
+   "locator": "100th Congress, Senate vote 586"
+  },
+  {
+   "event": "Entry into force on exchange of instruments of ratification",
+   "date": "1988-06-01",
+   "effective_date": "1988-06-01",
+   "event_type": "Entry into force",
+   "actors": "United States; USSR",
+   "attribution": "UNTS registration footnote",
+   "description": "Instruments of ratification were exchanged at Moscow and the Treaty entered into force under Art. XVII(1).",
+   "source_url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201657/v1657.pdf",
+   "locator": "UNTS vol. 1657 p. 4, note 1"
+  },
+  {
+   "event": "Elimination deadline; 2,692 missiles eliminated",
+   "date": "1991-06-01",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States; USSR",
+   "attribution": "US Department of State; Arms Control Association",
+   "description": "The State Department reports that the United States eliminated its last covered missiles in late April and early May 1991 and the USSR its last declared SS-20 in May 1991, for a total of 2,692 missiles eliminated by the three-year deadline.",
+   "source_url": "https://2017-2021.state.gov/inf-treaty-at-a-glance/",
+   "locator": "Treaty at a Glance"
+  },
+  {
+   "event": "Registration with the UN Secretariat",
+   "date": "1991-12-13",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States; USSR",
+   "attribution": "UN Treaty Series",
+   "description": "Registered by both Parties under Art. XVII(2) as UNTS No. 28521.",
+   "source_url": "https://treaties.un.org/doc/Publication/UNTS/Volume%201657/v1657.pdf",
+   "locator": "UNTS vol. 1657, registration note"
+  },
+  {
+   "event": "Multilateralization among USSR successor states",
+   "date": null,
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States; Belarus; Kazakhstan; Russia; Turkmenistan; Ukraine; Uzbekistan",
+   "attribution": "US Department of State",
+   "description": "After December 1991 the United States multilateralized implementation with the six former Soviet republics with inspectable facilities; Belarus, Kazakhstan, Russia and Ukraine remained active participants, including in the SVC.",
+   "source_url": "https://2017-2021.state.gov/inf-treaty-at-a-glance/",
+   "locator": "Treaty at a Glance",
+   "date_precision": "Date unknown",
+   "date_as_reported": "Date unknown (after December 1991)"
+  },
+  {
+   "event": "On-site inspection and monitoring regime ends",
+   "date": "2001-05-31",
+   "effective_date": "2001-05-31",
+   "event_type": "Other",
+   "actors": "Treaty parties",
+   "attribution": "US Department of State",
+   "description": "Inspection rights under Art. XI expired 13 years after entry into force; in December 2000 the parties agreed procedures to terminate inspection and monitoring from 31 May 2001.",
+   "source_url": "https://2017-2021.state.gov/inf-treaty-at-a-glance/",
+   "locator": "Treaty at a Glance"
+  },
+  {
+   "event": "Joint US-Russian statement on globalizing INF obligations",
+   "date": "2007-10-25",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States; Russia",
+   "attribution": "Arms Control Association",
+   "description": "At the UN General Assembly the two states reaffirmed support for the Treaty and called on other states to renounce the missiles it bans.",
+   "source_url": "https://www.armscontrol.org/factsheets/intermediate-range-nuclear-forces-inf-treaty-glance",
+   "locator": "The INF Treaty's Slow Demise"
+  },
+  {
+   "event": "US finds Russia in violation (2014 compliance report)",
+   "date": "2014-07-29",
+   "effective_date": null,
+   "event_type": "Compliance allegation",
+   "actors": "United States; Russia",
+   "attribution": "US Department of State",
+   "description": "The United States alleged that Russia was in violation of its obligations not to possess, produce or flight-test a GLCM with a range of 500 to 5,500 km, or to possess or produce launchers of such missiles. The finding was publicly confirmed on 29 July 2014 and repeated in the 2015 to 2018 reports.",
+   "source_url": "https://www.armscontrol.org/act/2014-08/russia-breaches-inf-treaty-us-says",
+   "locator": "Arms Control Today, Sept. 2014 issue report"
+  },
+  {
+   "event": "Russia alleges US noncompliance (Aegis Ashore)",
+   "date": "2015-10-12",
+   "effective_date": null,
+   "event_type": "Compliance allegation",
+   "actors": "Russia; United States",
+   "attribution": "Russian Foreign Ministry official Mikhail Ulyanov, as reported by CRS",
+   "description": "Russia alleged that deployment of Aegis Ashore Mk-41 launchers in Europe would be a breach of the Treaty; Russia also alleged that US target missiles and armed drones were inconsistent with it. The United States denied these allegations.",
+   "source_url": "https://www.everycrsreport.com/files/20190208_R43832_73df41b3dfd5716f0b510f385b41cb88e19788d2.html",
+   "locator": "CRS R43832, Russian concerns about US compliance"
+  },
+  {
+   "event": "First Special Verification Commission session in 13 years",
+   "date": null,
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States; Belarus; Kazakhstan; Russia; Ukraine",
+   "attribution": "US Department of State",
+   "description": "In November 2016 the United States convened the SVC to seek resolution of its compliance concern; the State Department reports no progress.",
+   "source_url": "https://2017-2021.state.gov/inf-treaty-at-a-glance/",
+   "locator": "Treaty at a Glance",
+   "date_precision": "Month",
+   "date_as_reported": "November 2016"
+  },
+  {
+   "event": "US integrated strategy announced",
+   "date": "2017-12-08",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States",
+   "attribution": "Arms Control Association",
+   "description": "The United States announced a strategy combining diplomacy, research and development on a conventional ground-launched intermediate-range missile, and economic measures against firms it said were involved in the 9M729 programme.",
+   "source_url": "https://www.armscontrol.org/factsheets/intermediate-range-nuclear-forces-inf-treaty-glance",
+   "locator": "The INF Treaty's Slow Demise"
+  },
+  {
+   "event": "Special Verification Commission session",
+   "date": "2017-12-12",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Treaty parties",
+   "attribution": "CRS; US Department of State",
+   "description": "SVC met in Geneva on 12 to 14 December 2017; the United States reported Russian denials and no resolution.",
+   "source_url": "https://www.everycrsreport.com/files/20190208_R43832_73df41b3dfd5716f0b510f385b41cb88e19788d2.html",
+   "locator": "CRS R43832"
+  },
+  {
+   "event": "President Trump announces intent to terminate",
+   "date": "2018-10-20",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States",
+   "attribution": "Arms Control Association",
+   "description": "President Trump announced he would terminate the Treaty, citing alleged Russian noncompliance and China's intermediate-range arsenal.",
+   "source_url": "https://www.armscontrol.org/factsheets/intermediate-range-nuclear-forces-inf-treaty-glance",
+   "locator": "Summary"
+  },
+  {
+   "event": "DNI briefing on alleged violation",
+   "date": "2018-11-30",
+   "effective_date": null,
+   "event_type": "Compliance allegation",
+   "actors": "United States; Russia",
+   "attribution": "US Director of National Intelligence Daniel Coats",
+   "description": "The DNI alleged that Russia tested the 9M729 beyond 500 km from a fixed launcher and below 500 km from a mobile launcher, combining the tests to develop a ground-mobile intermediate-range missile.",
+   "source_url": "https://www.armscontrol.org/factsheets/intermediate-range-nuclear-forces-inf-treaty-glance",
+   "locator": "The INF Treaty's Slow Demise"
+  },
+  {
+   "event": "US declares Russia in material breach",
+   "date": "2018-12-04",
+   "effective_date": null,
+   "event_type": "Compliance allegation",
+   "actors": "United States; Russia; NATO",
+   "attribution": "US Department of State; NATO foreign ministers",
+   "description": "Secretary Pompeo declared Russia's alleged violation a material breach and said the United States would suspend its obligations in 60 days absent a return to compliance. NATO foreign ministers stated the same day that Russia had violated the Treaty.",
+   "source_url": "https://2017-2021.state.gov/russias-violation-of-the-intermediate-range-nuclear-forces-inf-treaty/",
+   "locator": "Russia's Violation of the INF Treaty"
+  },
+  {
+   "event": "Russia displays 9M729 canister and disputes range",
+   "date": "2019-01-23",
+   "effective_date": null,
+   "event_type": "Compliance response",
+   "actors": "Russia",
+   "attribution": "Russian Ministry of Defence, as reported by CRS",
+   "description": "Russia displayed the 9M729 canister to foreign attaches and press and maintained that the missile's range was below 500 km and Treaty-compliant.",
+   "source_url": "https://www.everycrsreport.com/files/20190208_R43832_73df41b3dfd5716f0b510f385b41cb88e19788d2.html",
+   "locator": "CRS R43832"
+  },
+  {
+   "event": "United States suspends its obligations",
+   "date": "2019-02-02",
+   "effective_date": "2019-02-02",
+   "event_type": "Suspension by a party",
+   "actors": "United States",
+   "attribution": "US Department of State; CRS",
+   "description": "The United States suspended its obligations under the Treaty, citing Russian material breach.",
+   "source_url": "https://www.everycrsreport.com/files/20190208_R43832_73df41b3dfd5716f0b510f385b41cb88e19788d2.html",
+   "locator": "CRS R43832 summary"
+  },
+  {
+   "event": "US notice of withdrawal",
+   "date": "2019-02-02",
+   "effective_date": "2019-08-02",
+   "event_type": "Withdrawal notice",
+   "actors": "United States",
+   "attribution": "US Department of State",
+   "description": "The United States gave six months' notice of withdrawal under Art. XV(2), citing Russia's alleged continuing violation.",
+   "source_url": "https://2017-2021.state.gov/u-s-withdrawal-from-the-inf-treaty-on-august-2-2019/",
+   "locator": "Statement of 2 August 2019"
+  },
+  {
+   "event": "Russia announces suspension of its obligations",
+   "date": "2019-02-02",
+   "effective_date": "2019-03-04",
+   "event_type": "Suspension by a party",
+   "actors": "Russia",
+   "attribution": "Arms Control Association; CRS",
+   "description": "President Putin announced that Russia would suspend its participation in response; he signed a decree formalizing the suspension on 4 March 2019.",
+   "source_url": "https://www.armscontrol.org/factsheets/intermediate-range-nuclear-forces-inf-treaty-glance",
+   "locator": "The INF Treaty's Slow Demise"
+  },
+  {
+   "event": "US withdrawal takes effect",
+   "date": "2019-08-02",
+   "effective_date": "2019-08-02",
+   "event_type": "Withdrawal effective",
+   "actors": "United States",
+   "attribution": "US Department of State",
+   "description": "Secretary Pompeo stated that the withdrawal took effect because Russia had not destroyed the 9M729 and that Russia was solely responsible; Russia rejected that characterization.",
+   "source_url": "https://2017-2021.state.gov/u-s-withdrawal-from-the-inf-treaty-on-august-2-2019/",
+   "locator": "Statement of 2 August 2019"
+  },
+  {
+   "event": "Treaty ceases to operate",
+   "date": "2019-08-02",
+   "effective_date": "2019-08-02",
+   "event_type": "Termination",
+   "actors": "United States; Russia",
+   "attribution": "US Department of State; Arms Control Association",
+   "description": "With the US withdrawal effective, the Treaty no longer bound the United States and is treated as terminated.",
+   "source_url": "https://www.armscontrol.org/factsheets/intermediate-range-nuclear-forces-inf-treaty-glance",
+   "locator": "Summary"
+  },
+  {
+   "event": "Russia ends self-declared moratorium on INF-range deployments",
+   "date": "2025-08-04",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Russia",
+   "attribution": "Russian Foreign Ministry, as reported by PBS/AP",
+   "description": "Russia stated it no longer considered itself bound by its post-2019 self-imposed restrictions on deploying intermediate- and shorter-range missiles, citing US deployment plans in Europe and Asia.",
+   "source_url": "https://www.pbs.org/newshour/world/russia-will-no-longer-abide-by-self-imposed-moratorium-on-intermediate-range-missiles",
+   "locator": "PBS NewsHour/AP report"
+  }
+ ],
+ "section_provisions_md": "### Core obligations\n- **Elimination of intermediate-range missiles (1,000 to 5,500 km).** All missiles, launchers, support structures and support equipment to be eliminated within three years (Art. IV(1)). Phase-one ceilings at 29 months capped deployed launchers at 171 warhead-equivalents, deployed missiles at 180 warheads, and aggregate launchers and missiles at 200 warheads each, and froze the GLBM share at its 1 November 1987 level (Art. IV(2)(a)).\n- **Elimination of shorter-range missiles (500 to 1,000 km).** All to be eliminated within 18 months (Art. V(1)); deployed missiles and all launchers moved to elimination facilities within 90 days and non-deployed missiles within 12 months, with missile and launcher facilities at least 1,000 km apart (Art. V(2)-(3)).\n- **Permanent bans.** No production or flight-testing of intermediate-range missiles, their stages or launchers, and no production, flight-testing or launch of shorter-range missiles (Art. VI(1)); neither Party may \"have such systems thereafter\" (Art. I).\n- **Scope.** The bans apply to ground-launched systems regardless of warhead (Art. II). Exceptions cover missile-defence interceptors (Art. VII(3)), sea- or air-mode missiles tested from fixed test launchers (Art. VII(11)), R&D boosters with at most 35 launchers (Art. VII(12)), and one permitted GLBM type with an outwardly similar stage (Art. VI(2)).\n\n### Locational and operational limits\n- Missiles and launchers only in deployment areas, at support facilities or in transit (Art. VIII(1)-(3)); transit within 25 days (Art. VIII(4)); no change to the declared facilities (Art. VIII(5)); none at production plants, test ranges or training facilities (Art. VIII(6)-(7)).\n- Removal for elimination in complete units: Pershing II batteries, BGM-109G flights, SS-20 regiments (Art. X(3)). Up to 100 intermediate-range missiles could be eliminated by launching in the first six months (Art. X(5)). Pershing IB and SSC-X-4 eliminated within six months (Art. X(6)). Deployment areas, bases and support facilities to be eliminated (Art. X(8)).\n\n### Transparency and verification\n- **Data and notifications.** MOU data base as of 1 November 1987, updated within 30 days of entry into force and every six months, plus advance and 48-hour notifications, all through the Nuclear Risk Reduction Centers (Art. IX, XIII(2)).\n- **On-site inspection (13 years).** Baseline, closeout, elimination and short-notice inspections, the last at 20, 15 and then ten per year, including in basing countries (Art. XI(3)-(8)). Continuous portal monitoring at Votkinsk and Magna, Utah (Art. XI(6)).\n- **National technical means.** No interference with NTM and no concealment impeding verification (Art. XII(1)-(2)); up to six requests a year for open display of road-mobile ICBMs during the first three years (Art. XII(3)).\n\n### Protocols and memorandum\n- **Protocol on Elimination.** Specifies destruction methods for each item (Sec. II(10)); stages burned must not be instrumented (Sec. II(7)); elimination launches must be single, six hours apart, not used as interceptor targets, and without telemetry beyond range-safety data (Sec. III); static display capped at 15 missiles, 15 canisters and 15 launchers (Sec. V(2)); accidental losses notified within 48 hours (Sec. V(1)).\n- **Protocol on Inspection.** Inspector and aircrew lists capped at 200; teams of ten, 20 or 30; 16-hour or 72-hour notice; 24-hour inspection periods; portal perimeter, declaration and measurement rules (Sec. III-IX).\n- **Memorandum of Understanding.** Declared 695 US and 826 Soviet intermediate-range missiles, 170 US and 926 Soviet shorter-range missiles, and listed facilities and support items (Sec. II).\n\n### Institutions and final clauses\n- Special Verification Commission to resolve compliance questions and agree measures (Art. XIII(1)); no conflicting obligations (Art. XIV); unlimited duration with withdrawal on six months' notice for supreme interests (Art. XV); amendment by agreement and ratification (Art. XVI).\n",
+ "section_history_md": "### Origins and negotiation\nSoviet deployment of the SS-20 from the mid-1970s led NATO to adopt its 1979 dual-track decision, pairing planned Pershing II and ground-launched cruise missile deployments with an offer to negotiate. Talks stalled while US deployments went ahead in the early 1980s. After 1985 the negotiations broadened to a global ban, and Ronald Reagan and Mikhail Gorbachev signed the Treaty at Washington on 8 December 1987. The US Senate gave advice and consent on 27 May 1988 by 93 votes to 5, and the Treaty entered into force on 1 June 1988 on exchange of instruments at Moscow (Art. XVII(1)).\n\n### Implementation\nThe State Department reports that the United States eliminated its last covered missiles in late April and early May 1991 and the USSR its last declared SS-20 in May 1991, a total of 2,692 missiles. After the Soviet Union dissolved, the United States multilateralized implementation with the six successor states with inspectable facilities; Belarus, Kazakhstan, Russia and Ukraine participated actively. Inspection and monitoring ended on 31 May 2001 under Art. XI. On 25 October 2007 the United States and Russia jointly called at the UN General Assembly for other states to renounce INF-range missiles.\n\n### Compliance dispute, 2014-2019\n- In its July 2014 compliance report, confirmed publicly on 29 July 2014, the United States alleged that Russia was violating its obligations not to possess, produce or flight-test a GLCM with a range of 500 to 5,500 km, or to possess or produce its launchers. Later reports repeated the allegation, and in late 2017 the United States identified the missile as the 9M729 (SSC-8).\n- Russia denied the allegation and alleged US noncompliance: Aegis Ashore Mk-41 launchers in Europe, target missiles for missile-defence tests, and armed drones. The United States rejected these claims.\n- The Special Verification Commission met in November 2016 and in December 2017 without resolving the dispute.\n- On 4 December 2018 the United States declared Russia in material breach and set a 60-day deadline. NATO foreign ministers stated that Russia had violated the Treaty. On 23 January 2019 Russia displayed the 9M729 canister and maintained that its range was below 500 km.\n- On 2 February 2019 the United States suspended its obligations and gave notice of withdrawal under Art. XV(2). Russia announced its own suspension the same day, formalized by decree on 4 March 2019.\n- The US withdrawal took effect on 2 August 2019 and the Treaty ceased to operate. The State Department said Russia was solely responsible; Russia rejected that view.\n- On 4 August 2025 the Russian Foreign Ministry stated that Russia no longer considered itself bound by its self-declared moratorium on deploying INF-range missiles.\n\n### Sources\n- [UN Treaty Series vol. 1657, No. 28521 (official text with MOU and protocols)](https://treaties.un.org/doc/Publication/UNTS/Volume%201657/v1657.pdf)\n- [FAS reproduction of the Treaty text](https://nuke.fas.org/control/inf/text/inf.htm)\n- [US Department of State, INF Treaty at a Glance](https://2017-2021.state.gov/inf-treaty-at-a-glance/)\n- [US Department of State, Russia's Violation of the INF Treaty (Dec. 2018)](https://2017-2021.state.gov/russias-violation-of-the-intermediate-range-nuclear-forces-inf-treaty/)\n- [US Department of State, US Withdrawal from the INF Treaty on August 2, 2019](https://2017-2021.state.gov/u-s-withdrawal-from-the-inf-treaty-on-august-2-2019/)\n- [Arms Control Association, INF Treaty at a Glance](https://www.armscontrol.org/factsheets/intermediate-range-nuclear-forces-inf-treaty-glance)\n- [Arms Control Today, Russia Breaches INF Treaty, U.S. Says (2014)](https://www.armscontrol.org/act/2014-08/russia-breaches-inf-treaty-us-says)\n- [Congressional Research Service, R43832 (Feb. 2019)](https://www.everycrsreport.com/files/20190208_R43832_73df41b3dfd5716f0b510f385b41cb88e19788d2.html)\n- [Senate roll call vote 586, 100th Congress](https://voteview.com/rollcall/RS1000586)\n- [PBS NewsHour, Russia ends moratorium (Aug. 2025)](https://www.pbs.org/newshour/world/russia-will-no-longer-abide-by-self-imposed-moratorium-on-intermediate-range-missiles)\n",
+ "unverified": [
+  {
+   "field": "number_of_parties",
+   "reason": "Recorded as the two original Parties as of entry into force. Post-1991 succession was handled by separate arrangements (State Department: six successor states with facilities, four active); CRS refers to Russia and 11 other successor states. The formal party count at termination is not settled in the sources consulted."
+  },
+  {
+   "field": "events: Multilateralization among USSR successor states",
+   "reason": "No single date or instrument located; State Department describes separate agreements with each successor state."
+  },
+  {
+   "field": "events: November 2016 SVC session",
+   "reason": "State Department gives only 'November 2016'; exact dates not verified from an official source."
+  },
+  {
+   "field": "events: Russian ratification",
+   "reason": "Date of ratification by the USSR Supreme Soviet Presidium not verified; only the 1 June 1988 exchange of instruments is recorded."
+  },
+  {
+   "field": "national_authority",
+   "reason": "Coded Yes because Art. IX(2) and XIII(2) require use of each Party's Nuclear Risk Reduction Center; the Treaty does not create a CWC-style national authority. Confirm the coding convention."
+  },
+  {
+   "field": "State Department pages",
+   "reason": "Live state.gov pages returned access errors; content was read via Internet Archive copies of the 2017-2021 archive pages."
+  },
+  {
+   "field": "UNTS page locators",
+   "reason": "UNTS page numbers inferred from printed folios on the protocol pages (PDF page minus six); treaty article pages beyond p. 4 not individually checked."
+  }
+ ],
+ "corrections": [
+  "Treaty Name (Full) gave the common name 'Intermediate-Range Nuclear Forces Treaty (INF)'; the official title is 'Treaty between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles'.",
+  "'Date Ratified' and 'Signatories & Dates' give 27 May 1988 for both Parties. That is the date of US Senate advice and consent (93-5), not ratification by either Party; instruments of ratification were exchanged at Moscow on 1 June 1988.",
+  "Depository listed as 'US, USSR'. The bilateral Treaty designates no depositary; it was registered with the UN Secretariat by both Parties on 13 December 1991 (Art. XVII(2), UNTS No. 28521).",
+  "The body field 'Extension provisions' quotes the Art. XV withdrawal clause; the Treaty has no extension provision because its duration is unlimited.",
+  "Word count '8500' has no stated basis; the English treaty text (17 articles, excluding MOU and protocols) is about 6,283 words.",
+  "'Type of Limitation: Possession, stockpiling' is incomplete; the Treaty also bans production and flight-testing (Art. VI) and requires elimination (Art. IV-V, X), with locational limits (Art. VIII).",
+  "Weapon types listed 'Nuclear'. The Treaty limits ground-launched missiles regardless of warhead and does not limit nuclear warheads themselves (warhead devices may be removed before elimination, Protocol on Elimination Sec. II(3)).",
+  "'Compliance History: Bad' is an unattributed verdict; replaced with attributed events (US allegations from 2014, Russian denials and counter-allegations).",
+  "Verification recorded as 'On site inspections' only; the Treaty also provides national technical means, non-interference, continuous portal monitoring and cooperative measures (Art. XI-XII).",
+  "Treaty URL was blank; the official text is UNTS vol. 1657, No. 28521.",
+  "Status 'Terminated' confirmed: US withdrawal effective 2 August 2019; Expiration/end date was blank."
+ ]
+}

@@ -1,0 +1,863 @@
+[
+ {
+  "record_id": "AC-1",
+  "page_id": "2172b9a4-1a30-8082-acdb-e43ed15d38fb",
+  "title": "Treaty on the Prohibition of Nuclear Weapons",
+  "short_name": "UN TPNW",
+  "year": "2017"
+ },
+ {
+  "record_id": "AC-2",
+  "page_id": "2362b9a4-1a30-8063-9101-de36c94a44d4",
+  "title": "Washington Conference on the Limitation of Armament (1921-1922)",
+  "short_name": "https://history.state.gov/milestones/1921-1936/naval-conference",
+  "year": ""
+ },
+ {
+  "record_id": "AC-3",
+  "page_id": "2572b9a4-1a30-8170-acfc-d9bb45da2a21",
+  "title": "Arms Trade Treaty",
+  "short_name": "ATT",
+  "year": "2013"
+ },
+ {
+  "record_id": "AC-4",
+  "page_id": "2572b9a4-1a30-81b9-91c3-e36ef64f1335",
+  "title": "New Strategic Arms Reduction Treaty (START)",
+  "short_name": "New START",
+  "year": "2010"
+ },
+ {
+  "record_id": "AC-5",
+  "page_id": "2572b9a4-1a30-81cb-9da0-dcab3cfffe20",
+  "title": "Convention on Cluster Munitions",
+  "short_name": "CCM, Oslo Convention",
+  "year": "2008"
+ },
+ {
+  "record_id": "AC-6",
+  "page_id": "2572b9a4-1a30-81e4-bf11-f0de79741ff4",
+  "title": "Central African Convention for the Control of Small Arms and Light Weapons, their Ammunition and all Parts and Components that can be used for their Manufacture, Repair and Assembly",
+  "short_name": "Kinshasa Convention",
+  "year": "2010"
+ },
+ {
+  "record_id": "AC-7",
+  "page_id": "2572b9a4-1a30-8138-8be2-fba785d7d088",
+  "title": "International Instrument to Enable States to Identify and Trace, in a Timely and Reliable Manner, Illicit Small Arms and Light Weapons",
+  "short_name": "International Tracing Instrument (ITI)",
+  "year": ""
+ },
+ {
+  "record_id": "AC-8",
+  "page_id": "2572b9a4-1a30-8155-8249-d5b3397dc8ba",
+  "title": "Treaty on a Nuclear-Weapon-Free Zone in Central Asia",
+  "short_name": "Semipalatinsk Treaty",
+  "year": "2006"
+ },
+ {
+  "record_id": "AC-9",
+  "page_id": "2572b9a4-1a30-8180-bf28-ebceef8687fe",
+  "title": "United Nations Security Council Resolution 1540",
+  "short_name": "UNSCR 1540",
+  "year": ""
+ },
+ {
+  "record_id": "AC-10",
+  "page_id": "2572b9a4-1a30-81be-87e0-dfbe07705f0d",
+  "title": "International Convention for the Suppression of Acts of Nuclear Terrorism",
+  "short_name": "Nuclear Terrorism Convention",
+  "year": ""
+ },
+ {
+  "record_id": "AC-11",
+  "page_id": "2572b9a4-1a30-8134-9137-d522dc266791",
+  "title": "Program for Coordination and Assistance forSecurity and Development in Africa",
+  "short_name": "PCASED",
+  "year": ""
+ },
+ {
+  "record_id": "AC-12",
+  "page_id": "2572b9a4-1a30-813c-8d8f-f2da353b08dc",
+  "title": "Inter-American Convention against Terrorism",
+  "short_name": "Inter-American Convention against Terrorism",
+  "year": ""
+ },
+ {
+  "record_id": "AC-13",
+  "page_id": "2572b9a4-1a30-815e-995c-cc9d304f2266",
+  "title": "Mutual Reduction of Military Forces in the Border Areas",
+  "short_name": "Shanghai Agreement",
+  "year": ""
+ },
+ {
+  "record_id": "AC-14",
+  "page_id": "2572b9a4-1a30-8167-b43e-da865adf4835",
+  "title": "Hague Code of Conduct against Ballistic Missile Proliferation",
+  "short_name": "HCoC (adopted as the ICOC)",
+  "year": "2002"
+ },
+ {
+  "record_id": "AC-15",
+  "page_id": "2572b9a4-1a30-8196-826b-e94139a05791",
+  "title": "Amendment to Article 1 of the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons Which May Be Deemed to Be Excessively Injurious or to Have Indiscriminate Effects",
+  "short_name": "CCW Amendment to Article 1",
+  "year": ""
+ },
+ {
+  "record_id": "AC-16",
+  "page_id": "2572b9a4-1a30-81bf-b32b-d00d8f618593",
+  "title": "Convention on the Prohibition of the Use, Stockpiling, Production and Transfer of Anti-Personnel Mines and on their Destruction",
+  "short_name": "Ottawa Convention; Mine Ban Treaty; APMBC",
+  "year": "1997"
+ },
+ {
+  "record_id": "AC-17",
+  "page_id": "2572b9a4-1a30-81c5-96a9-e3a8279e9de2",
+  "title": "Strategic Offensive Reductions Treaty",
+  "short_name": "SORT/Moscow Treaty",
+  "year": "2002"
+ },
+ {
+  "record_id": "AC-18",
+  "page_id": "2572b9a4-1a30-81dd-975e-c034f38b809c",
+  "title": "Inter-American Convention on Transparency in Conventional Weapons Acquisitions",
+  "short_name": "Inter-American Convention on Transparency",
+  "year": ""
+ },
+ {
+  "record_id": "AC-19",
+  "page_id": "2572b9a4-1a30-81ea-a26f-defd4dfa0c47",
+  "title": "Prevention of Arms Race in Outer Space",
+  "short_name": "PAROS",
+  "year": ""
+ },
+ {
+  "record_id": "AC-20",
+  "page_id": "2572b9a4-1a30-81f9-a8d9-c7a23d4de1ed",
+  "title": "Inter-American Convention Against the Illicit Manufacturing of and Trafficking in Firearms, Ammunition, Explosives, and Other Related Materials",
+  "short_name": "CIFTA",
+  "year": "1997"
+ },
+ {
+  "record_id": "AC-22",
+  "page_id": "2572b9a4-1a30-811d-87b2-e799b5b8ea2d",
+  "title": "Wassenaar Arrangement on Export Controls for Conventional Arms and Dual-Use Goods and Technologies",
+  "short_name": "Wassenaar Arrangement",
+  "year": ""
+ },
+ {
+  "record_id": "AC-23",
+  "page_id": "2572b9a4-1a30-813a-b44e-e13b203855cb",
+  "title": "African Nuclear-Weapon-Free Zone Treaty",
+  "short_name": "Pelindaba Treaty",
+  "year": "1995"
+ },
+ {
+  "record_id": "AC-24",
+  "page_id": "2572b9a4-1a30-8143-b7e2-d179e92278e0",
+  "title": "Southeast Asian Nuclear-Weapon-Free Zone Treaty ",
+  "short_name": "Treaty of Bangkok",
+  "year": "1995"
+ },
+ {
+  "record_id": "AC-25",
+  "page_id": "2572b9a4-1a30-8157-943a-e2f6a1171880",
+  "title": " Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction",
+  "short_name": "CWC",
+  "year": "1992"
+ },
+ {
+  "record_id": "AC-26",
+  "page_id": "2572b9a4-1a30-817a-8a3e-d306152a1465",
+  "title": "Additional Protocol to the Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons which may be deemed to be Excessively Injurious or to have Indiscriminate Effects (Protocol IV, entitled Protocol on Blinding Laser Weapons)",
+  "short_name": "CCW Protocol IV",
+  "year": "1995"
+ },
+ {
+  "record_id": "AC-27",
+  "page_id": "2572b9a4-1a30-8185-ac57-d07aa9d4ab4f",
+  "title": "CCW Amended Protocol II: on Prohibitions or Restrictions on the Use of Mines, Booby-Traps and Other Devices",
+  "short_name": "CCW Amended Protocol II",
+  "year": ""
+ },
+ {
+  "record_id": "AC-28",
+  "page_id": "2572b9a4-1a30-818b-bcf1-f85cd2e22925",
+  "title": "Comprehensive Nuclear Test-Ban Treaty",
+  "short_name": "CTBT",
+  "year": "1996"
+ },
+ {
+  "record_id": "AC-29",
+  "page_id": "2572b9a4-1a30-81bc-bab1-eb7931fe5883",
+  "title": "Strategic Arms Reductions Treaty II (START II)",
+  "short_name": "START II",
+  "year": "1993"
+ },
+ {
+  "record_id": "AC-30",
+  "page_id": "2572b9a4-1a30-81e9-890f-f84f7ec55f24",
+  "title": "Treaty banning the production of fissile material for nuclear weapons or other nuclear explosive devices (Fissile Material Cut-off Treaty)",
+  "short_name": "FMCT",
+  "year": ""
+ },
+ {
+  "record_id": "AC-31",
+  "page_id": "2572b9a4-1a30-8112-8982-fff27ab01aa6",
+  "title": "Open Skies Treaty",
+  "short_name": "Open Skies Treaty",
+  "year": "1992"
+ },
+ {
+  "record_id": "AC-32",
+  "page_id": "2572b9a4-1a30-811a-a778-e63a953253fd",
+  "title": "Agreement Concerning the Disposition of Highly Enriched Uranium Resulting from the Dismantlement of Nuclear Weapons in Russia (HEU Agreement)",
+  "short_name": "HEU Purchase Agreement",
+  "year": ""
+ },
+ {
+  "record_id": "AC-33",
+  "page_id": "2572b9a4-1a30-8128-8e4a-dfc18bca9cbc",
+  "title": "Vienna Document of the Negotiations on Confidence- and Security-Building Measures",
+  "short_name": "Vienna Document",
+  "year": ""
+ },
+ {
+  "record_id": "AC-34",
+  "page_id": "2572b9a4-1a30-8130-bc44-f81ac19c65b0",
+  "title": "Mongolia single state NWFZ + P5 Protocols",
+  "short_name": "Mongolia NWFZ",
+  "year": ""
+ },
+ {
+  "record_id": "AC-35",
+  "page_id": "2572b9a4-1a30-8193-9c6c-e93c3edd2e19",
+  "title": "Agreement Between the United States and Republic of Kazakhstan Concerning the Destruction of Silo Launchers of Intercontinental Ballistic Missiles, Emergency Response, and the Prevention of Proliferation of Weapons of Mass Destruction",
+  "short_name": "US-Kazakhstan CTR Agreement",
+  "year": ""
+ },
+ {
+  "record_id": "AC-36",
+  "page_id": "2572b9a4-1a30-8193-b9d2-ed67851ae3b6",
+  "title": "Agreement Between the United States and Ukraine Concerning Assistance to Ukraine in the Elimination of Strategic Nuclear Arms, and the Prevention of Proliferation of Weapons of Mass Destruction",
+  "short_name": "US-UA CTR Agreement",
+  "year": ""
+ },
+ {
+  "record_id": "AC-37",
+  "page_id": "2572b9a4-1a30-81cf-ab6c-e9bd3face4c2",
+  "title": "Agreement Between the United States and Republic of Belarus Concerning Emergency Response and the Prevention of Proliferation of Weapons of Mass Destruction",
+  "short_name": "US-Belarus CTR Agreement",
+  "year": ""
+ },
+ {
+  "record_id": "AC-38",
+  "page_id": "2572b9a4-1a30-81e7-bc8c-c6459c2de008",
+  "title": "Conventional Armed Forces in Europe ",
+  "short_name": "CFE Treaty",
+  "year": "1990"
+ },
+ {
+  "record_id": "AC-39",
+  "page_id": "2572b9a4-1a30-81fc-bf76-fbece8c35160",
+  "title": "Agreement Concerning the Safe and Secure Transportation, Storage, and Destruction of Weapons and Prevention of Weapons Proliferation (US-Russia)",
+  "short_name": "CTR Umbrella Agreement",
+  "year": ""
+ },
+ {
+  "record_id": "AC-40",
+  "page_id": "2572b9a4-1a30-810e-8974-c1fd8a9dcfbd",
+  "title": "Agreement on Notifications of Launches of Intercontinental Ballistic Missiles and Submarine Launched Ballistic Missiles",
+  "short_name": "SLBM/ICBM Launch Notification Agreement",
+  "year": ""
+ },
+ {
+  "record_id": "AC-41",
+  "page_id": "2572b9a4-1a30-810e-93e5-ddc12e80f17f",
+  "title": "CCW Protocol II  – Prohibitions or Restrictions on the Use of Mines, Booby Traps and Other Devices",
+  "short_name": "CCW Protocol II",
+  "year": "1996"
+ },
+ {
+  "record_id": "AC-42",
+  "page_id": "2572b9a4-1a30-8123-bf6a-c5d977e8e596",
+  "title": "South Pacific Nuclear Free Zone Treaty",
+  "short_name": "Treaty of Rarotonga",
+  "year": "1985"
+ },
+ {
+  "record_id": "AC-43",
+  "page_id": "2572b9a4-1a30-8127-8ad9-e2cb7796942a",
+  "title": "Document of the Stockholm Conference on Confidence- and Security-Building Measures and Disarmament in Europe (Stockholm Document)",
+  "short_name": "Stockholm Document",
+  "year": ""
+ },
+ {
+  "record_id": "AC-44",
+  "page_id": "2572b9a4-1a30-8136-adc6-e7ca3f5c87ec",
+  "title": "Treaty between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles",
+  "short_name": "INF Treaty",
+  "year": "1987"
+ },
+ {
+  "record_id": "AC-45",
+  "page_id": "2572b9a4-1a30-8147-b7fa-ebf5bc33a483",
+  "title": "Agreement Between the United States of America and the Union of Soviet Socialist Republics on Destruction and Non-production of Chemical Weapons and on Measures to Facilitate the Multilateral Convention on Banning Chemical Weapons",
+  "short_name": "Wyoming MOU",
+  "year": ""
+ },
+ {
+  "record_id": "AC-46",
+  "page_id": "2572b9a4-1a30-818b-9fc5-f2dde294d9c5",
+  "title": "Agreement on the Prevention of Dangerous Military Activities",
+  "short_name": "DMA Agreement",
+  "year": ""
+ },
+ {
+  "record_id": "AC-47",
+  "page_id": "2572b9a4-1a30-8194-abdd-e54fadf2525f",
+  "title": "Convention on Prohibitions or Restrictions on the Use of Certain Conventional Weapons which may be deemed to be Excessively Injurious or to have Indiscriminate Effects",
+  "short_name": "CCW",
+  "year": "1980"
+ },
+ {
+  "record_id": "AC-48",
+  "page_id": "2572b9a4-1a30-81b6-ab2b-cee8e8b71479",
+  "title": "Missile Technology Control Regime",
+  "short_name": "MTCR",
+  "year": "1987"
+ },
+ {
+  "record_id": "AC-49",
+  "page_id": "2572b9a4-1a30-81db-ae99-f95a0829bbde",
+  "title": "CCW Protocol I –  Non-Detectable Fragments",
+  "short_name": "CCW Protocol I",
+  "year": "1980"
+ },
+ {
+  "record_id": "AC-51",
+  "page_id": "2572b9a4-1a30-8119-8cd7-fc697dc64831",
+  "title": "Threshold Test Ban Treaty 1974 U.S. - U.S.S.R. ",
+  "short_name": "TTBT",
+  "year": "1974"
+ },
+ {
+  "record_id": "AC-52",
+  "page_id": "2572b9a4-1a30-811e-9415-ef940a3def6f",
+  "title": "Agreement Between The United States of America and The Union of Soviet Socialist Republics on the Prevention of Nuclear War",
+  "short_name": "Prevention of Nuclear War Agreement",
+  "year": ""
+ },
+ {
+  "record_id": "AC-53",
+  "page_id": "2572b9a4-1a30-8122-b2a4-c64d1d131296",
+  "title": "Convention on the Prohibition of Military or any other Hostile Use of Environmental Modification Techniques",
+  "short_name": "ENMOD",
+  "year": ""
+ },
+ {
+  "record_id": "AC-54",
+  "page_id": "2572b9a4-1a30-815e-b971-ff628afb7f35",
+  "title": "Agreement Governing the Activities of States on the Moon and Other Celestial Bodies (Moon Agreement)",
+  "short_name": "Moon Agreement",
+  "year": "1979"
+ },
+ {
+  "record_id": "AC-55",
+  "page_id": "2572b9a4-1a30-81bc-87df-c4954e9f950b",
+  "title": "CCW Protocol III – Prohibitions or Restrictions on the Use of Incendiary Weapons",
+  "short_name": "CCW Protocol III",
+  "year": ""
+ },
+ {
+  "record_id": "AC-56",
+  "page_id": "2572b9a4-1a30-81cf-89a0-cb4e38171806",
+  "title": "Peaceful Nuclear Explosions Treaty 1976 ",
+  "short_name": "PNET",
+  "year": ""
+ },
+ {
+  "record_id": "AC-57",
+  "page_id": "2572b9a4-1a30-81db-afa1-f5b60b5efbab",
+  "title": "Concluding Document of the Conference on Security and Cooperation in Europe (Helsinki Final Act),",
+  "short_name": "Helsinki Final Act",
+  "year": ""
+ },
+ {
+  "record_id": "AC-58",
+  "page_id": "2572b9a4-1a30-8105-8507-c4a91445e618",
+  "title": "Convention on the Prohibition of the Development, Production and Stockpiling of Bacteriological (Biological) and Toxin Weapons and on their Destruction",
+  "short_name": "BWC, BTWC",
+  "year": "1971"
+ },
+ {
+  "record_id": "AC-59",
+  "page_id": "2572b9a4-1a30-8115-a5c0-d0a8b2bec905",
+  "title": "Antarctic Treaty",
+  "short_name": "Antarctic Treaty",
+  "year": "1959"
+ },
+ {
+  "record_id": "AC-60",
+  "page_id": "2572b9a4-1a30-813e-b203-d2f281a49687",
+  "title": "Seabed Arms Control Treaty",
+  "short_name": "Seabed Treaty",
+  "year": "1970"
+ },
+ {
+  "record_id": "AC-61",
+  "page_id": "2572b9a4-1a30-8149-b8ab-f3c337b5d8c4",
+  "title": " Treaty for the Limitation of Naval Armament",
+  "short_name": "London Naval Treaty II",
+  "year": "1936"
+ },
+ {
+  "record_id": "AC-62",
+  "page_id": "2572b9a4-1a30-814d-ac42-d31c455a7b0a",
+  "title": "Nuclear Nonproliferation Treaty",
+  "short_name": "NPT",
+  "year": "1968"
+ },
+ {
+  "record_id": "AC-63",
+  "page_id": "2572b9a4-1a30-81af-877e-daf0e5f874bc",
+  "title": "Agreement on Measures to Reduce the Risk of Outbreak of Nuclear War (Accident Measures Agreement)",
+  "short_name": "Nuclear Accidents Agreement",
+  "year": ""
+ },
+ {
+  "record_id": "AC-64",
+  "page_id": "2572b9a4-1a30-81b8-a7e8-d6526df49527",
+  "title": "Limited/Partial Test Ban Treaty 1963",
+  "short_name": "LTBT/PTBT",
+  "year": "1963"
+ },
+ {
+  "record_id": "AC-65",
+  "page_id": "2572b9a4-1a30-81e9-a804-d48ef73f6242",
+  "title": "Outer Space Treaty",
+  "short_name": "OST",
+  "year": "1966"
+ },
+ {
+  "record_id": "AC-66",
+  "page_id": "2572b9a4-1a30-81f2-8a9f-f18539cda8c2",
+  "title": "Anti-Ballistic Missile Treaty (ABM) Treaty + 1974 Protocol",
+  "short_name": "ABM Treaty",
+  "year": "1972"
+ },
+ {
+  "record_id": "AC-67",
+  "page_id": "2572b9a4-1a30-8112-9263-cd0822ee1bff",
+  "title": "Hague (IX): Convention concerning Bombardment by Naval Forces in Time of War",
+  "short_name": "Hague IX",
+  "year": ""
+ },
+ {
+  "record_id": "AC-68",
+  "page_id": "2572b9a4-1a30-8131-8052-c445fb4b2539",
+  "title": "Treaty Relating to the Use of Submarines and Noxious Gases in Warfare",
+  "short_name": "Washington Treaty 1922",
+  "year": ""
+ },
+ {
+  "record_id": "AC-69",
+  "page_id": "2572b9a4-1a30-8133-a2db-e960c9a6a5c2",
+  "title": "Hague (VII): Convention relative to the Conversion of Merchant Ships into War-ships",
+  "short_name": "Hague VII",
+  "year": ""
+ },
+ {
+  "record_id": "AC-70",
+  "page_id": "2572b9a4-1a30-8134-8693-e1d8624662eb",
+  "title": "Geneva Protocol on Asphyxiating or Poisonous Gases and of Bacteriological Methods, 1925",
+  "short_name": "Geneva Protocol",
+  "year": "1925"
+ },
+ {
+  "record_id": "AC-71",
+  "page_id": "2572b9a4-1a30-8164-aec2-f0a25b7177d5",
+  "title": "Hague (XIV): Declaration Prohibiting the Discharge of Projectiles and Explosives from Balloons",
+  "short_name": "Hague XIV",
+  "year": "1907"
+ },
+ {
+  "record_id": "AC-72",
+  "page_id": "2572b9a4-1a30-817c-849f-eb4449b5d01a",
+  "title": "Treaty for the Limitation and Reduction of Naval Armament",
+  "short_name": "London Naval Treaty I",
+  "year": "1930"
+ },
+ {
+  "record_id": "AC-73",
+  "page_id": "2572b9a4-1a30-819b-82bf-d726d06a1401",
+  "title": "Treaty between the United States of America, the British Empire, France, Italy and Japan for the Limitation of Naval Armament",
+  "short_name": "Washington Naval Treaty (Five-Power Treaty)",
+  "year": "1922"
+ },
+ {
+  "record_id": "AC-74",
+  "page_id": "2572b9a4-1a30-819f-9bf2-e1dd632d4357",
+  "title": "Hague (VIII): Convention relative to the Laying of Automatic Submarine Contact Mines",
+  "short_name": "Hague VIII",
+  "year": ""
+ },
+ {
+  "record_id": "AC-75",
+  "page_id": "2572b9a4-1a30-81c2-8fc2-eea2a988edf9",
+  "title": "Hague II Peace Conference of 1907",
+  "short_name": "Hague II 1907",
+  "year": ""
+ },
+ {
+  "record_id": "AC-76",
+  "page_id": "2572b9a4-1a30-81ed-9acc-cf97ccd99d76",
+  "title": "Hague (IV): Convention respecting the Laws and Customs of War on Land",
+  "short_name": "Hague IV",
+  "year": ""
+ },
+ {
+  "record_id": "AC-77",
+  "page_id": "2572b9a4-1a30-8121-9a12-fc29eb575ade",
+  "title": "Geneva  First Convention of 1864",
+  "short_name": "Geneva Convention 1864",
+  "year": ""
+ },
+ {
+  "record_id": "AC-78",
+  "page_id": "2572b9a4-1a30-8122-970c-e69c7eca2016",
+  "title": "Hague I Peace Conference of 1899",
+  "short_name": "Hague I 1899",
+  "year": ""
+ },
+ {
+  "record_id": "AC-79",
+  "page_id": "2572b9a4-1a30-8132-a94e-c980f1fbb529",
+  "title": "Project of an International Declaration concerning the Laws and Customs of War",
+  "short_name": "Brussels Declaration 1874",
+  "year": ""
+ },
+ {
+  "record_id": "AC-80",
+  "page_id": "2572b9a4-1a30-8146-9912-f753c3878e7d",
+  "title": "Declaration Renouncing the Use, in Time of War, of Explosive Projectiles Under 400 Grammes Weight",
+  "short_name": "St Petersburg Declaration",
+  "year": "1868"
+ },
+ {
+  "record_id": "AC-81",
+  "page_id": "2572b9a4-1a30-8171-bb9a-c54cd39127c7",
+  "title": "Hague (IV,3): Declaration concerning the Prohibition of the Use of Bullets which can Easily Expand or Change their Form inside the Human Body",
+  "short_name": "Hague I Declaration IV,3",
+  "year": "1899"
+ },
+ {
+  "record_id": "AC-82",
+  "page_id": "2572b9a4-1a30-8191-8d9e-dcf8590f7e78",
+  "title": "Hague (II): Convention with respect to the Laws and Customs of War on Land",
+  "short_name": "Hague I Convention II",
+  "year": ""
+ },
+ {
+  "record_id": "AC-83",
+  "page_id": "2572b9a4-1a30-8193-8808-ca309e3b83fd",
+  "title": "Hague (III): Convention for the Adaptation to Maritime Warfare of the Principles of the Geneva Convention of 22 August 1864",
+  "short_name": "Hague I Convention III",
+  "year": ""
+ },
+ {
+  "record_id": "AC-84",
+  "page_id": "2572b9a4-1a30-81bd-a1ce-d0705eb04d22",
+  "title": "Hague (IV,1): Declaration concerning the Prohibition of the Discharge of Projectiles and Explosives from Balloons or by Other New Analogous Methods",
+  "short_name": "Hague I Declaration IV,1",
+  "year": "1899"
+ },
+ {
+  "record_id": "AC-85",
+  "page_id": "2572b9a4-1a30-81bf-86ce-e99df94d9108",
+  "title": "Hague (I): Convention for the Pacific Settlement of International Disputes",
+  "short_name": "Hague I Convention I",
+  "year": ""
+ },
+ {
+  "record_id": "AC-86",
+  "page_id": "2572b9a4-1a30-81f4-8953-f91995339cbe",
+  "title": "Hague (IV,2): Declaration concerning the Prohibition of the Use of Projectiles with the Sole Object to Spread Asphyxiating Poisonous Gases",
+  "short_name": "Hague I Declaration IV,2",
+  "year": "1899"
+ },
+ {
+  "record_id": "AC-87",
+  "page_id": "25c2b9a4-1a30-81c4-b4c0-c175f629e318",
+  "title": "Agreed Framework Between the United States of America and the Democratic People's Republic of Korea",
+  "short_name": "US - ROK",
+  "year": ""
+ },
+ {
+  "record_id": "AC-89",
+  "page_id": "25c2b9a4-1a30-8165-b60c-e0fc0dd63858",
+  "title": "Strategic Arms Limitation Talks II (SALT II)",
+  "short_name": "SALT II",
+  "year": "1979"
+ },
+ {
+  "record_id": "AC-90",
+  "page_id": "25c2b9a4-1a30-819d-bfc2-d3cac021987b",
+  "title": "Strategic Arms Limitation Talks I (SALT I)",
+  "short_name": "SALT I",
+  "year": "1972"
+ },
+ {
+  "record_id": "AC-91",
+  "page_id": "25c2b9a4-1a30-81be-8eea-c9c890cf51dd",
+  "title": "Strategic Arms Reduction Treaty I - START I",
+  "short_name": "START I",
+  "year": "1991"
+ },
+ {
+  "record_id": "AC-92",
+  "page_id": "25c2b9a4-1a30-819d-b423-c4fcf49c1c19",
+  "title": "Convention on the Physical Protection of Nuclear Material",
+  "short_name": "CPPNM",
+  "year": "1979"
+ },
+ {
+  "record_id": "AC-93",
+  "page_id": "25c2b9a4-1a30-81b3-875f-decc63caabbe",
+  "title": "International Atomic Energy Agency",
+  "short_name": "IAEA",
+  "year": "1956"
+ },
+ {
+  "record_id": "AC-94",
+  "page_id": "25c2b9a4-1a30-8111-b50e-e9904be8b164",
+  "title": "G-7 Global Partnership Against the Spread of Weapons and Materials of Mass Destruction",
+  "short_name": "",
+  "year": ""
+ },
+ {
+  "record_id": "AC-95",
+  "page_id": "25c2b9a4-1a30-818d-ae0e-c4256da99481",
+  "title": "Proliferation Security Initiative",
+  "short_name": "",
+  "year": ""
+ },
+ {
+  "record_id": "AC-96",
+  "page_id": "25c2b9a4-1a30-81f5-b642-d01b3dd8f6bb",
+  "title": "Global Initiative to Combat Nuclear Terrorism",
+  "short_name": "",
+  "year": ""
+ },
+ {
+  "record_id": "AC-97",
+  "page_id": "25c2b9a4-1a30-81fc-bd86-d50c65d41156",
+  "title": "Nuclear Suppliers Group - Zangger Committee",
+  "short_name": "Zangger Committee",
+  "year": ""
+ },
+ {
+  "record_id": "AC-98",
+  "page_id": "25c2b9a4-1a30-8139-b05f-e0b109881be6",
+  "title": "Australia Group",
+  "short_name": "Australia Group",
+  "year": "1985"
+ },
+ {
+  "record_id": "AC-99",
+  "page_id": "25c2b9a4-1a30-81af-a001-dd7198c5a036",
+  "title": "Geneva Convention Additional Protocol I (to the 1949 Convention)",
+  "short_name": "1977",
+  "year": ""
+ },
+ {
+  "record_id": "AC-100",
+  "page_id": "25c2b9a4-1a30-8160-a681-f8597cac92b6",
+  "title": "Geneva Conventions Additional Protocol III (to the 1949 Convention)",
+  "short_name": "2005",
+  "year": ""
+ },
+ {
+  "record_id": "AC-101",
+  "page_id": "25c2b9a4-1a30-81e7-83d0-cbbedbc8c844",
+  "title": "Geneva Convention Additional Protocol II (to the 1949 Convention)",
+  "short_name": "1977",
+  "year": ""
+ },
+ {
+  "record_id": "AC-102",
+  "page_id": "25c2b9a4-1a30-81b1-a2df-ed9c1d5edfc4",
+  "title": "CCW Protocol V on Explosive Remnants of War",
+  "short_name": "CCW Protocol V",
+  "year": "2003"
+ },
+ {
+  "record_id": "AC-104",
+  "page_id": "25c2b9a4-1a30-81fe-95a5-fbefe2c3b9a6",
+  "title": "UN Programme of Action to Prevent Combat and Eradicate the Illicit Trade in Small Arms and Light Weapons in All its Aspects",
+  "short_name": "",
+  "year": ""
+ },
+ {
+  "record_id": "AC-105",
+  "page_id": "25c2b9a4-1a30-8132-8a64-fc2777989fa5",
+  "title": "UN Protocol against the Illicit Manufacturing of and Trafficking in Firearms Their Parts and Components and Ammunition",
+  "short_name": "",
+  "year": ""
+ },
+ {
+  "record_id": "AC-106",
+  "page_id": "25c2b9a4-1a30-80a6-87f0-fdb51037d6c9",
+  "title": "Treaty for the Prohibition of Nuclear Weapons in Latin America and the Caribbean",
+  "short_name": "Treaty of Tlatelolco",
+  "year": "1967"
+ },
+ {
+  "record_id": "AC-107",
+  "page_id": "25d2b9a4-1a30-808f-a3b9-fdf74665d82b",
+  "title": "Atomic energy, peaceful uses of nuclear energy : revised agreement between the United States of America and Norway, signed at Oslo January 12, 1984 with annex and agreed minute",
+  "short_name": "",
+  "year": ""
+ },
+ {
+  "record_id": "AC-108",
+  "page_id": "28d2b9a4-1a30-809f-8e39-cc46922d634e",
+  "title": "Rush-Bagot Treaty",
+  "short_name": "",
+  "year": "1817"
+ },
+ {
+  "record_id": "AC-109",
+  "page_id": "2c62b9a4-1a30-806c-b47a-c195cacd68ae",
+  "title": "Geneva Convention of 1949",
+  "short_name": "1949",
+  "year": ""
+ },
+ {
+  "record_id": "AC-110",
+  "page_id": "3b62b9a4-1a30-8173-b3c1-dd1ad6eee0ce",
+  "title": "United Nations General Assembly Resolution 77/41 on Destructive Direct-Ascent Anti-Satellite Missile Testing",
+  "short_name": "UNGA Res. 77/41 (DA-ASAT testing moratorium)",
+  "year": "2022"
+ },
+ {
+  "record_id": "AC-111",
+  "page_id": "3f62b9a4-1a30-8100-98cd-ff8dd2987525",
+  "title": "Treaty concerning the Archipelago of Spitsbergen",
+  "short_name": "Svalbard Treaty (Spitsbergen Treaty)",
+  "year": "1920"
+ },
+ {
+  "record_id": "AC-112",
+  "page_id": "3f62b9a4-1a30-8134-8023-f2692c5a6763",
+  "title": "Convention for the Control of the Trade in Arms and Ammunition, and Protocol",
+  "short_name": "Saint-Germain Arms Traffic Convention (1919)",
+  "year": "1919"
+ },
+ {
+  "record_id": "AC-113",
+  "page_id": "3f62b9a4-1a30-8195-98a3-e0f8b66b22b2",
+  "title": "Convention between Norway and Sweden on the Establishment of a Neutral Zone and the Dismantling of Fortifications",
+  "short_name": "Karlstad Convention (neutral zone, 1905)",
+  "year": "1905"
+ },
+ {
+  "record_id": "AC-114",
+  "page_id": "3f62b9a4-1a30-81e1-a618-c98e68bc4aee",
+  "title": "Convention on the Limitation of Naval Armaments between Argentina and Chile",
+  "short_name": "Pactos de Mayo naval convention (1902)",
+  "year": "1902"
+ },
+ {
+  "record_id": "AC-115",
+  "page_id": "3f62b9a4-1a30-812b-9ba3-d8bf6a069c75",
+  "title": "Convention relating to the Non-Fortification and Neutralisation of the Aaland Islands",
+  "short_name": "Åland Islands Convention (1921)",
+  "year": "1921"
+ },
+ {
+  "record_id": "AC-116",
+  "page_id": "3f62b9a4-1a30-8197-aff7-cba748a9ae35",
+  "title": "Convention for the Limitation of Armaments (Conference on Central American Affairs)",
+  "short_name": "Central American Arms Limitation Convention (1923)",
+  "year": "1923"
+ },
+ {
+  "record_id": "AC-117",
+  "page_id": "3f62b9a4-1a30-81b6-9b6f-f5ae32ac1a71",
+  "title": "Protocol completing the Provisions of Article 2 of the Protocol of December 17th, 1929, concerning the Prolongation of the Treaty of Friendship and Neutrality between Turkey and the USSR (Naval Protocol)",
+  "short_name": "Turco-Soviet Naval Protocol (1931)",
+  "year": "1931"
+ },
+ {
+  "record_id": "AC-118",
+  "page_id": "3f62b9a4-1a30-81d8-9153-fb93e616ce19",
+  "title": "Convention relating to the Régime of the Straits",
+  "short_name": "Lausanne Straits Convention (1923)",
+  "year": "1923"
+ },
+ {
+  "record_id": "AC-119",
+  "page_id": "3f62b9a4-1a30-8143-9018-ce17d08840cf",
+  "title": "Convention regarding the Régime of the Straits, with Annexes and Protocol",
+  "short_name": "Montreux Convention (1936)",
+  "year": "1936"
+ },
+ {
+  "record_id": "AC-120",
+  "page_id": "3f62b9a4-1a30-816a-b584-d0052590d705",
+  "title": "Exchange of Notes between the German Reich and the United Kingdom regarding the Limitation of Naval Armaments",
+  "short_name": "Anglo-German Naval Agreement (1935)",
+  "year": "1935"
+ },
+ {
+  "record_id": "AC-121",
+  "page_id": "3f62b9a4-1a30-819e-9dd1-c0e1349292c4",
+  "title": "Agreement on Sub-Regional Arms Control (Article IV, Annex 1-B, General Framework Agreement for Peace in Bosnia and Herzegovina)",
+  "short_name": "Florence Agreement (Dayton Article IV, 1996)",
+  "year": "1996"
+ },
+ {
+  "record_id": "AC-122",
+  "page_id": "3f62b9a4-1a30-81f4-8538-ef9d19e9cb96",
+  "title": "Concluding Act of the Negotiation on Personnel Strength of Conventional Armed Forces in Europe",
+  "short_name": "CFE-1A (1992)",
+  "year": "1992"
+ },
+ {
+  "record_id": "AC-123",
+  "page_id": "3f62b9a4-1a30-818b-8766-cfa957bf47b0",
+  "title": "ECOWAS Convention on Small Arms and Light Weapons, their Ammunition and Other Related Materials",
+  "short_name": "ECOWAS SALW Convention (2006)",
+  "year": "2006"
+ },
+ {
+  "record_id": "AC-124",
+  "page_id": "3f62b9a4-1a30-81bf-840f-c29d9f5d41a0",
+  "title": "Protocol on the Control of Firearms, Ammunition and Other Related Materials in the Southern African Development Community (SADC) Region",
+  "short_name": "SADC Firearms Protocol (2001)",
+  "year": "2001"
+ },
+ {
+  "record_id": "AC-125",
+  "page_id": "3f62b9a4-1a30-81cc-b03b-ff23d789ed1f",
+  "title": "The Nairobi Protocol for the Prevention, Control and Reduction of Small Arms and Light Weapons in the Great Lakes Region and the Horn of Africa",
+  "short_name": "Nairobi Protocol (2004)",
+  "year": "2004"
+ },
+ {
+  "record_id": "AC-126",
+  "page_id": "3f62b9a4-1a30-81fa-b72f-f7b413535b9d",
+  "title": "Agreement between the United States and the Russian Federation Concerning the Management and Disposition of Plutonium Designated as No Longer Required for Defense Purposes and Related Cooperation",
+  "short_name": "PMDA (2000)",
+  "year": "2000"
+ },
+ {
+  "record_id": "AC-127",
+  "page_id": "3f72b9a4-1a30-811f-b40d-ca6bf3dd9277",
+  "title": "Exchange of Notes (June 9 and 10, 1939) between Canada and the United States of America relating to the Application and Interpretation of an Agreement which was embodied in an Exchange of Notes by His Majesty's Minister at Washington and the United States Secretary of State concerning the Naval Forces to be maintained on the Great Lakes",
+  "short_name": "Rush-Bagot interpretation (1939)",
+  "year": "1939"
+ }
+]

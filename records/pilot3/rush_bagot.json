@@ -1,0 +1,709 @@
+{
+ "instrument": {
+  "full_name": "Exchange of Notes Relative to Naval Forces on the American Lakes (Rush-Bagot Agreement)",
+  "short_name": "Rush-Bagot Agreement",
+  "record_type": "Instrument",
+  "instrument_form": "Exchange of Notes",
+  "legal_character": "Legally binding",
+  "instrument_status": "In force",
+  "negotiation_status": "Concluded",
+  "date_adopted": "1817-04-29",
+  "opened_for_signature": "1817-04-29",
+  "entry_into_force": "1817-04-29",
+  "date_ended": null,
+  "participation_structure": "Bilateral",
+  "geographic_coverage": [
+   "North America"
+  ],
+  "operating_environment": [
+   "Sea"
+  ],
+  "weapon_families": [
+   "Naval forces"
+  ],
+  "legal_subject_matter": [
+   "Arms limitation & disarmament"
+  ],
+  "signed_at": "Washington",
+  "adopted_at": "Washington",
+  "depositary": "None (bilateral exchange of notes). The British note is held in the US Department of State files and the US note is recorded in its outgoing correspondence (Hunter Miller, Treaties, vol. 2).",
+  "number_of_parties": 2,
+  "number_of_signatories": 2,
+  "parties_as_of": "2025-01-01",
+  "key_non_parties": "The agreement binds only its two parties. It was concluded between the United Kingdom and the United States; the US Treaties in Force (as of 1 January 2025) lists it under Canada, and Canada's Treaty Information database lists it with the United States as the other party. No current statement of the United Kingdom's position was identified in the sources reviewed.",
+  "information_provisions": [
+   "None"
+  ],
+  "inspection_access": [
+   "None"
+  ],
+  "monitoring_means_specified": [
+   "None specified"
+  ],
+  "institutional_oversight": "None",
+  "consultation_mechanism": "None",
+  "reporting_requirements": "Not specified in text",
+  "enforcement": "Not specified in text",
+  "dispute_resolution": "Not specified in text",
+  "national_authority": "Not specified in text",
+  "technical_cooperation": "Not specified in text",
+  "third_party_roles": "Not specified in text",
+  "reservations": "Not Specified",
+  "duration_type": "Indefinite",
+  "duration_years": null,
+  "duration_clause": "No term is stated. Both notes provide that the naval force shall \"henceforth\" be confined to the agreed vessels (Bagot note of 28 Apr 1817, para. 2; Rush note of 29 Apr 1817, para. 2), subject only to termination on six months' notice.",
+  "extension_type": "None stated",
+  "extension_clause": null,
+  "withdrawal_type": "Notice",
+  "withdrawal_notice_months": 6,
+  "withdrawal_clause": "Bagot note of 28 Apr 1817, para. 7; Rush note of 29 Apr 1817, para. 4: if either party wishes to annul the stipulation and gives notice to the other, it ceases to be binding six months after the date of the notice.",
+  "amendment_procedure": "None stated",
+  "amendment_clause": "The notes contain no amendment clause. In practice the United States and Canada have recorded agreed interpretations by further exchanges of notes (1939, 1940, 1942, 1946) rather than amending the text.",
+  "review_conferences": "None",
+  "review_interval_years": null,
+  "review_conferences_held": 0,
+  "entry_into_force_requirements": "The notes state no entry-into-force requirement. The arrangement took effect on completion of the exchange on 29 April 1817 (US Treaties in Force 2025; Canada Treaty Information). The United States later submitted it to the Senate, which approved it on 16 April 1818; President Monroe proclaimed it on 28 April 1818.",
+  "number_of_articles": null,
+  "word_count": 787,
+  "count_basis": "The instrument has no numbered articles: it consists of two notes (Bagot, 28 April 1817, nine paragraphs; Rush, 29 April 1817, six paragraphs). Word count covers the body text and signatures of both notes, excluding headings and date lines, counted with wc on the English text published by Canada (Treaty Information E101662); the Avalon reproduction of Hunter Miller's text gives 784 words on the same basis, the difference arising from hyphenation.",
+  "weapons_systems_limited": "Original 1817 limits: armed naval vessels of the United Kingdom (now Canada) and the United States on Lake Ontario, the Upper Lakes and Lake Champlain, limited to four vessels per side, each not exceeding 100 tons burthen and armed with one 18-pound cannon. The agreement remains in force as interpreted by the parties in 1939, 1940, 1942 and 1946.",
+  "key_provisions": "Original 1817 terms: each side's naval force on the Lakes confined to one vessel on Lake Ontario, two on the Upper Lakes and one on Lake Champlain, each not exceeding 100 tons burthen and armed with one 18-pound cannon (Bagot note, paras. 2 to 5; Rush note, paras. 2 and 3); all other armed vessels to be forthwith dismantled and no other vessels of war to be built or armed there (Bagot note, para. 6; Rush note, para. 4); retained vessels restricted to services that do not interfere with the proper duties of the other party's armed vessels (Bagot note, para. 8; Rush note, para. 5); termination six months after notice by either party (Bagot note, para. 7; Rush note, para. 4).",
+  "behavior_change": "Yes. The notes required both parties to dismantle all armed vessels beyond the four permitted and barred new construction. The force statements exchanged in November 1816 show that many of the larger vessels on both sides were already laid up, dismantled or on the stocks with building suspended, so the agreement in part confirmed reductions already under way under the 1816 provisional arrangement (Hunter Miller, Treaties, vol. 2).",
+  "historical_background": "During the War of 1812 Britain and the United States built rival fleets on Lakes Ontario, Erie and Champlain, and a postwar building race followed. The US Minister in London, John Quincy Adams, proposed limiting naval armaments on the Lakes, and in August 1816 Secretary of State James Monroe gave the British Minister, Charles Bagot, a precise project; pending instructions from London the two sides suspended further augmentation and exchanged statements of their forces in November 1816. On 28 April 1817 Bagot informed Acting Secretary of State Richard Rush that the Prince Regent accepted the proposal, and Rush confirmed the agreement on 29 April 1817.",
+  "treaty_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng",
+  "source_quality": "Official text",
+  "related": []
+ },
+ "provisions": [
+  {
+   "provision": "Naval force on Lake Ontario limited to one vessel",
+   "article": "Bagot note, para. 3; Rush note, para. 3",
+   "weapon_activity": [
+    "Naval forces"
+   ],
+   "restriction_type": "Numerical ceiling",
+   "value": 1,
+   "unit": "vessels per party",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United Kingdom (now Canada) and the United States, on identical terms (\"on each side\")",
+   "geographic_scope": "Lake Ontario",
+   "exceptions": "Later interpretations agreed by exchanges of notes between Canada and the United States, not the 1817 text: 1939 (US naval vessels on the Lakes for reserve training; two 4-inch guns on each of three US vessels in summer; construction of vessels for tidewater service with advance information, removal on completion and no armament until the seaboard), 1940 (armament may be installed if incapable of immediate use while on the Lakes), 1942 (full readiness and weapons trials for vessels built on the Lakes, for the duration of hostilities only), and 1946 (stationing of training vessels consistent with the agreement if full information is given in advance).",
+   "effective_from": "1817-04-29",
+   "effective_until": null,
+   "text_or_paraphrase": "The naval force to be maintained on Lake Ontario by each side is confined to one vessel not exceeding one hundred tons burthen and armed with one eighteen-pound cannon.",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng",
+   "locator": "Bagot note of 28 Apr 1817, para. 3; Rush note of 29 Apr 1817, para. 3"
+  },
+  {
+   "provision": "Naval force on the Upper Lakes limited to two vessels",
+   "article": "Bagot note, para. 4; Rush note, para. 3",
+   "weapon_activity": [
+    "Naval forces"
+   ],
+   "restriction_type": "Numerical ceiling",
+   "value": 2,
+   "unit": "vessels per party",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United Kingdom (now Canada) and the United States, on identical terms (\"on each side\")",
+   "geographic_scope": "The Upper Lakes (not defined in the notes; the November 1816 force statements reported Lakes Erie and Huron under this head)",
+   "exceptions": "Later interpretations agreed by exchanges of notes between Canada and the United States, not the 1817 text: 1939 (US naval vessels on the Lakes for reserve training; two 4-inch guns on each of three US vessels in summer; construction of vessels for tidewater service with advance information, removal on completion and no armament until the seaboard), 1940 (armament may be installed if incapable of immediate use while on the Lakes), 1942 (full readiness and weapons trials for vessels built on the Lakes, for the duration of hostilities only), and 1946 (stationing of training vessels consistent with the agreement if full information is given in advance).",
+   "effective_from": "1817-04-29",
+   "effective_until": null,
+   "text_or_paraphrase": "On the Upper Lakes each side's naval force is confined to two vessels not exceeding like burthen each and armed with like force.",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng",
+   "locator": "Bagot note of 28 Apr 1817, para. 4; Rush note of 29 Apr 1817, para. 3"
+  },
+  {
+   "provision": "Naval force on Lake Champlain limited to one vessel",
+   "article": "Bagot note, para. 5; Rush note, para. 3",
+   "weapon_activity": [
+    "Naval forces"
+   ],
+   "restriction_type": "Numerical ceiling",
+   "value": 1,
+   "unit": "vessels per party",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United Kingdom (now Canada) and the United States, on identical terms (\"on each side\")",
+   "geographic_scope": "The waters of Lake Champlain",
+   "exceptions": "Later interpretations agreed by exchanges of notes between Canada and the United States, not the 1817 text: 1939 (US naval vessels on the Lakes for reserve training; two 4-inch guns on each of three US vessels in summer; construction of vessels for tidewater service with advance information, removal on completion and no armament until the seaboard), 1940 (armament may be installed if incapable of immediate use while on the Lakes), 1942 (full readiness and weapons trials for vessels built on the Lakes, for the duration of hostilities only), and 1946 (stationing of training vessels consistent with the agreement if full information is given in advance).",
+   "effective_from": "1817-04-29",
+   "effective_until": null,
+   "text_or_paraphrase": "On the waters of Lake Champlain each side's naval force is confined to one vessel not exceeding like burthen and armed with like force.",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng",
+   "locator": "Bagot note of 28 Apr 1817, para. 5; Rush note of 29 Apr 1817, para. 3"
+  },
+  {
+   "provision": "Size limit for each permitted vessel",
+   "article": "Bagot note, paras. 3 to 5; Rush note, para. 3",
+   "weapon_activity": [
+    "Naval forces"
+   ],
+   "restriction_type": "Numerical ceiling",
+   "value": 100,
+   "unit": "tons burthen (maximum per permitted vessel)",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United Kingdom (now Canada) and the United States, on identical terms (\"on each side\")",
+   "geographic_scope": "Lake Ontario, the Upper Lakes and Lake Champlain",
+   "exceptions": "In the 1939 exchange the United States noted that all its naval vessels then on the Lakes exceeded 100 tons and that Canada had not objected; the parties treated the limit as obsolete but did not amend it.",
+   "effective_from": "1817-04-29",
+   "effective_until": null,
+   "text_or_paraphrase": "Each permitted vessel is not to exceed one hundred tons burthen (\"like burthen\" for the Upper Lakes and Lake Champlain).",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng",
+   "locator": "Bagot note of 28 Apr 1817, paras. 3 to 5; Rush note of 29 Apr 1817, para. 3"
+  },
+  {
+   "provision": "Armament limit for each permitted vessel",
+   "article": "Bagot note, paras. 3 to 5; Rush note, para. 3",
+   "weapon_activity": [
+    "Naval forces"
+   ],
+   "restriction_type": "Numerical ceiling",
+   "value": 1,
+   "unit": "18-pound cannon (maximum armament per permitted vessel)",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United Kingdom (now Canada) and the United States, on identical terms (\"on each side\")",
+   "geographic_scope": "Lake Ontario, the Upper Lakes and Lake Champlain",
+   "exceptions": "By the June 1939 exchange Canada agreed that two 4-inch guns on each of three US vessels, dismantled outside the summer training season and fired only in US territorial waters, was consistent with the spirit of the agreement; the 1940 and 1942 exchanges addressed armament on vessels built on the Lakes for service elsewhere.",
+   "effective_from": "1817-04-29",
+   "effective_until": null,
+   "text_or_paraphrase": "Each permitted vessel is to be armed with one eighteen-pound cannon (\"like force\" for the Upper Lakes and Lake Champlain).",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng",
+   "locator": "Bagot note of 28 Apr 1817, paras. 3 to 5; Rush note of 29 Apr 1817, para. 3"
+  },
+  {
+   "provision": "Dismantle all other armed vessels on the Lakes",
+   "article": "Bagot note, para. 6; Rush note, para. 4",
+   "weapon_activity": [
+    "Naval forces"
+   ],
+   "restriction_type": "Reduction or elimination",
+   "value": null,
+   "unit": "No numerical period is specified; dismantling was required forthwith",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United Kingdom (now Canada) and the United States, on identical terms (\"on each side\")",
+   "geographic_scope": "Lake Ontario, the Upper Lakes and Lake Champlain",
+   "exceptions": null,
+   "effective_from": "1817-04-29",
+   "effective_until": null,
+   "text_or_paraphrase": "All other armed vessels on these Lakes shall be forthwith dismantled.",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng",
+   "locator": "Bagot note of 28 Apr 1817, para. 6; Rush note of 29 Apr 1817, para. 4"
+  },
+  {
+   "provision": "No other vessels of war to be built on the Lakes",
+   "article": "Bagot note, para. 6; Rush note, para. 4",
+   "weapon_activity": [
+    "Naval forces"
+   ],
+   "restriction_type": "Prohibit production",
+   "value": null,
+   "unit": "no quantity (prohibition)",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United Kingdom (now Canada) and the United States, on identical terms (\"on each side\")",
+   "geographic_scope": "Lake Ontario, the Upper Lakes and Lake Champlain",
+   "exceptions": "By the June 1939 exchange the parties agreed that building naval vessels intended only for tidewater service in Great Lakes shipyards was consistent with the agreement, given advance information, removal on completion and no armament until the seaboard; the 1940 and 1942 exchanges relaxed the armament conditions (the 1942 relaxation for the duration of hostilities only).",
+   "effective_from": "1817-04-29",
+   "effective_until": null,
+   "text_or_paraphrase": "No other vessels of war shall be built there.",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng",
+   "locator": "Bagot note of 28 Apr 1817, para. 6; Rush note of 29 Apr 1817, para. 4"
+  },
+  {
+   "provision": "No other vessels to be armed on the Lakes",
+   "article": "Bagot note, para. 6; Rush note, para. 4",
+   "weapon_activity": [
+    "Naval forces"
+   ],
+   "restriction_type": "Other",
+   "value": null,
+   "unit": "no quantity (prohibition on arming vessels)",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United Kingdom (now Canada) and the United States, on identical terms (\"on each side\")",
+   "geographic_scope": "Lake Ontario, the Upper Lakes and Lake Champlain",
+   "exceptions": "See the 1940 and 1942 interpretations on armament installed on vessels built on the Lakes for service elsewhere.",
+   "effective_from": "1817-04-29",
+   "effective_until": null,
+   "text_or_paraphrase": "No other vessels of war shall be armed there. Coded Other because arming an existing vessel is neither production nor acquisition in the schema's terms.",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng",
+   "locator": "Bagot note of 28 Apr 1817, para. 6; Rush note of 29 Apr 1817, para. 4"
+  },
+  {
+   "provision": "Permitted vessels restricted to non-interfering services",
+   "article": "Bagot note, para. 8; Rush note, para. 5",
+   "weapon_activity": [
+    "Naval forces"
+   ],
+   "restriction_type": "Other",
+   "value": null,
+   "unit": "no quantity (restriction on employment)",
+   "bound_parties": "All parties",
+   "bound_parties_detail": "United Kingdom (now Canada) and the United States, on identical terms (\"on each side\")",
+   "geographic_scope": "Lake Ontario, the Upper Lakes and Lake Champlain",
+   "exceptions": "In the June 1939 exchange both governments agreed that reserve training and target practice within each party's own territorial waters fall within the letter and spirit of this clause.",
+   "effective_from": "1817-04-29",
+   "effective_until": null,
+   "text_or_paraphrase": "Each government undertakes to issue orders restricting its limited naval force to such services as will in no respect interfere with the proper duties of the armed vessels of the other party.",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng",
+   "locator": "Bagot note of 28 Apr 1817, para. 8; Rush note of 29 Apr 1817, para. 5"
+  }
+ ],
+ "events": [
+  {
+   "event": "Adams proposes disarmament on the Lakes",
+   "date": "1816-01-25",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "United States (John Quincy Adams); United Kingdom (Lord Castlereagh)",
+   "attribution": "Office of the Historian, US Department of State (Milestones, retired series)",
+   "description": "According to the Office of the Historian, the US Minister in London, John Quincy Adams, proposed disarmament on the Lakes on 25 January 1816 and Foreign Secretary Castlereagh responded favourably.",
+   "source_url": "https://history.state.gov/milestones/1801-1829/rush-bagot",
+   "locator": "Milestones: Rush-Bagot Pact, 1817 and Convention of 1818",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Bagot conveys British willingness to negotiate",
+   "date": "1816-07-26",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "United Kingdom (Charles Bagot); United States (James Monroe)",
+   "attribution": "Bagot letter to Monroe, printed in Hunter Miller, Treaties, vol. 2",
+   "description": "Bagot informed Secretary of State Monroe that the Prince Regent would adopt any reasonable system in the spirit of Adams's suggestion.",
+   "source_url": "https://avalon.law.yale.edu/19th_century/br1817n.asp",
+   "locator": "Note regarding the correspondence: Bagot to Monroe, 26 July 1816",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Monroe presents US project",
+   "date": "1816-08-02",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "United States (James Monroe)",
+   "attribution": "Monroe letter to Bagot, printed in Hunter Miller, Treaties, vol. 2",
+   "description": "Monroe proposed limiting each side to one vessel on Lake Ontario, two on the Upper Lakes and one on Lake Champlain, of 100 tons and one 18-pound cannon, dismantling all other armed vessels, and termination on notice (the number of months left blank).",
+   "source_url": "https://avalon.law.yale.edu/19th_century/br1817n.asp",
+   "locator": "Monroe to Bagot, 2 August 1816",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Provisional suspension of naval augmentation",
+   "date": "1816-08-13",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "United Kingdom (Charles Bagot); United States (James Monroe)",
+   "attribution": "Bagot letter to Monroe, printed in Hunter Miller, Treaties, vol. 2",
+   "description": "Lacking authority to agree details, Bagot assured Monroe that all further augmentation of the British force on the Lakes would be suspended, in response to Monroe's offer of 12 August 1816 of a provisional arrangement.",
+   "source_url": "https://avalon.law.yale.edu/19th_century/br1817n.asp",
+   "locator": "Bagot to Monroe, 13 August 1816; Monroe to Bagot, 12 August 1816",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Exchange of naval force statements",
+   "date": "1816-11-07",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "United Kingdom; United States",
+   "attribution": "Monroe and Bagot letters of 7 and 8 November 1816, printed in Hunter Miller, Treaties, vol. 2",
+   "description": "The two governments exchanged statements of their naval forces on the Lakes, and Monroe undertook that the US force would not be augmented beyond the British force; the orders were reported given on 8 November 1816.",
+   "source_url": "https://avalon.law.yale.edu/19th_century/br1817n.asp",
+   "locator": "Monroe to Bagot, 7 and 8 November 1816; Bagot to Monroe, 4 and 8 November 1816",
+   "date_precision": "Day"
+  },
+  {
+   "event": "British note accepts US proposal",
+   "date": "1817-04-28",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United Kingdom (Charles Bagot)",
+   "attribution": "Text of the note (Canada Treaty Information E101662)",
+   "description": "Bagot informed Acting Secretary of State Rush that the Prince Regent accepted Monroe's proposal of 2 August 1816 and set out the agreed limits. This is the first note of the exchange.",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng",
+   "locator": "Note I",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Exchange completed by US note",
+   "date": "1817-04-29",
+   "effective_date": null,
+   "event_type": "Adoption",
+   "actors": "United States (Richard Rush)",
+   "attribution": "Text of the note (Canada Treaty Information E101662)",
+   "description": "Rush acknowledged Bagot's note and stated the United States' agreement on identical terms, completing the exchange of notes at Washington.",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng",
+   "locator": "Note II",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Agreement enters into force",
+   "date": "1817-04-29",
+   "effective_date": null,
+   "event_type": "Entry into force",
+   "actors": "United Kingdom; United States",
+   "attribution": "US Department of State, Treaties in Force (2025); Government of Canada, Treaty Information",
+   "description": "Both the US Treaties in Force and Canada's Treaty Information database record entry into force on 29 April 1817, the date of the second note.",
+   "source_url": "https://www.treaty-accord.gc.ca/details.aspx?id=101662&lang=eng",
+   "locator": "Treaties in Force 2025, Canada, Defense, p. 62; Canada Treaty Information E101662 (details)",
+   "date_precision": "Day"
+  },
+  {
+   "event": "US Navy orders implementing the agreement",
+   "date": "1817-05-02",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States (Secretary of the Navy)",
+   "attribution": "Hunter Miller, Treaties, vol. 2 (notes), citing American State Papers, Foreign Relations, IV",
+   "description": "Hunter Miller records that the agreement was immediately put into operation on both sides and that the Secretary of the Navy's orders were dated 2 May 1817.",
+   "source_url": "https://avalon.law.yale.edu/19th_century/br1817n.asp",
+   "locator": "Notes, para. 2",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Submitted to the US Senate",
+   "date": "1818-04-06",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States (President Monroe; Senate)",
+   "attribution": "Hunter Miller, Treaties, vol. 2 (notes), citing Senate Executive Journal, III",
+   "description": "President Monroe submitted the arrangement to the Senate, asking whether it was within executive competence or required advice and consent.",
+   "source_url": "https://avalon.law.yale.edu/19th_century/br1817n.asp",
+   "locator": "Notes, para. 2",
+   "date_precision": "Day"
+  },
+  {
+   "event": "US Senate approves the arrangement",
+   "date": "1818-04-16",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States Senate",
+   "attribution": "Senate resolution, printed in Hunter Miller, Treaties, vol. 2",
+   "description": "The Senate, two-thirds concurring, approved and consented to the arrangement and recommended that the President carry it into effect; Hunter Miller states the vote was unanimous.",
+   "source_url": "https://avalon.law.yale.edu/19th_century/br1817r.asp",
+   "locator": "Senate resolution of 16 April 1818; Notes, para. 5",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Presidential proclamation",
+   "date": "1818-04-28",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States (President Monroe)",
+   "attribution": "Proclamation, printed in Hunter Miller, Treaties, vol. 2",
+   "description": "Monroe proclaimed the arrangement to be of full force and effect, reciting the Senate's approval and the Prince Regent's sanction.",
+   "source_url": "https://avalon.law.yale.edu/19th_century/br1817p.asp",
+   "locator": "Proclamation of 28 April 1818",
+   "date_precision": "Day"
+  },
+  {
+   "event": "US notice of termination",
+   "date": "1864-11-23",
+   "effective_date": null,
+   "event_type": "Withdrawal notice",
+   "actors": "United States (Charles Francis Adams, Minister in London); United Kingdom (Earl Russell)",
+   "attribution": "Joint resolution of Congress of 9 February 1865 (13 Stat. 568); note of the British Minister, Sir Frederick Bruce, of 15 June 1865 (FRUS)",
+   "description": "The United States gave notice to terminate the agreement; the joint resolution records that the communication took effect on 23 November 1864, and Bruce described it as notice that after six months the United States would feel free to increase its naval armament on the Lakes. The notice was later withdrawn before taking effect.",
+   "source_url": "https://www.govinfo.gov/link/statute/13/567",
+   "locator": "Joint Resolution No. 13 of 9 February 1865, 13 Stat. 568 (preamble); FRUS 1865, Part II, doc. 285",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Congress ratifies the termination notice",
+   "date": "1865-02-09",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States Congress",
+   "attribution": "Joint resolution of Congress (13 Stat. 568)",
+   "description": "Congress adopted and ratified the President's notice, stating that the peace of the frontier was endangered by hostile expeditions against the commerce of the Lakes which the naval force allowed by the agreement might be insufficient to prevent.",
+   "source_url": "https://www.govinfo.gov/link/statute/13/567",
+   "locator": "Joint Resolution No. 13 of 9 February 1865, 13 Stat. 568",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Seward instructs Adams that the agreement may remain in force",
+   "date": "1865-03-08",
+   "effective_date": null,
+   "event_type": "Remedy or resolution",
+   "actors": "United States (William H. Seward)",
+   "attribution": "Seward instruction No. 1289 to Adams (FRUS)",
+   "description": "Seward stated that the notice had been indispensable to protect the United States from insurgent incursions from Canadian territory, and instructed Adams to tell Lord Russell that the United States was willing for the agreement to remain practically in force, had built or armed no additional vessels on the Lakes, and would build or arm none, expecting reciprocal British restraint.",
+   "source_url": "https://history.state.gov/historicaldocuments/frus1865p1/d110",
+   "locator": "FRUS 1865, Part I, doc. 110",
+   "date_precision": "Day",
+   "date_as_reported": "8 March 1865 (date of the instruction, not of its delivery in London)"
+  },
+  {
+   "event": "Russell tells the Lords the notice was justified",
+   "date": "1865-03-23",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United Kingdom (Earl Russell)",
+   "attribution": "Earl Russell in the House of Lords, as reported by The Times of 24 March 1865, enclosed in Adams's despatch No. 908 (FRUS)",
+   "description": "Russell stated that the seizure of vessels on the Lakes by Confederate agents and other hostile acts justified the US notice, and expressed the hope that a small limited armament for police purposes could be agreed.",
+   "source_url": "https://history.state.gov/historicaldocuments/frus1865p1/d138",
+   "locator": "FRUS 1865, Part I, doc. 138",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Adams communicates the US position to Russell",
+   "date": null,
+   "effective_date": null,
+   "event_type": "Remedy or resolution",
+   "actors": "United States (Charles Francis Adams); United Kingdom",
+   "attribution": "Note of Sir Frederick Bruce to the US Department of State, 15 June 1865 (FRUS)",
+   "description": "Bruce reported that in March 1865 Adams, acting on the instruction of 8 March, informed the British government that the United States was willing for the agreement to remain practically in force. The exact date of Adams's note was not established in the sources reviewed.",
+   "source_url": "https://history.state.gov/historicaldocuments/frus1865p2/d285",
+   "locator": "FRUS 1865, Part II, doc. 285",
+   "date_precision": "Month",
+   "date_as_reported": "March 1865, following the 8 March instruction; exact day unknown",
+   "sort_key": 18650308.6
+  },
+  {
+   "event": "Britain asks whether the notice is withdrawn",
+   "date": "1865-06-15",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United Kingdom (Sir Frederick Bruce)",
+   "attribution": "Bruce note to Acting Secretary of State Hunter (FRUS)",
+   "description": "Bruce asked whether the March communication formally withdrew the notice of 23 November 1864, noting that six months had elapsed, and proposed formal withdrawal so that the agreement would continue binding until six months after any fresh notice.",
+   "source_url": "https://history.state.gov/historicaldocuments/frus1865p2/d285",
+   "locator": "FRUS 1865, Part II, doc. 285",
+   "date_precision": "Day"
+  },
+  {
+   "event": "United States confirms withdrawal of notice",
+   "date": "1865-06-16",
+   "effective_date": null,
+   "event_type": "Remedy or resolution",
+   "actors": "United States (William H. Seward)",
+   "attribution": "Seward note to Bruce (FRUS)",
+   "description": "Seward replied that the instruction underlying Adams's March note was intended as a withdrawal of the notice within the time allowed, and was so held by the United States.",
+   "source_url": "https://history.state.gov/historicaldocuments/frus1865p2/d286",
+   "locator": "FRUS 1865, Part II, doc. 286",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Agreement confirmed as continuing in force",
+   "date": "1865-08-22",
+   "effective_date": null,
+   "event_type": "Remedy or resolution",
+   "actors": "United States (William H. Seward); United Kingdom (Sir Frederick Bruce)",
+   "attribution": "Seward note to Bruce (FRUS)",
+   "description": "Seward accepted as correct the British understanding that the notice was absolutely withdrawn and that the agreement would continue in force unless terminated by a fresh six months' notice.",
+   "source_url": "https://history.state.gov/historicaldocuments/frus1865p2/d315",
+   "locator": "FRUS 1865, Part II, doc. 315",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Report on the agreement transmitted to the Senate",
+   "date": "1892-12-07",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States (President Benjamin Harrison)",
+   "attribution": "Hunter Miller, Treaties, vol. 2 (notes)",
+   "description": "Hunter Miller records that President Harrison transmitted an elaborate report on the agreement, with correspondence, to the Senate (Senate Executive Document No. 9, 52nd Congress, 2nd session). The report itself was not reviewed.",
+   "source_url": "https://avalon.law.yale.edu/19th_century/br1817n.asp",
+   "locator": "Notes, final paragraph",
+   "date_precision": "Day"
+  },
+  {
+   "event": "US letter acknowledges departures from the literal terms",
+   "date": "1939-06-09",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States (Minister Daniel C. Roper, conveying Secretary Hull's views)",
+   "attribution": "Roper letter to O. D. Skelton (Canada Treaty Information E101663)",
+   "description": "The US letter stated that the agreement's technical provisions had long been obsolete, that there was a clear record of what may have been considered technical violations by both parties, and that the five US naval vessels then on the Lakes may not be considered entirely in keeping with a literal interpretation. It proposed interpretations on vessel numbers, movement, training functions, armament and shipbuilding.",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101663&lang=eng",
+   "locator": "Note I",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Interpretive exchange on training, armament and construction",
+   "date": "1939-06-10",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Canada; United States",
+   "attribution": "Exchange of notes of 9 and 10 June 1939 (CTS 1940 No. 12); US Treaties in Force 2025",
+   "description": "Canada agreed that free movement of vessels within the Lakes, reserve training and target practice in each party's own territorial waters, two 4-inch guns on each of three US vessels in the training season, and construction of vessels for tidewater service under stated conditions were consistent with the agreement, applying equally to Canada.",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101663&lang=eng",
+   "locator": "Note II; Treaties in Force 2025, Canada, Defense, p. 62",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Interpretation on armament of vessels built on the Lakes",
+   "date": "1940-11-02",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Canada; United States",
+   "attribution": "Exchange of notes of 30 October and 2 November 1940 (CTS 1940 No. 12); US Treaties in Force 2025",
+   "description": "The governments agreed that armament may be installed on naval vessels built on the Lakes if the vessels are not intended for service there, information is given before construction, the armament is incapable of immediate use while on the Lakes, and the vessels are promptly removed.",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101664&lang=eng",
+   "locator": "Notes I and II; Treaties in Force 2025, Canada, Defense, p. 62",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Wartime interpretation on readiness and weapons trials",
+   "date": "1942-03-09",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Canada; United States",
+   "attribution": "Exchange of notes of 26 February and 9 March 1942 (CTS 1942 No. 3)",
+   "description": "The governments agreed that vessels built on the Lakes could have their armament placed in complete readiness and carry out trials, including submarine submerged operations and torpedo and gun firing, in Great Lakes waters, for the duration of the hostilities only.",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101666&lang=eng",
+   "locator": "Notes I and II",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Interpretation on training vessels",
+   "date": null,
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Canada; United States",
+   "attribution": "Exchange of notes of 18 November and 5 December 1946 (CTS 1946 No. 40)",
+   "description": "The governments recorded that the agreement's detailed provisions are not applicable to present conditions and that its spirit guides them, and agreed that stationing naval vessels on the Great Lakes for training is consistent with it provided full information on their number, disposition, functions and armament is communicated in advance. Canada's Treaty Series text prints the US note as dated 5 December 1946; the UN Treaty Series (vol. 149) prints it as 6 December 1946, and the UN Treaty Series and the US Treaties in Force 2025 give entry into force on 6 December 1946.",
+   "source_url": "https://www.treaty-accord.gc.ca/text-texte.aspx?id=101665&lang=eng",
+   "locator": "Notes I and II",
+   "date_precision": "Exact day",
+   "date_as_reported": "5 or 6 December 1946 (official texts differ)",
+   "sort_key": 19461205.5
+  }
+ ],
+ "overview_md": "The Rush-Bagot Agreement is an exchange of notes of 28 and 29 April 1817 between the British Minister in Washington, Charles Bagot, and Acting Secretary of State Richard Rush. It confines the naval force each side may keep on Lake Ontario, the Upper Lakes and Lake Champlain to four small vessels in all, each of no more than 100 tons and one 18-pound cannon, requires all other armed vessels to be dismantled and bars building or arming further vessels of war there. Concluded by the United Kingdom, it is now applied between Canada and the United States, and the US Treaties in Force (as of 1 January 2025) lists it as in force. Its detailed limits have long been treated as obsolete and have been adapted by agreed interpretations, but it remains one of the earliest bilateral naval limitation agreements still in force.",
+ "provisions_md": "The instrument has no numbered articles. Citations refer to paragraphs of the [Bagot note of 28 April 1817 and the Rush note of 29 April 1817](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng), which state the same terms.\n\n### Ceilings on naval vessels\n- On Lake Ontario, each side may keep one vessel (Bagot note, para. 3; Rush note, para. 3).\n- On the Upper Lakes, each side may keep two vessels (Bagot note, para. 4; Rush note, para. 3). The notes do not define the Upper Lakes; the force statements exchanged in November 1816 reported Lakes Erie and Huron under this head ([Hunter Miller, notes](https://avalon.law.yale.edu/19th_century/br1817n.asp)).\n- On the waters of Lake Champlain, each side may keep one vessel (Bagot note, para. 5; Rush note, para. 3).\n- Each permitted vessel may not exceed 100 tons burthen and may carry one 18-pound cannon (Bagot note, paras. 3 to 5; Rush note, para. 3).\n\n### Dismantling and construction\n- All other armed vessels on the Lakes are to be dismantled \"forthwith\" (Bagot note, para. 6; Rush note, para. 4). No deadline or verification procedure is stated.\n- No other vessels of war are to be built or armed on the Lakes (same paragraphs).\n\n### Employment of the permitted vessels\n- Each government undertakes to order that its limited force be restricted to services that do not interfere with the proper duties of the other party's armed vessels (Bagot note, para. 8; Rush note, para. 5).\n\n### Bound parties and scope\n- The obligations bind both parties identically (\"on each side\"). They apply only to the named waters and do not address land forces, fortifications or naval forces elsewhere.\n- The notes contain no provisions on information exchange, inspection, consultation, dispute settlement or enforcement.\n\n### Later interpretations\nThe 1817 text has not been amended. The United States and Canada have recorded agreed interpretations by exchanges of notes: in [1939](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101663&lang=eng) (reserve training, target practice in each party's own waters, two 4-inch guns on each of three US vessels in the training season, and construction of vessels for service outside the Lakes under conditions); in [1940](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101664&lang=eng) (armament installed but incapable of immediate use while on the Lakes); in [1942](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101666&lang=eng) (full readiness and weapons trials on the Lakes, for the duration of hostilities only); and in [1946](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101665&lang=eng) (stationing of training vessels, with full information given in advance).",
+ "participation_md": "- **Form and parties.** A bilateral exchange of notes signed at Washington on 28 April 1817 (Bagot, for the United Kingdom) and 29 April 1817 (Rush, for the United States). The US [Treaties in Force](https://www.state.gov/wp-content/uploads/2025/08/Treaties-in-Force-2025-FINAL.pdf) (as of 1 January 2025, Canada, p. 62) now lists it under Canada, and [Canada's Treaty Information](https://www.treaty-accord.gc.ca/details.aspx?id=101662&lang=eng) lists it with the United States as the other party. The sources reviewed do not state when or by what act Canada assumed the British rights and obligations.\n- **Entry into force.** The notes set no condition. Both governments' records give 29 April 1817, the date of the second note. The United States subsequently submitted the arrangement to the Senate, which approved it on 16 April 1818, and the President proclaimed it on 28 April 1818 ([Hunter Miller, notes](https://avalon.law.yale.edu/19th_century/br1817n.asp)).\n- **Duration.** No term is stated; the limits apply \"henceforth\" (Bagot note, para. 2; Rush note, para. 2).\n- **Termination.** Either party may annul the stipulation by notice; it then ceases to bind six months after the date of the notice (Bagot note, para. 7; Rush note, para. 4).\n- **Amendment and review.** No amendment or review procedure is stated. The parties have instead recorded interpretations by further exchanges of notes (1939, 1940, 1942, 1946).\n- **Depositary.** None; the original notes are held in the two governments' files.\n- **Reservations.** Not addressed; the Senate resolution of 16 April 1818 attached no conditions ([text](https://avalon.law.yale.edu/19th_century/br1817r.asp)).",
+ "history_md": "### Origins\nAfter the War of 1812, in which both sides built fleets on the Lakes, the United States proposed reciprocal limits. The Office of the Historian dates John Quincy Adams's proposal in London to 25 January 1816 ([Milestones](https://history.state.gov/milestones/1801-1829/rush-bagot)). In August 1816 Secretary of State Monroe gave Bagot a precise project; Bagot lacked authority to agree details but suspended further augmentation of British forces, and the two governments exchanged statements of their forces in November 1816 ([Hunter Miller, notes and correspondence](https://avalon.law.yale.edu/19th_century/br1817n.asp)). The British acceptance (28 April 1817) and the US confirmation (29 April 1817) completed the agreement ([text](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng)).\n\n### Implementation and US approval\nHunter Miller records that the agreement was put into operation immediately on both sides, with US Navy orders dated 2 May 1817. President Monroe submitted it to the Senate on 6 April 1818, asking whether it required advice and consent; the Senate approved it on 16 April 1818, and Monroe proclaimed it on 28 April 1818 ([notes](https://avalon.law.yale.edu/19th_century/br1817n.asp); [proclamation](https://avalon.law.yale.edu/19th_century/br1817p.asp)).\n\n### Civil War notice of termination (denunciation, withdrawn before taking effect)\nThe United States gave notice of termination, which a joint resolution of Congress approved on 9 February 1865 records as taking effect on 23 November 1864; Congress stated that hostile expeditions against Lakes commerce endangered the frontier ([FRUS 1865, I, doc. 85](https://history.state.gov/historicaldocuments/frus1865p1/d85)). On 8 March 1865 Secretary Seward instructed Minister Adams to say that the United States was willing for the agreement to remain practically in force and had built or armed no additional vessels on the Lakes ([doc. 110](https://history.state.gov/historicaldocuments/frus1865p1/d110)). In the House of Lords on 23 March 1865, Earl Russell said Confederate seizures of vessels on the Lakes justified the notice, as reported by The Times ([doc. 138](https://history.state.gov/historicaldocuments/frus1865p1/d138)). After a British request for clarification, Seward confirmed on 16 June 1865 that the notice was withdrawn within the six months, and on 22 August 1865 accepted the British understanding that the agreement continues in force unless terminated by fresh notice ([FRUS 1865, II, doc. 285](https://history.state.gov/historicaldocuments/frus1865p2/d285); [doc. 286](https://history.state.gov/historicaldocuments/frus1865p2/d286); [doc. 315](https://history.state.gov/historicaldocuments/frus1865p2/d315)).\n\n### Twentieth-century interpretations\nIn June 1939 the United States stated that the technical provisions had long been obsolete, that there was a clear record of what may have been considered technical violations by both parties, and that the US vessels then on the Lakes might not be entirely in keeping with a literal reading; Canada agreed a set of interpretations applying to both countries ([1939 exchange](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101663&lang=eng)). Further interpretations followed in [1940](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101664&lang=eng), [1942](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101666&lang=eng) and [1946](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101665&lang=eng), the last recording that the spirit rather than the detailed provisions guides the two governments. No formal finding of non-compliance by either government was identified in the sources reviewed. The agreement remains listed as in force in the US [Treaties in Force](https://www.state.gov/wp-content/uploads/2025/08/Treaties-in-Force-2025-FINAL.pdf) (2025).",
+ "sources_md": "- [Exchange of Notes concerning the Naval Forces to be maintained on the Great Lakes (Rush-Bagot Agreement), text, Canada Treaty Information E101662](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101662&lang=eng)\n- [Canada Treaty Information, E101662 record details (entry into force, signatories)](https://www.treaty-accord.gc.ca/details.aspx?id=101662&lang=eng)\n- [Avalon Project, Exchange of Notes Relative to Naval Forces on the American Lakes (from Hunter Miller, Treaties, vol. 2, 1931)](https://avalon.law.yale.edu/19th_century/conv1817.asp)\n- [Avalon Project, Hunter Miller's notes and the 1816 correspondence](https://avalon.law.yale.edu/19th_century/br1817n.asp)\n- [Avalon Project, Senate resolution of 16 April 1818](https://avalon.law.yale.edu/19th_century/br1817r.asp)\n- [Avalon Project, Proclamation of 28 April 1818](https://avalon.law.yale.edu/19th_century/br1817p.asp)\n- [US Department of State, Treaties in Force as of January 1, 2025 (Canada, pp. 62 and 63)](https://www.state.gov/wp-content/uploads/2025/08/Treaties-in-Force-2025-FINAL.pdf)\n- [FRUS 1865, Part I, doc. 85: joint resolution of 9 February 1865](https://history.state.gov/historicaldocuments/frus1865p1/d85)\n- [FRUS 1865, Part I, doc. 110: Seward to Adams, 8 March 1865](https://history.state.gov/historicaldocuments/frus1865p1/d110)\n- [FRUS 1865, Part I, doc. 138: Adams to Seward, 24 March 1865, enclosing The Times report](https://history.state.gov/historicaldocuments/frus1865p1/d138)\n- [FRUS 1865, Part II, doc. 285: Bruce to Hunter, 15 June 1865](https://history.state.gov/historicaldocuments/frus1865p2/d285)\n- [FRUS 1865, Part II, doc. 286: Seward to Bruce, 16 June 1865](https://history.state.gov/historicaldocuments/frus1865p2/d286)\n- [FRUS 1865, Part II, doc. 315: Seward to Bruce, 22 August 1865](https://history.state.gov/historicaldocuments/frus1865p2/d315)\n- [Exchange of notes of 9 and 10 June 1939 (CTS 1940 No. 12)](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101663&lang=eng)\n- [Exchange of notes of 30 October and 2 November 1940 (CTS 1940 No. 12)](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101664&lang=eng)\n- [Exchange of notes of 26 February and 9 March 1942 (CTS 1942 No. 3)](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101666&lang=eng)\n- [Exchange of notes of 18 November and 5 December 1946 (CTS 1946 No. 40)](https://www.treaty-accord.gc.ca/text-texte.aspx?id=101665&lang=eng)\n- [Office of the Historian, Milestones: Rush-Bagot Pact, 1817 and Convention of 1818](https://history.state.gov/milestones/1801-1829/rush-bagot)",
+ "coding_notes": [
+  {
+   "field": "instrument_form",
+   "note": "Coded Exchange of Notes: the agreement consists of a British note of 28 April 1817 and a US note of 29 April 1817 stating identical terms. It is often called the Rush-Bagot Treaty; the US Senate approved it under the two-thirds procedure in 1818, but its form is an exchange of notes."
+  },
+  {
+   "field": "legal_character",
+   "note": "Coded Legally binding on the basis of its own terms (\"agrees\", a binding stipulation terminable only on notice), the 1818 Senate approval and proclamation, its listing in the US Treaties in Force (2025) and Canada's Treaty Information database, and the parties' 1865 statements that the agreement continued binding."
+  },
+  {
+   "field": "date_adopted",
+   "note": "The exchange was signed on 28 April (Bagot) and 29 April 1817 (Rush). The single date field carries 29 April 1817, when the second note completed the agreement; both dates are given in the prose and events."
+  },
+  {
+   "field": "opened_for_signature",
+   "note": "A bilateral exchange of notes is not opened for signature; for bilateral instruments this field displays as \"Signed\" and carries the date the exchange was completed, 29 April 1817. The first note was signed on 28 April 1817."
+  },
+  {
+   "field": "entry_into_force",
+   "note": "29 April 1817, as recorded by both the US Treaties in Force (2025, Canada, p. 62) and Canada's Treaty Information database. The 1818 Senate approval and proclamation came after the arrangement was already in operation and are recorded as events, not as entry into force."
+  },
+  {
+   "field": "number_of_parties",
+   "note": "Two, counted as of 1 January 2025 (the date of the US Treaties in Force edition consulted). The original parties were the United Kingdom and the United States; Canada is counted in place of the United Kingdom because both the US and Canadian official treaty records now list the agreement as between Canada and the United States. The legal mechanism and date of Canada's succession were not established in the sources reviewed."
+  },
+  {
+   "field": "operating_environment",
+   "note": "Coded Sea as the naval domain; the waters concerned are the Great Lakes and Lake Champlain, which are inland waters."
+  },
+  {
+   "field": "legal_subject_matter",
+   "note": "Coded Arms limitation & disarmament only. The agreement limits rather than removes naval forces (four vessels per side remain permitted) and does not create a demilitarized zone or address land fortifications."
+  },
+  {
+   "field": "information_provisions",
+   "note": "Coded None from the 1817 text, which requires no declarations or notifications. Advance information was introduced by later interpretive exchanges (1939 and 1940 for construction; 1946 for training vessels), which are separate instruments."
+  },
+  {
+   "field": "consultation_mechanism",
+   "note": "Coded None from the text. In practice the parties have dealt with questions by diplomatic correspondence, which the 1939 Canadian note described as inherent in the spirit of the agreement; that practice is not a mechanism created by the notes."
+  },
+  {
+   "field": "reporting_requirements",
+   "note": "Not specified in text: neither note requires declarations, data or reports. Coded from the instrument's own text."
+  },
+  {
+   "field": "enforcement",
+   "note": "Not specified in text: the notes provide no consequences for non-compliance; the only remedy available is termination on six months' notice (Bagot note, para. 7; Rush note, para. 4). Coded from the instrument's own text."
+  },
+  {
+   "field": "dispute_resolution",
+   "note": "Not specified in text: the notes contain no procedure for disputes over interpretation or application. Coded from the instrument's own text."
+  },
+  {
+   "field": "national_authority",
+   "note": "Not specified in text. The notes record that each government issued or would issue orders to its own naval officers (Bagot note, para. 8; Rush note, para. 5), but they do not require designation of a national body or focal point. Coded from the instrument's own text."
+  },
+  {
+   "field": "technical_cooperation",
+   "note": "Not specified in text. Coded from the instrument's own text."
+  },
+  {
+   "field": "third_party_roles",
+   "note": "Not specified in text: no function is assigned to any non-party. Coded from the instrument's own text."
+  },
+  {
+   "field": "reservations",
+   "note": "Not Specified: the notes do not address reservations, and the Senate resolution of 16 April 1818 attached none."
+  },
+  {
+   "field": "duration_type",
+   "note": "Coded Indefinite from the instrument's text: the limits apply \"henceforth\" with no term, subject only to termination on notice."
+  },
+  {
+   "field": "withdrawal_type",
+   "note": "Coded Notice with a six-month period from the instrument's own text (Bagot note, para. 7; Rush note, para. 4). The clause speaks of annulling the stipulation, that is, termination of the bilateral agreement."
+  },
+  {
+   "field": "amendment_procedure",
+   "note": "None stated in the text. The 1939, 1940, 1942 and 1946 exchanges are recorded as interpretations, not amendments, because the parties themselves described them as interpretations consistent with the agreement's spirit."
+  },
+  {
+   "field": "number_of_articles",
+   "note": "Left blank because the instrument has no articles; it consists of two notes of nine and six paragraphs. Citations use note and paragraph."
+  },
+  {
+   "field": "events",
+   "note": "The 1864 notice is coded Withdrawal notice (notice of termination of a bilateral agreement); it never took effect because the United States withdrew it within the six months. The twentieth-century exchanges are coded Other because they interpret rather than amend the agreement. The 1939 US statement about possible technical violations is coded Other, not Acknowledged breach, because it is expressly qualified."
+  },
+  {
+   "field": "provisions",
+   "note": "The vessel ceilings are given one row per body of water because each sets a different number. The 100-ton and one-gun limits apply to every permitted vessel and are given separate rows. Building and arming further vessels of war are separate rows because they restrict different activities. Every obligation binds both parties identically."
+  }
+ ],
+ "research_notes": [
+  "The local PDF is the Avalon Project reproduction of Hunter Miller's text. Its header misdates the Bagot note as \"WASHINGTON April 16, 1817\"; Hunter Miller's own notes, the Rush note (\"note of the 28th of this month\") and Canada's official text all give 28 April 1817. treaty_url uses Canada's official text instead.",
+  "state.gov returned HTTP 403 to direct requests; the Treaties in Force 2025 PDF was read from the Wayback Machine copy: https://web.archive.org/web/20260106032927/https://www.state.gov/wp-content/uploads/2025/08/Treaties-in-Force-2025-FINAL.pdf",
+  "The 1946 exchange: Canada Treaty Information and the text of the US note give 5 December 1946; US Treaties in Force 2025 (p. 63) gives 'November 18 and December 6, 1946' and entry into force 6 December 1946. The event uses the note's own date and records the discrepancy.",
+  "The 1939 exchange appears in Treaties in Force 2025 as 'Agreement relating to the construction of naval vessels on the Great Lakes' and the 1940 exchange as 'Agreement relating to the armament of naval vessels to be incapable of immediate use'; the 1942 wartime exchange is not listed (it applied for the duration of hostilities only).",
+  "Not verified and therefore omitted: reports of a 2004 to 2006 US-Canadian understanding allowing US Coast Guard vessels on the Lakes to mount machine guns as law-enforcement weapons (found only in Wikipedia, press and forum material; no official text retrieved, and no such agreement appears in Treaties in Force 2025); British naval build-up on the Lakes during the 1837 to 1841 Canadian rebellions; the 1864 US notifications of a temporary increase of its force (Seward to Burnley, September 1864, FRUS 1864 Part II), which history.state.gov rate-limited before retrieval.",
+  "The exact date of Adams's March 1865 note to Russell was not found. Seward's letter of 16 June 1865 refers to 'a subsequent note of the 8th of March' by Adams, but 8 March is the date of Seward's instruction in Washington (FRUS 1865 I, doc. 110), and Bruce's note says Adams acted 'in compliance with instructions, dated March 8th'.",
+  "The Office of the Historian Milestones page (a retired series) says the Senate 'ratified the agreement on April 28, 1818'; Hunter Miller gives Senate approval on 16 April and the proclamation on 28 April 1818. Hunter Miller is followed.",
+  "The 1892 report (Senate Executive Document No. 9, 52nd Congress, 2nd session) and House Document No. 471, 56th Congress, 1st session were not retrieved; they would be the fullest official source for nineteenth-century compliance questions.",
+  "The Canadian ID E101662 text and details pages are dated 'modified 2019-03-01'.",
+  "Checked by the main session, 11 Oct 2026: both notes' terms and paragraph numbering against Canada E101662 and the 1818 proclamation; the 23 November 1864 notice and 9 February 1865 joint resolution against 13 Stat. 568 (govinfo); current status against US Treaties in Force 2025, Canada section. The 1864 notice was recoded from Denunciation to Withdrawal notice, since it was withdrawn before taking effect.",
+  "11 Oct 2026: the 'Interprets' relation now exists; the 1939 exchange is record AC-127 and interprets this record. The 1940, 1942 and 1946 exchanges are to follow as separate records.",
+  "11 Oct 2026: the 1946 date was corrected after the 1939 research. Canada's text prints the US note as 5 December 1946; UNTS vol. 149 prints 6 December 1946. The event is shown as '5 or 6 December 1946'."
+ ],
+ "unverified": [
+  {
+   "field": "key_non_parties",
+   "reason": "The mechanism and date by which Canada assumed the United Kingdom's rights and obligations, and whether the United Kingdom regards itself as still bound, were not established in the sources reviewed."
+  },
+  {
+   "field": "events (Adams communicates the US position to Russell)",
+   "reason": "Exact date of Adams's March 1865 note to Earl Russell not found; recorded with month precision only."
+  },
+  {
+   "field": "events (Interpretation on training vessels)",
+   "reason": "Canada gives 5 December 1946 and US Treaties in Force 2025 gives 6 December 1946 for the US reply and entry into force."
+  },
+  {
+   "field": "history_md",
+   "reason": "Nineteenth-century compliance episodes other than the 1864 to 1865 notice (for example during the 1837 to 1841 rebellions) and the reported 2004 to 2006 Coast Guard understanding were not verified from official sources and are omitted."
+  }
+ ],
+ "corrections": [
+  "The title 'Rush-Bagot Treaty' is a common general description; the form code is exchange of notes, and the title now follows the official name. ('Treaty' is not wrong as a description of a binding international agreement.)",
+  "Date Adopted and Opened for Signature hold the range 28 to 29 April 1817. The range correctly reflects the two signature dates, but the coding uses 29 April 1817, when the exchange was completed and the agreement entered into force; a bilateral exchange of notes is not opened for signature.",
+  "Date Entered into Force is empty; it should be 29 April 1817 (US Treaties in Force 2025; Canada Treaty Information).",
+  "All substantive properties (parties, provisions, withdrawal clause, URL, word count) are empty.",
+  "The page body holds two duplicate copies of the old empty section template.",
+  "The page-body date note cites the Avalon Project text, whose header misdates the British note as 16 April 1817; the correct date is 28 April 1817."
+ ],
+ "clear_fields": []
+}
