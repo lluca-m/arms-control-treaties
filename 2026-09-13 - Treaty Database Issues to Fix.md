@@ -79,3 +79,11 @@ No written definition of what counts as an arms control instrument exists yet. T
 
 - [ ] `README.md` frames the dataset around Paper 2 and lists strategic substitutability; rewrite to the objective-properties scope.
 - [ ] This file, the venue note and `Vaynman 2026 comparison/` are untracked in git.
+
+## 9. Source texts and coverage checks
+
+- [ ] Replace the 24 web reproductions in `texts/` (listed by source in `README.md`) with depositary or treaty-series copies where official wording is needed; 11 are among the Paper 2 appendix agreements.
+- [ ] No text found for the 1996 Florence Agreement (added to Notion on 11 October 2026 from Vaynman's dataset).
+- [ ] 16 of the 41 Paper 2 appendix agreements have empty fields in Notion.
+- [ ] Cross-check against Scharre and Lamberth (2022, Appendix B), about forty attempts from ancient prohibitions to the 2008 cluster-munitions convention, coded by type of regulation, success and motivation. Their table includes ENMOD; CFE appears only in their list of agreements; neither covers PNET. Their codings are secondary (from Scharre's 2020 dissertation) and need checking against the treaty texts before use.
+- [ ] ASAT: identify the particular initiative first (the failed superpower negotiations of 1978–79, 1981–82 and 1987–89 reported by Vaynman and Volpe 2023, p. 618, and any later testing commitment may be different objects), then decide whether it belongs in the dataset and how its actual provisions are classified. Keep testing restrictions distinct from transfers or acquisition; failed negotiations alone establish neither a nonproliferation restriction nor an absence of self-limitation.
