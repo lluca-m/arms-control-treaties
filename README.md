@@ -29,6 +29,21 @@ This is an **ongoing research project**. The accompanying dissertation chapter (
 
 Some fields are unevenly populated across treaties. The README will be updated as fields are completed and the schema is refined.
 
+## Source texts (`texts/`)
+
+`texts/` holds the treaty texts collected for coding, one PDF per instrument, named `Treaty - YYYY - Short name - Full title.pdf`. Coding is still in progress, and the coded records do not yet name the file each was coded from.
+
+Sources vary. The files below are web reproductions, identified from each file's metadata and first page. They are not authoritative; check them against the depositary or treaty-series text before relying on wording.
+
+- Avalon Project (Yale Law School): 1817 Rush–Bagot exchange of notes; 1899 Hague I and Hague III; 1899 Hague Declarations IV,1 (balloons), IV,2 (asphyxiating gases) and IV,3 (expanding bullets).
+- ICRC IHL Databases: 1868 St Petersburg Declaration; 1874 Brussels Declaration; 1899 Hague Final Act and Hague II; 1907 Hague Final Act, Hague IV, VII, VIII and IX, and Hague Declaration XIV (balloons); 1980 CCW Protocol III; 1995 CCW Protocol IV; 1997 Ottawa Convention; 2003 CCW Protocol V.
+- Federation of American Scientists hypertext edition: 1991 START I, treaty articles only, without the annexes, protocols and Memorandum of Understanding, and with editorial cross-references inserted in brackets.
+- "The World and Japan" database (GRIPS and the University of Tokyo): 1993 START II, treaty articles only, without the protocols and the Memorandum on Attribution.
+- CVCE: 1992 CFE-1A Concluding Act.
+- University of Oslo Faculty of Law library: 2001 SADC Firearms Protocol.
+
+The source of each remaining file is not yet recorded here.
+
 ## Citation
 
 If you use this dataset, please cite:
