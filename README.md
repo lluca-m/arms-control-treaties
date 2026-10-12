@@ -35,7 +35,7 @@ Some fields are unevenly populated across treaties. The README will be updated a
 
 Sources vary. The files below are web reproductions, identified from each file's metadata and first page. They are not authoritative; check them against the depositary or treaty-series text before relying on wording.
 
-- Avalon Project (Yale Law School): 1817 Rush–Bagot exchange of notes; 1899 Hague I and Hague III; 1899 Hague Declarations IV,1 (balloons), IV,2 (asphyxiating gases) and IV,3 (expanding bullets).
+- Avalon Project (Yale Law School): 1817 Rush–Bagot exchange of notes; 1899 Hague I and Hague III; 1899 Hague Declarations IV,1 (balloons), IV,2 (asphyxiating gases) and IV,3 (expanding bullets). The Avalon text of Declaration IV,2 omits the word "sole" from its operative paragraph; use `Treaty - 1899 - Hague IV,2 - Declaration concerning Asphyxiating Gases (ICRC English text, checked).pdf`, the ICRC English text checked against the 1899 Proceedings, p. 266.
 - ICRC IHL Databases: 1868 St Petersburg Declaration; 1874 Brussels Declaration; 1899 Hague Final Act and Hague II; 1907 Hague Final Act, Hague IV, VII, VIII and IX, and Hague Declaration XIV (balloons); 1980 CCW Protocol III; 1995 CCW Protocol IV; 1997 Ottawa Convention; 2003 CCW Protocol V.
 - Federation of American Scientists hypertext edition: 1991 START I, treaty articles only, without the annexes, protocols and Memorandum of Understanding, and with editorial cross-references inserted in brackets.
 - "The World and Japan" database (GRIPS and the University of Tokyo): 1993 START II, treaty articles only, without the protocols and the Memorandum on Attribution.

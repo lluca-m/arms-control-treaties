@@ -549,15 +549,15 @@
    "data_entry_status": "Needs Verification"
   },
   {
-   "state": "Serbia",
-   "iso3": "SRB",
+   "state": "Kingdom of Serbia",
+   "iso3": null,
    "participation_type": "Original Signatory",
    "date_signed": null,
    "entry_into_force": "1901-05-11",
    "date_of_accession": null,
    "current_status": null,
    "method_of_consent": "Ratification",
-   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1901-05-11, termination 04-09-1905. ICRC: signature 29 July 1899, ratification/accession 1901-05-11. The same deposit date appears in the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and in Scott (1915), p. 222. Not in the list of 17 Powers that signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 220); the Final Act left signature open until 31 December 1899. Date Signed is left blank: the depositary records this signature under 29 July 1899, the date of the act, but the actual date of signature, between 29 July and 31 December 1899, was not established (the table of signatures to 31 December 1899, Proceedings p. 268, marks signatures without dates). Signed for the Kingdom of Serbia; the ICRC and the depositary list it as Serbia. No continuity is coded. The Declaration expired for all parties on 4 September 1905 (Netherlands treaty database; Trb. 1966, 231); no current participation exists.",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1901-05-11, termination 04-09-1905. ICRC: signature 29 July 1899, ratification/accession 1901-05-11. The same deposit date appears in the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and in Scott (1915), p. 222. Not in the list of 17 Powers that signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 220); the Final Act left signature open until 31 December 1899. Date Signed is left blank: the depositary records this signature under 29 July 1899, the date of the act, but the actual date of signature, between 29 July and 31 December 1899, was not established (the table of signatures to 31 December 1899, Proceedings p. 268, marks signatures without dates). Signed and ratified by the Kingdom of Serbia, linked here to the historical entry Serbia (historical). The depositary database and the ICRC list this participation under the label \"Serbia\"; the label is preserved here as the source label, while the acts were performed by the Kingdom of Serbia. No continuity with present-day Serbia is coded. The Declaration expired for all parties on 4 September 1905 (Netherlands treaty database; Trb. 1966, 231); no current participation exists.",
    "data_entry_status": "Needs Verification"
   },
   {
@@ -741,7 +741,7 @@
   },
   {
    "field": "participation",
-   "note": "One row per signatory. The United States is coded as ratified on the basis of the Dutch royal order of 1905 and Bevans although the current depositary database and the ICRC record no ratification for it. Sweden and Norway is one row under the union label; the depositary's 1905 succession entries for Norway and Sweden are described in that row. Germany, the Russian Federation, Serbia and Türkiye follow the ICRC and depositary listings, with no continuity coded. Persia and Siam keep the names under which they signed and are not linked to a country record, as Persia was on the St Petersburg record. Montenegro is linked to a historical entry, Montenegro (historical), following the ICRC's separate listing of Montenegro (1878-1918)."
+   "note": "One row per signatory. The United States is coded as ratified on the basis of the Dutch royal order of 1905 and Bevans although the current depositary database and the ICRC record no ratification for it. Sweden and Norway is one row under the union label; the depositary's 1905 succession entries for Norway and Sweden are described in that row. The Kingdom of Serbia's signature and ratification are on a row linked to Serbia (historical), with the depositary's label \"Serbia\" preserved in its notes. Germany, the Russian Federation and Türkiye keep the depositary's modern labels as a source-reporting convention, with the historical actor named in each row's notes and no continuity coded. Persia and Siam keep the names under which they signed and are not linked to a country record, as Persia was on the St Petersburg record. Montenegro is linked to a historical entry, Montenegro (historical), following the ICRC's separate listing of Montenegro (1878-1918)."
   },
   {
    "field": "provisions",

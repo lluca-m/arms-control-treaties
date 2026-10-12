@@ -264,6 +264,7 @@ def write_participation(pid,rows,short,country_ids):
           'Date Signed':{'date':{'start':p['date_signed']}} if p.get('date_signed') else {'date':None},
           'Entry into Force':{'date':{'start':p['entry_into_force']}} if p.get('entry_into_force') else {'date':None},
           'Date of Accession':{'date':{'start':p['date_of_accession']}} if p.get('date_of_accession') else {'date':None},
+          'Date of Succession':{'date':{'start':p['date_of_succession']}} if p.get('date_of_succession') else {'date':None},
           'Current Status':{'select':{'name':p['current_status']}} if p.get('current_status') else {'select':None},
           'Method of Consent':{'select':{'name':p['method_of_consent']}} if p.get('method_of_consent') else {'select':None},
           'Data Entry Status':{'select':{'name':p.get('data_entry_status') or 'Needs Verification'}},

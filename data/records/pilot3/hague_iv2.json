@@ -1,0 +1,1030 @@
+{
+ "instrument": {
+  "full_name": "Declaration concerning the Prohibition of the Use of Projectiles the Sole Object of which is the Diffusion of Asphyxiating or Deleterious Gases",
+  "short_name": "Hague Declaration (IV,2) on Asphyxiating Gases, 1899",
+  "record_type": "Instrument",
+  "instrument_form": "Declaration",
+  "legal_character": "Legally binding",
+  "instrument_status": "In force",
+  "negotiation_status": "Concluded",
+  "date_adopted": "1899-07-29",
+  "opened_for_signature": "1899-07-29",
+  "entry_into_force": "1900-09-04",
+  "date_ended": null,
+  "participation_structure": "Multilateral (open)",
+  "geographic_coverage": [],
+  "operating_environment": [
+   "Not specific"
+  ],
+  "weapon_families": [
+   "Chemical weapons"
+  ],
+  "legal_subject_matter": [
+   "Conduct of hostilities (IHL)"
+  ],
+  "signed_at": "The Hague",
+  "adopted_at": "The Hague, First International Peace Conference (question raised in the First Commission's second (naval) subcommission, voted in the First Commission, adopted in plenary, and embodied in a separate act listed in the Final Act of 29 July 1899)",
+  "depositary": "Government of the Netherlands. Ratifications are deposited at The Hague (operative para. 5), adhesions and denunciations are notified to the Netherlands Government (operative paras. 7 and 8), and the single original is kept in its archives (closing formula).",
+  "number_of_parties": 35,
+  "number_of_signatories": 24,
+  "parties_as_of": "2026-10-12",
+  "key_non_parties": "The United States neither signed nor ratified: Captain Mahan voted against the prohibition in the subcommission, the First Commission and (with Great Britain) in plenary (Proceedings, 1899, pp. 79, 284, 329, 366-367); the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) marks the United States \"neither signed nor ratified\"; the depositary database and the ICRC list no United States entry; and Bevans, vol. 1, lists only Hague I to III and IV,1 among the acts of 29 July 1899. Great Britain voted against in 1899 and did not sign, but adhered on 30 August 1907 (Scott 1915, p. 226; Trb. 1966, 232). Most present-day states are not listed as parties; the depositary database lists 35 (checked 12 October 2026).",
+  "information_provisions": [
+   "None"
+  ],
+  "inspection_access": [
+   "None"
+  ],
+  "monitoring_means_specified": [
+   "None specified"
+  ],
+  "institutional_oversight": "Depositary only",
+  "consultation_mechanism": "None",
+  "reporting_requirements": "Not specified in text",
+  "enforcement": "Not specified in text",
+  "dispute_resolution": "Not specified in text",
+  "national_authority": "Not specified in text",
+  "technical_cooperation": "Not specified in text",
+  "third_party_roles": "Not specified in text",
+  "reservations": "Not Specified",
+  "duration_type": "Indefinite",
+  "duration_years": null,
+  "duration_clause": "No term is stated. The undertaking to abstain (operative para. 1) is given without limit of time, unlike the five-year term of the sister Declaration (IV,1) on balloons. Its application in a particular war depends on the general participation clause (operative paras. 2 and 3). The depositary records entry into force on 4 September 1900 and no termination.",
+  "extension_type": "None stated",
+  "extension_clause": null,
+  "withdrawal_type": "Notice",
+  "withdrawal_notice_months": 12,
+  "withdrawal_clause": "A High Contracting Party may denounce the Declaration by written notification to the Netherlands Government, which communicates it forthwith to the other Contracting Powers; the denunciation takes effect one year after the notification (operative para. 8) and affects only the notifying Power (operative para. 9). The engagement also ceases to be binding in a particular war once a non-contracting Power joins one of the belligerents (operative para. 3); that is a condition of application, not withdrawal. No denunciation is recorded in the depositary database.",
+  "amendment_procedure": "None stated",
+  "amendment_clause": "No amendment procedure is stated.",
+  "review_conferences": "None",
+  "review_interval_years": null,
+  "review_conferences_held": 0,
+  "entry_into_force_requirements": "Ratification \"as soon as possible\" (operative para. 4), with ratifications deposited at The Hague and a proces-verbal drawn up on each deposit (operative paras. 5 and 6). The text sets no threshold and no entry-into-force date. The Netherlands Treaty Series (Trb. 1966, 232, section G) records that the Declaration entered into force on 4 September 1900 for the states that had ratified by that date and, for later ratifying or acceding states, on the dates of their deposit or accession. Non-signatory Powers may adhere by written notification to the Netherlands Government (operative para. 7); the text does not say when an adhesion takes effect.",
+  "number_of_articles": null,
+  "word_count": 308,
+  "count_basis": "The Declaration has no numbered articles. Citations use: preamble (the paragraphs from \"The undersigned\" to the reference to the St Petersburg Declaration); operative paras. 1 to 9 (the paragraphs after \"Declare as follows\", namely 1 prohibition, 2 binding only between Contracting Powers, 3 cessation when a non-contracting Power joins, 4 ratification, 5 deposit at The Hague, 6 proces-verbal, 7 adhesion, 8 denunciation, 9 effect of denunciation); and the closing formula. The Netherlands Treaty Series uses the same count (\"alinea 5\" for ratification, \"alinea 7\" for accession). Word count: authentic French text as reproduced by the ICRC (French page), from \"Les soussignés\" to the end of the dating formula, excluding the title and \"(Signatures)\", whitespace tokenization with elided forms (e.g. d'être) counted as one word and the detached colon after \"Déclarent\" not counted: 308. The same procedure gives 318 for Declaration IV,1, the figure recorded there. Scott, Les Conventions et Déclarations de La Haye (1918), pp. 225-226, prints the St Petersburg date as \"29 Novembre/11 Décembre\", which gives 307 on the same basis. English: the local Avalon PDF (Scott translation), from \"The Undersigned\" to the end of the dating formula: 319.",
+  "weapons_systems_limited": "Projectiles the sole object of which is the diffusion of asphyxiating or deleterious gases. In the subcommission the President defined the proposal as covering projectiles whose purpose is to spread asphyxiating gases, not those whose explosion incidentally produces such gases (Proceedings, 1899, p. 366).",
+  "key_provisions": "The Contracting Powers agree to abstain from the use of projectiles the sole object of which is the diffusion of asphyxiating or deleterious gases (operative para. 1). The Declaration binds only Contracting Powers in a war between two or more of them (operative para. 2) and ceases to be binding once a non-contracting Power joins one of the belligerents (operative para. 3). It is subject to ratification, with deposit at The Hague (operative paras. 4 to 6); non-signatory Powers may adhere by notification to the Netherlands Government (operative para. 7); denunciation takes effect one year after written notification and affects only the notifying Power (operative paras. 8 and 9). The preamble invokes the sentiments of the 1868 St Petersburg Declaration.",
+  "behavior_change": "Delegates described the prohibited projectiles as not yet existing; on that account, the restriction concerned a prospective capability rather than an identified fielded weapon. In the First Commission on 22 June 1899 Captain Mahan (United States) said that projectiles of this kind \"do not really exist\", and the Danish delegate, Mr Bille, said there was no occasion to discuss a projectile which does not exist when Russia and Germany had said that present means of warfare were more than sufficient (Proceedings, 1899, pp. 283-284). In the subcommission on 31 May the British delegate thought such an invention unlikely (p. 367). During the First World War Germany fired irritant-filled shells in 1914 and January 1915 that also carried shrapnel or explosive, so that their \"sole\" purpose was not gas, and released chlorine from cylinders at Ypres on 22 April 1915, as reported by Tucker (2006).",
+  "historical_background": "Russia's circular of 30 December 1898 (11 January 1899, new style) proposed, as point 2, banning new explosives more powerful than those in use (Scott 1915, pp. xvi-xvii). In the First Commission's naval subcommission on 31 May 1899 the Russian naval delegate, Captain Scheine, proposed prohibiting projectiles that spread asphyxiating or deleterious gases; most delegates agreed on condition of unanimity, the United States voted against and Siam reserved its vote. The First Commission adopted the prohibition on 22 June against the single vote of the United States, and on 20 July by 17 votes to 2 (United States and Great Britain). The plenary Conference adopted it on 21 July with the same two votes against, and 16 Powers signed the Declaration at the closing meeting on 29 July 1899 (Proceedings, 1899, pp. 79, 221, 283-284, 328-329, 365-367).",
+  "treaty_url": "https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-iv-2-1899",
+  "source_quality": "Reproduction",
+  "related": [
+   {
+    "relation": "produced_by",
+    "target": "Hague I Peace Conference of 1899",
+    "target_id": "AC-78"
+   },
+   {
+    "relation": "negotiated_alongside",
+    "target": "Hague (IV,1): Declaration concerning the Prohibition of the Discharge of Projectiles and Explosives from Balloons or by Other New Analogous Methods",
+    "target_id": "AC-84"
+   },
+   {
+    "relation": "negotiated_alongside",
+    "target": "Hague (IV,3): Declaration concerning the Prohibition of the Use of Bullets which can Easily Expand or Change their Form inside the Human Body",
+    "target_id": "AC-81"
+   },
+   {
+    "relation": "negotiated_alongside",
+    "target": "Hague (I): Convention for the Pacific Settlement of International Disputes",
+    "target_id": "AC-85"
+   },
+   {
+    "relation": "negotiated_alongside",
+    "target": "Hague (II): Convention with respect to the Laws and Customs of War on Land",
+    "target_id": "AC-82"
+   },
+   {
+    "relation": "negotiated_alongside",
+    "target": "Hague (III): Convention for the Adaptation to Maritime Warfare of the Principles of the Geneva Convention of 22 August 1864",
+    "target_id": "AC-83"
+   }
+  ]
+ },
+ "provisions": [
+  {
+   "provision": "Prohibit use of projectiles whose sole object is the diffusion of asphyxiating or deleterious gases",
+   "article": "Operative para. 1",
+   "weapon_activity": [
+    "Chemical weapons"
+   ],
+   "restriction_type": "Prohibit use",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "Every Contracting Power on identical terms (\"The Contracting Powers agree to abstain\")",
+   "geographic_scope": "No geographic limit; applies in a war between two or more Contracting Powers",
+   "exceptions": "Binding only in a war between two or more Contracting Powers (operative para. 2); ceases to be binding once a non-contracting Power joins one of the belligerents (operative para. 3). The word \"sole\" limits the rule to projectiles whose only object is gas diffusion: in the subcommission the President defined the proposal as excluding projectiles whose explosion incidentally produces gases (Proceedings, 1899, p. 366), and on 17 July Captains Mahan and Scheine said the word had been inserted purposely (p. 326). The text does not address gas released other than by projectiles.",
+   "effective_from": "1900-09-04",
+   "effective_until": null,
+   "text_or_paraphrase": "The Contracting Powers agree to abstain from the use of projectiles the sole object of which is the diffusion of asphyxiating or deleterious gases.",
+   "source_url": "https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-iv-2-1899/declaration",
+   "locator": "Operative para. 1 (French: \"Les Puissances contractantes s'interdisent l'emploi de projectiles qui ont pour but unique de répandre des gaz asphyxiants ou délétères.\"). Entry into force from the Netherlands treaty database (4 September 1900); no termination recorded."
+  }
+ ],
+ "events": [
+  {
+   "event": "Russian circular proposes banning new explosives",
+   "date": "1899-01-11",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "Russia (Foreign Minister Count Muraviev)",
+   "attribution": "Circular printed in Scott, The Hague Conventions and Declarations of 1899 and 1907 (1915)",
+   "description": "The second Russian circular listed the subjects for the conference. Point 2 proposed the \"interdiction of the employment in armies and fleets of new firearms of every description and of new explosives\". The gas proposal was later raised under this point in the naval subcommission.",
+   "source_url": "https://archive.org/details/hagueconventions00inteuoft",
+   "locator": "Introduction, pp. xvi-xvii",
+   "date_precision": "Day",
+   "date_as_reported": "30 December 1898 (11 January 1899, new style)"
+  },
+  {
+   "event": "Naval subcommission debates a ban on asphyxiating-gas projectiles",
+   "date": "1899-05-31",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "Second subcommission of the First Commission; Russia (Captain Scheine); United States (Captain Mahan); Great Britain (Admiral Sir John Fisher); Siam",
+   "attribution": "Minutes of the second subcommission, third meeting, and its report (Count Soltyk), in Scott (ed.), Proceedings of the Hague Peace Conferences: Conference of 1899 (1920)",
+   "description": "Captain Scheine proposed prohibiting projectiles that spread asphyxiating and deleterious gases; the President, Jonkheer van Karnebeek, defined the proposal as covering projectiles whose purpose is to spread such gases, not those whose explosion incidentally produces them. France, Austria-Hungary, Sweden and Norway, Japan, the Netherlands, Denmark, Turkey, Italy and Germany answered yes on condition of unanimity, and the British delegate favoured the prohibition. Mahan voted no and had his reasons entered in the minutes; Siam reserved its vote. The subcommission report counts 14 representatives in favour on condition of unanimity.",
+   "source_url": "https://archive.org/details/proceedingsofhag1899inteuoft",
+   "locator": "Second subcommission, third meeting, pp. 365-367; report, pp. 295-296",
+   "date_precision": "Day"
+  },
+  {
+   "event": "First Commission adopts the prohibition against one vote",
+   "date": "1899-06-22",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "First Commission; United States (Captain Mahan); Netherlands (Jonkheer van Karnebeek); Russia (Captain Scheine)",
+   "attribution": "Minutes of the First Commission, third meeting, in Scott (ed.), Proceedings of the Hague Peace Conferences: Conference of 1899 (1920)",
+   "description": "Mahan maintained his negative vote, saying such projectiles did not really exist and that asphyxiating enemies with gas was no more cruel than drowning them when a torpedo sinks a vessel. Van Karnebeek replied that the matter should also be seen from the standpoint of land war and the danger to non-combatants in a siege; Scheine compared gas to poisoning a river. The prohibition was adopted unanimously except for the United States; Germany, Austria-Hungary, Great Britain, Italy, Japan and Portugal accepted it only on condition of unanimity.",
+   "source_url": "https://archive.org/details/proceedingsofhag1899inteuoft",
+   "locator": "First Commission, third meeting, pp. 283-284",
+   "date_precision": "Day"
+  },
+  {
+   "event": "First Commission debates the draft report and the word \"sole\"",
+   "date": "1899-07-17",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "First Commission; United States (Captain Mahan); Russia (Captain Scheine); Germany (Captain Siegel); Great Britain (Sir Julian Pauncefote); Portugal (Count de Macedo)",
+   "attribution": "Minutes of the First Commission, seventh meeting, in Scott (ed.), Proceedings of the Hague Peace Conferences: Conference of 1899 (1920)",
+   "description": "The reporter's proposal to extend the St Petersburg Declaration to the three points for five years was dropped after objections, including from Mahan and Scheine that a five-year term would change the scope of the gas and bullet votes. Siegel and Pauncefote recorded that many affirmative gas votes had been conditional on unanimity. De Macedo thought the word \"sole\" had been inserted by mistake; Mahan and Scheine said it had been inserted purposely.",
+   "source_url": "https://archive.org/details/proceedingsofhag1899inteuoft",
+   "locator": "First Commission, seventh meeting, pp. 324-326",
+   "date_precision": "Day"
+  },
+  {
+   "event": "First Commission votes 17 to 2 on the gas prohibition",
+   "date": "1899-07-20",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "First Commission; United States (Captain Mahan); Great Britain",
+   "attribution": "Minutes of the First Commission, eighth meeting, in Scott (ed.), Proceedings of the Hague Peace Conferences: Conference of 1899 (1920)",
+   "description": "The reporter appealed to the United States delegation to withdraw its negative vote. Mahan, speaking for the delegation, said it did not deem it logical to permit submarine boats and prohibit shells filled with asphyxiating gases, and could not reverse a vote of principle. De Macedo said he had voted yes although he thought the word \"sole\" took all force from the prohibition. The Commission decided to propose a separate declaration or convention on each point and adopted the gas point by 17 votes to 2 (United States and Great Britain).",
+   "source_url": "https://archive.org/details/proceedingsofhag1899inteuoft",
+   "locator": "First Commission, eighth meeting, pp. 328-329",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Plenary Conference adopts the gas engagement",
+   "date": "1899-07-21",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "Plenary Conference (reporter Jonkheer van Karnebeek); United States; Great Britain",
+   "attribution": "Minutes of the sixth plenary meeting and annexed report, in Scott (ed.), Proceedings of the Hague Peace Conferences: Conference of 1899 (1920)",
+   "description": "The engagement prohibiting the use of projectiles which have for their sole end the spreading of asphyxiating or deleterious gases was \"adopted unanimously less two votes (United States of America and Great Britain)\". The Commission's report to the Conference noted that six affirmative votes had been cast only on condition of unanimity.",
+   "source_url": "https://archive.org/details/proceedingsofhag1899inteuoft",
+   "locator": "Sixth plenary meeting, p. 79; report, p. 88",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Plenary adopts the final texts and signature arrangements",
+   "date": "1899-07-27",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "Plenary Conference; Drafting Committee (reporter Louis Renault)",
+   "attribution": "Minutes of the seventh and eighth plenary meetings, in Scott (ed.), Proceedings of the Hague Peace Conferences: Conference of 1899 (1920)",
+   "description": "On 25 July the Conference approved the Final Act, under which the Conventions and the three Declarations form separate acts, dated the day of signature, which may be signed until 31 December 1899. On 27 July Renault presented the common preamble and final clauses, explaining that the reference to St Petersburg did not imply adhesion to the 1868 Declaration, and the Conference adopted the texts.",
+   "source_url": "https://archive.org/details/proceedingsofhag1899inteuoft",
+   "locator": "Seventh plenary meeting, p. 103; eighth plenary meeting, pp. 211-212",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Declaration adopted and signed at The Hague",
+   "date": "1899-07-29",
+   "effective_date": null,
+   "event_type": "Adoption",
+   "actors": "Belgium, Bulgaria, Denmark, France, Greece, Mexico, Montenegro, Netherlands, Persia, Portugal, Romania, Russia, Siam, Spain, Sweden and Norway, Turkey",
+   "attribution": "Table of signatures read at the closing meeting, in Scott (ed.), Proceedings of the Hague Peace Conferences: Conference of 1899 (1920); Netherlands treaty database; ICRC",
+   "description": "The Declaration is dated 29 July 1899, the date of the Final Act. The table of signatures read at the closing meeting lists 16 Powers as having signed it that day. The United States and Great Britain did not sign.",
+   "source_url": "https://archive.org/details/proceedingsofhag1899inteuoft",
+   "locator": "Closing meeting, p. 221 (page inferred from neighbouring running heads); text and signature blocks, pp. 266-267",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Signature open until 31 December 1899",
+   "date": "1899-07-29",
+   "effective_date": null,
+   "event_type": "Opening for signature",
+   "actors": "Powers represented at the Conference",
+   "attribution": "Final Act, as reported at the seventh plenary meeting, in Scott (ed.), Proceedings of the Hague Peace Conferences: Conference of 1899 (1920)",
+   "description": "Under the Final Act the Declaration could be signed until 31 December 1899 by the plenipotentiaries of the Powers represented. Austria-Hungary, China, Germany, Italy, Japan, Luxembourg, the Kingdom of Serbia and Switzerland are not in the closing-meeting list but appear as signatories in the 1899 table of signatures to 31 December and in the depositary record, which gives every signature the date of the act; their actual signature dates were not established.",
+   "source_url": "https://archive.org/details/proceedingsofhag1899inteuoft",
+   "locator": "Seventh plenary meeting, p. 103; table of signatures, p. 268",
+   "date_precision": "Day"
+  },
+  {
+   "event": "First deposit of ratifications and entry into force",
+   "date": "1900-09-04",
+   "effective_date": null,
+   "event_type": "Entry into force",
+   "actors": "Austria-Hungary, Belgium, Bulgaria, Denmark, France, Germany, Italy, Netherlands, Persia, Portugal, Romania, Russia, Siam, Spain, Sweden and Norway",
+   "attribution": "Netherlands treaty database; Netherlands Treaty Series (Trb. 1966, 232); ICRC",
+   "description": "The depositary and the ICRC give entry into force on 4 September 1900. Trb. 1966, 232 states that the provisions entered into force on that date for the states that had ratified by then. The ICRC gives Denmark and Spain 4 November 1900; the depositary database, Trb. 1966, 232, the 1905 Dutch royal order and Scott (1915) give 4 September 1900.",
+   "source_url": "https://treatydatabase.overheid.nl/en/Treaty/Details/002422",
+   "locator": "Treaty data: entry into force 04-09-1900; Trb. 1966, 232, sections E and G",
+   "date_precision": "Day"
+  },
+  {
+   "event": "China deposits its ratification",
+   "date": "1904-11-21",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "China",
+   "attribution": "Netherlands treaty database; ICRC; Dutch royal order of 23 January 1905 (FRUS 1905)",
+   "description": "China's ratification was deposited on 21 November 1904, the last by a signatory other than Turkey.",
+   "source_url": "https://treatydatabase.overheid.nl/en/Treaty/Details/002422_p.html",
+   "locator": "Parties: China",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Dutch royal order publishes the list of ratifications",
+   "date": "1905-01-23",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Netherlands (Queen Wilhelmina; Foreign Minister Melvil van Lynden)",
+   "attribution": "Royal order of 23 January 1905 (Staatsblad 1905, no. 29), translation enclosed in a despatch from the United States chargé at The Hague, FRUS 1905",
+   "description": "The order lists the Powers for which the 1899 acts were obligatory on 31 December 1904. For Declaration IV,2 it lists 23 ratifying Powers, including Montenegro (16 October 1900); it marks Great Britain and the United States as having neither signed nor ratified and Turkey as having signed but not ratified.",
+   "source_url": "https://history.state.gov/historicaldocuments/frus1905/d704",
+   "locator": "Document 704, enclosure, p. 691",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Norway and Sweden listed as parties by succession",
+   "date": "1905-06-17",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Norway; Sweden",
+   "attribution": "Netherlands treaty database (parties table)",
+   "description": "The depositary database lists Norway and Sweden separately with consent type \"Su\" (succession) and entry into force on 17 June 1905, beside the entry for the Kingdom of Sweden and Norway. The basis of the entries and their date were not established; Scott (1915) and the 1905 royal order list only Sweden and Norway.",
+   "source_url": "https://treatydatabase.overheid.nl/en/Treaty/Details/002422_p.html",
+   "locator": "Parties: Norway; Sweden",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Turkey deposits its ratification",
+   "date": "1907-06-12",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Turkey",
+   "attribution": "Netherlands treaty database; Trb. 1966, 232; Scott (1915)",
+   "description": "Turkey, which had signed on 29 July 1899, deposited its ratification on 12 June 1907, completing ratification by all signatory Powers (Scott 1915, p. 226).",
+   "source_url": "https://zoek.officielebekendmakingen.nl/trb-1966-232.pdf",
+   "locator": "Section E",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Great Britain adheres",
+   "date": "1907-08-30",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Great Britain",
+   "attribution": "Scott (1915); Trb. 1966, 232; Netherlands treaty database",
+   "description": "Great Britain, which had voted against the prohibition in 1899 and did not sign, adhered under operative para. 7 on 30 August 1907. The depositary database lists the entry as an accession by the United Kingdom.",
+   "source_url": "https://zoek.officielebekendmakingen.nl/trb-1966-232.pdf",
+   "locator": "Section F",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Nicaragua adheres",
+   "date": "1907-10-11",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Nicaragua",
+   "attribution": "Scott (1915); Trb. 1966, 232; Netherlands treaty database",
+   "description": "Nicaragua adhered under operative para. 7 on 11 October 1907.",
+   "source_url": "https://zoek.officielebekendmakingen.nl/trb-1966-232.pdf",
+   "locator": "Section F",
+   "date_precision": "Day"
+  },
+  {
+   "event": "German chlorine release at Ypres",
+   "date": "1915-04-22",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Germany",
+   "attribution": "Reported by Tucker, War of Nerves (2006), excerpt published by NPR",
+   "description": "Germany released about 168 tonnes of chlorine from 5,730 cylinders against French and Algerian troops near Langemarck. Tucker reports that the German High Command read the Declaration as banning only shells designed specifically to release lethal gas, and that Fritz Haber noted that release from cylinders would not technically violate it. Tucker also reports earlier French use of tear-gas grenades from August 1914 and German irritant shells, combined with shrapnel or explosive, at Neuve-Chapelle (October 1914) and Bolimow (January 1915).",
+   "source_url": "https://www.npr.org/2006/05/08/5391044/excerpt-war-of-nerves",
+   "locator": "Excerpt, ch. 1",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Sir John French alleges defiance of the Hague Convention",
+   "date": "1915-06-15",
+   "effective_date": null,
+   "event_type": "Compliance allegation",
+   "actors": "United Kingdom (Field Marshal Sir John French); Germany",
+   "attribution": "Despatch of 15 June 1915 to the Secretary of State for War, published in the London Gazette (second supplement of 10 July 1915), transcribed by The Long, Long Trail",
+   "description": "French wrote that the enemy's fighting had been characterised by \"a cynical and barbarous disregard of the well-known usages of civilised war and a flagrant defiance of the Hague Convention\", referring to the use of poisonous gas from 22 April 1915. The despatch does not name Declaration IV,2. No formal finding on this Declaration was identified in the sources reviewed.",
+   "source_url": "https://www.longlongtrail.co.uk/battles/british-field-commanders-despatches/sir-john-frenchs-eighth-despatch-second-ypres-aubers-and-festubert/",
+   "locator": "Para. 2",
+   "date_precision": "Day",
+   "date_as_reported": "Despatch dated 15 June 1915; published 10 July 1915"
+  },
+  {
+   "event": "United States enters the war",
+   "date": "1917-04-06",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States",
+   "attribution": "Office of the Historian, U.S. Department of State, Milestones",
+   "description": "The House of Representatives concurred in the declaration of war on Germany two days after the Senate vote of 4 April 1917. The United States was not a party to the Declaration (FRUS 1905, doc. 704; depositary database). Under operative para. 3 the Declaration ceases to be binding once a non-contracting Power joins a belligerent; no source reviewed was found that applies this clause to the war after April 1917.",
+   "source_url": "https://history.state.gov/milestones/1914-1920/wwi",
+   "locator": "U.S. Entry into World War I, 1917",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Geneva Protocol on gases signed",
+   "date": "1925-06-17",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Signatories of the Geneva Protocol",
+   "attribution": "Text of the Protocol, ICRC IHL Databases",
+   "description": "The Protocol's preamble records that the prohibition of the use in war of asphyxiating, poisonous or other gases \"has been declared in Treaties to which the majority of Powers of the world are Parties\", and its parties accept the prohibition \"so far as they are not already Parties to Treaties prohibiting such use\". Any relationship to this Declaration is coded on the 1925 record.",
+   "source_url": "https://ihl-databases.icrc.org/en/ihl-treaties/geneva-gas-prot-1925",
+   "locator": "Preamble and first operative paragraph",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Ethiopia adheres",
+   "date": "1935-08-09",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Ethiopia",
+   "attribution": "Trb. 1966, 232; Netherlands treaty database; ICRC",
+   "description": "Ethiopia adhered under operative para. 7 on 9 August 1935. Italy, an original party, invaded Ethiopia on 3 October 1935 and used chemical weapons, chiefly sulphur mustard; Grip and Hart (SIPRI, 2009) describe the legal debate at the League of Nations within the framework of the 1925 Geneva Protocol. No allegation framed under this Declaration was identified in the sources reviewed.",
+   "source_url": "https://zoek.officielebekendmakingen.nl/trb-1966-232.pdf",
+   "locator": "Section F; SIPRI (2009), sections I and V",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Soviet Union recognises the Hague Declarations ratified by Russia",
+   "date": "1955-03-07",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "USSR",
+   "attribution": "Netherlands treaty database (declaration text); Trb. 1981, 94",
+   "description": "The USSR recognised the 1899 and 1907 Hague Conventions and Declarations ratified by Russia to the extent that they do not conflict with the UN Charter and have not been amended or superseded by later agreements to which the USSR is a party, \"such as the 1925 Geneva Protocol\". The depositary records the entry under the Russian Federation.",
+   "source_url": "https://treatydatabase.overheid.nl/en/Treaty/Details/002422_p.html",
+   "locator": "Reservations and declarations: Russian Federation",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Ukraine confirms succession",
+   "date": "2015-05-29",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Ukraine",
+   "attribution": "Netherlands treaty database",
+   "description": "Ukraine confirmed the validity for it, by succession from 24 August 1991, of the 1899 and 1907 Hague Conventions and Declarations recognised by the USSR in the format and scope of the Soviet note of 7 March 1955. The depositary circulated the notification on 10 June 2015.",
+   "source_url": "https://treatydatabase.overheid.nl/en/Treaty/Details/002422_p.html",
+   "locator": "Reservations and declarations: Ukraine; notification Conventions 1899 A 05 No. 01/2015",
+   "date_precision": "Day"
+  }
+ ],
+ "participation": [
+  {
+   "state": "Austria-Hungary",
+   "iso3": null,
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-09-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-09-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Not in the list of 16 Powers that signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221); the Final Act left signature open until 31 December 1899. Date Signed is left blank: the depositary records this signature under 29 July 1899, the date of the act, but the actual date of signature, between 29 July and 31 December 1899, was not established (the table of signatures to 31 December 1899, Proceedings p. 268, marks signatures without dates). The depositary lists \"Austria/Hungary\" as a historical entry and separate succession entries for Austria (12 November 1918) and Hungary (16 November 1918), recorded in their own rows. The ICRC instead lists Austria and Hungary each with signature 29 July 1899 and ratification 4 September 1900. Counted once as a historical entity; no current status is coded.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Belgium",
+   "iso3": "BEL",
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-09-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-09-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221). Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Bulgaria",
+   "iso3": "BGR",
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-09-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-09-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221). Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "China",
+   "iso3": "CHN",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1904-11-21",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1904-11-21, no termination. ICRC: signature 29 July 1899, ratification/accession 1904-11-21. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Not in the list of 16 Powers that signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221); the Final Act left signature open until 31 December 1899. Date Signed is left blank: the depositary records this signature under 29 July 1899, the date of the act, but the actual date of signature, between 29 July and 31 December 1899, was not established (the table of signatures to 31 December 1899, Proceedings p. 268, marks signatures without dates). Signed for the Qing Empire; the depositary and the ICRC list the participation under China. This row reports that listing and does not code continuity. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Denmark",
+   "iso3": "DNK",
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-09-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-11-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221). The ICRC gives 4 November 1900 for ratification; the depositary database, Trb. 1966, 232, the 1905 royal order and Scott (1915) all give 4 September 1900, which is used. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "France",
+   "iso3": "FRA",
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-09-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-09-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221). Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Germany",
+   "iso3": "DEU",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-09-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-09-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Not in the list of 16 Powers that signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221); the Final Act left signature open until 31 December 1899. Date Signed is left blank: the depositary records this signature under 29 July 1899, the date of the act, but the actual date of signature, between 29 July and 31 December 1899, was not established (the table of signatures to 31 December 1899, Proceedings p. 268, marks signatures without dates). Signed for the German Empire; the depositary and the ICRC list the participation under Germany. This row reports that listing and does not code continuity. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Greece",
+   "iso3": "GRC",
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1901-04-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1901-04-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1901-04-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221). Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Persia",
+   "iso3": null,
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-09-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-09-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221). Signed as Persia (closing-meeting table; royal order of 1905; Scott 1915). The depositary lists the entry as Iran and the ICRC as Islamic Republic of Iran; this row reports those listings and does not code continuity. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Italy",
+   "iso3": "ITA",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-09-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-09-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Not in the list of 16 Powers that signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221); the Final Act left signature open until 31 December 1899. Date Signed is left blank: the depositary records this signature under 29 July 1899, the date of the act, but the actual date of signature, between 29 July and 31 December 1899, was not established (the table of signatures to 31 December 1899, Proceedings p. 268, marks signatures without dates). Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Japan",
+   "iso3": "JPN",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1900-10-06",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-10-06, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-10-06. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Not in the list of 16 Powers that signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221); the Final Act left signature open until 31 December 1899. Date Signed is left blank: the depositary records this signature under 29 July 1899, the date of the act, but the actual date of signature, between 29 July and 31 December 1899, was not established (the table of signatures to 31 December 1899, Proceedings p. 268, marks signatures without dates). Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Luxembourg",
+   "iso3": "LUX",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1901-07-12",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1901-07-12, no termination. ICRC: signature 29 July 1899, ratification/accession 1901-07-12. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Not in the list of 16 Powers that signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221); the Final Act left signature open until 31 December 1899. Date Signed is left blank: the depositary records this signature under 29 July 1899, the date of the act, but the actual date of signature, between 29 July and 31 December 1899, was not established (the table of signatures to 31 December 1899, Proceedings p. 268, marks signatures without dates). Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Mexico",
+   "iso3": "MEX",
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1901-04-17",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1901-04-17, no termination. ICRC: signature 29 July 1899, ratification/accession 1901-04-17. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221). Listed as United Mexican States at the Conference. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Montenegro (1878–1918)",
+   "iso3": null,
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1900-10-16",
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": "Ratification",
+   "notes": "Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221; signature of Staal, pp. 266-267). Ratification deposited 16 October 1900 according to Trb. 1966, 232 (section E), the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704), Scott (1915), p. 226, and Scott (1918), p. 226. The current Netherlands treaty database and the ICRC have no entry for this 1899 participation; they list only the succession of the present Republic of Montenegro (2007), recorded in its own row. Coded on the basis of the depositary's own 1966 Treaty Series entry and the 1905 list; the omission should be raised with the depositary. Historical entity; no continuity with present-day Montenegro is coded and no current status is set.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Netherlands",
+   "iso3": "NLD",
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-09-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-09-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221). The depositary records that the Declaration applies to the whole Kingdom, including Aruba (from 1 January 1986) and Curaçao, Sint Maarten and the Caribbean Netherlands (from 10 October 2010), with declarations on the constitutional changes of 1986 and 2010. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Portugal",
+   "iso3": "PRT",
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-09-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-09-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221). Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Romania",
+   "iso3": "ROU",
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-09-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-09-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221). Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Russian Federation",
+   "iso3": "RUS",
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-09-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-09-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221). Signed for the Russian Empire. On 7 March 1955 the USSR recognised the Hague Conventions and Declarations ratified by Russia to the extent that they do not conflict with the UN Charter and have not been amended or superseded by later agreements to which the USSR is a party, such as the 1925 Geneva Protocol (Netherlands treaty database; Trb. 1981, 94). The depositary and the ICRC list the participation under the Russian Federation; this row reports that listing and does not code a succession through the USSR. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Kingdom of Serbia",
+   "iso3": null,
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1901-05-11",
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1901-05-11, no termination. ICRC: signature 29 July 1899, ratification/accession 1901-05-11. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Not in the list of 16 Powers that signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221); the Final Act left signature open until 31 December 1899. Date Signed is left blank: the depositary records this signature under 29 July 1899, the date of the act, but the actual date of signature, between 29 July and 31 December 1899, was not established (the table of signatures to 31 December 1899, Proceedings p. 268, marks signatures without dates). Signed and ratified by the Kingdom of Serbia, linked here to the historical entry Serbia (historical). The depositary database records this 1899 signature and 1901 ratification under the label \"Yugoslavia (< 25-06-1991)\", and the depositary record for that label carries both acts; the label is preserved here as the depositary's source label, while the acts were performed by the Kingdom of Serbia. The ICRC lists the participation under Serbia. Later participation is recorded on the separate row \"Serbia\" (succession). No current status is coded on this row.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Spain",
+   "iso3": "ESP",
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-09-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-11-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221). The ICRC gives 4 November 1900 for ratification; the depositary database, Trb. 1966, 232, the 1905 royal order and Scott (1915) all give 4 September 1900, which is used. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Sweden and Norway",
+   "iso3": null,
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): \"Kingdom of Sweden and Norway\", signature 29-07-1899, ratification (R) and entry into force 04-09-1900. The closing-meeting table, the Dutch royal order of 23 January 1905 (FRUS 1905) and Scott (1915), p. 226, list a single participation, \"Sweden and Norway\", ratified 4 September 1900; Trb. 1966, 232 lists Norway and Sweden separately under that date. The ICRC lists Sweden and Norway as two entries, each with signature 29 July 1899 and ratification 4 September 1900. The depositary database also lists Norway and Sweden separately by succession on 17 June 1905; those entries are recorded in their own rows. Sweden and Norway signed as the union of the two kingdoms (dissolved in 1905); the participation is counted once, no Countries link is set and no current status is coded. Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Switzerland",
+   "iso3": "CHE",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1900-12-29",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-12-29, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-12-29. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Not in the list of 16 Powers that signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221); the Final Act left signature open until 31 December 1899. Date Signed is left blank: the depositary records this signature under 29 July 1899, the date of the act, but the actual date of signature, between 29 July and 31 December 1899, was not established (the table of signatures to 31 December 1899, Proceedings p. 268, marks signatures without dates). Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Siam",
+   "iso3": null,
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1900-09-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 1900-09-04, no termination. ICRC: signature 29 July 1899, ratification/accession 1900-09-04. The same deposit date appears in Trb. 1966, 232, the Dutch royal order of 23 January 1905 (FRUS 1905, doc. 704) and Scott (1915), p. 226. Signed at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221). Signed as Siam; the depositary and the ICRC list it as Thailand. This row reports that listing. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Türkiye",
+   "iso3": "TUR",
+   "participation_type": "Original Signatory",
+   "date_signed": "1899-07-29",
+   "entry_into_force": "1907-06-12",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary): signature 29-07-1899, ratification (R) and entry into force 12-06-1907, no termination. ICRC: signature 29 July 1899, ratification/accession 12 June 1907. Trb. 1966, 232 and Scott (1915), p. 226, give the same date; the Dutch royal order of 23 January 1905 (FRUS 1905) marks Turkey \"signed but not ratified\" at the end of 1904. Signed for the Ottoman Empire at the closing meeting on 29 July 1899 (Proceedings, 1899, p. 221); the depositary and the ICRC list it under Türkiye, and this row reports that listing without coding succession. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "United Kingdom",
+   "iso3": "GBR",
+   "participation_type": "Non-Signatory Party",
+   "date_signed": null,
+   "entry_into_force": "1907-08-30",
+   "date_of_accession": "1907-08-30",
+   "current_status": "State Party",
+   "method_of_consent": "Accession",
+   "notes": "Netherlands treaty database: accession (A) and entry into force 1907-08-30, no termination. ICRC: accession 1907-08-30. Trb. 1966, 232, section F, lists the accession under operative para. 7 (\"alinea 7\"); section G states that the Declaration entered into force for acceding states on the dates listed. Listed as Great Britain in Scott (1915), p. 226 (\"Adhesions\"). Great Britain voted against the prohibition in the First Commission on 20 July and in plenary on 21 July 1899 and did not sign (Proceedings, 1899, pp. 79 and 329); the 1905 royal order marks it \"neither signed nor ratified\". Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Nicaragua",
+   "iso3": "NIC",
+   "participation_type": "Non-Signatory Party",
+   "date_signed": null,
+   "entry_into_force": "1907-10-11",
+   "date_of_accession": "1907-10-11",
+   "current_status": "State Party",
+   "method_of_consent": "Accession",
+   "notes": "Netherlands treaty database: accession (A) and entry into force 1907-10-11, no termination. ICRC: accession 1907-10-11. Trb. 1966, 232, section F, lists the accession under operative para. 7 (\"alinea 7\"); section G states that the Declaration entered into force for acceding states on the dates listed. Listed in Scott (1915), p. 226 (\"Adhesions\"). Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Ethiopia",
+   "iso3": "ETH",
+   "participation_type": "Non-Signatory Party",
+   "date_signed": null,
+   "entry_into_force": "1935-08-09",
+   "date_of_accession": "1935-08-09",
+   "current_status": "State Party",
+   "method_of_consent": "Accession",
+   "notes": "Netherlands treaty database: accession (A) and entry into force 1935-08-09, no termination. ICRC: accession 1935-08-09. Trb. 1966, 232, section F, lists the accession under operative para. 7 (\"alinea 7\"); section G states that the Declaration entered into force for acceding states on the dates listed. Ethiopia adhered shortly before the Italian invasion of 3 October 1935 (Grip and Hart, SIPRI 2009). Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Austria",
+   "iso3": "AUT",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "1918-11-12",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database: consent type succession (Su) dated 1918-11-12, entry into force 1918-11-12, no termination. The ICRC instead lists Austria with signature 29 July 1899 and ratification/accession 4 September 1900. The basis of the depositary's 1918 succession entry was not established. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date of Succession records the depositary's date for the succession act (1918-11-12); Entry into Force records the date from which it takes effect (1918-11-12).",
+   "data_entry_status": "Needs Verification",
+   "date_of_succession": "1918-11-12"
+  },
+  {
+   "state": "Hungary",
+   "iso3": "HUN",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "1918-11-16",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database: consent type succession (Su) dated 1918-11-16, entry into force 1918-11-16, no termination. The ICRC instead lists Hungary with signature 29 July 1899 and ratification/accession 4 September 1900. The basis of the depositary's 1918 succession entry was not established. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date of Succession records the depositary's date for the succession act (1918-11-16); Entry into Force records the date from which it takes effect (1918-11-16).",
+   "data_entry_status": "Needs Verification",
+   "date_of_succession": "1918-11-16"
+  },
+  {
+   "state": "Norway",
+   "iso3": "NOR",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "1905-06-17",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database: consent type succession (Su) dated 1905-06-17, entry into force 1905-06-17, no termination. The ICRC lists Norway with signature 29 July 1899 and ratification/accession 4 September 1900. The basis and date of the depositary's 1905 succession entry were not established; see the Sweden and Norway row. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date of Succession records the depositary's date for the succession act (1905-06-17); Entry into Force records the date from which it takes effect (1905-06-17).",
+   "data_entry_status": "Needs Verification",
+   "date_of_succession": "1905-06-17"
+  },
+  {
+   "state": "Sweden",
+   "iso3": "SWE",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "1905-06-17",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database: consent type succession (Su) dated 1905-06-17, entry into force 1905-06-17, no termination. The ICRC lists Sweden with signature 29 July 1899 and ratification/accession 4 September 1900. The basis and date of the depositary's 1905 succession entry were not established; see the Sweden and Norway row. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date of Succession records the depositary's date for the succession act (1905-06-17); Entry into Force records the date from which it takes effect (1905-06-17).",
+   "data_entry_status": "Needs Verification",
+   "date_of_succession": "1905-06-17"
+  },
+  {
+   "state": "Belarus",
+   "iso3": "BLR",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "1962-06-04",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database: consent type succession (Su) dated 1962-06-04, entry into force 1962-06-04, no termination. Declaration of 4 June 1962: the Byelorussian SSR recognises the Hague Conventions and Declarations of 1899 and 1907 as ratified by Russia and considers itself a party to the extent that they do not conflict with later agreements to which it is party (depositary database; Trb. 1981, 94). ICRC: accession 4 June 1962. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date of Succession records the depositary's date for the succession act (1962-06-04); Entry into Force records the date from which it takes effect (1962-06-04).",
+   "data_entry_status": "Needs Verification",
+   "date_of_succession": "1962-06-04"
+  },
+  {
+   "state": "India",
+   "iso3": "IND",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "1947-08-15",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database: consent type succession (Su) dated 1950-07-29, entry into force 1947-08-15, no termination. Not listed by the ICRC. The basis of the entry (presumably the British adhesion of 1907) was not established in the sources reviewed. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date of Succession records the depositary's date for the succession act (1950-07-29); Entry into Force records the date from which it takes effect (1947-08-15).",
+   "data_entry_status": "Needs Verification",
+   "date_of_succession": "1950-07-29"
+  },
+  {
+   "state": "Pakistan",
+   "iso3": "PAK",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "1947-08-15",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database: consent type succession (Su) dated 1950-08-05, entry into force 1947-08-15, no termination. Not listed by the ICRC. The basis of the entry (presumably the British adhesion of 1907) was not established in the sources reviewed. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date of Succession records the depositary's date for the succession act (1950-08-05); Entry into Force records the date from which it takes effect (1947-08-15).",
+   "data_entry_status": "Needs Verification",
+   "date_of_succession": "1950-08-05"
+  },
+  {
+   "state": "Fiji",
+   "iso3": "FJI",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "1970-10-10",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database: consent type succession (Su) dated 1973-04-02, entry into force 1970-10-10, no termination. Trb. 1981, 94 lists Fiji (2 April 1973) among states that declared themselves parties. ICRC: accession 2 April 1973. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date of Succession records the depositary's date for the succession act (1973-04-02); Entry into Force records the date from which it takes effect (1970-10-10).",
+   "data_entry_status": "Needs Verification",
+   "date_of_succession": "1973-04-02"
+  },
+  {
+   "state": "South Africa",
+   "iso3": "ZAF",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "1910-05-31",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database: consent type succession (Su) dated 1978-03-10, entry into force 1910-05-31, no termination. Trb. 1981, 94 lists South Africa (10 March 1978) among states that declared themselves parties. ICRC: accession 10 March 1978. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date of Succession records the depositary's date for the succession act (1978-03-10); Entry into Force records the date from which it takes effect (1910-05-31).",
+   "data_entry_status": "Needs Verification",
+   "date_of_succession": "1978-03-10"
+  },
+  {
+   "state": "Montenegro",
+   "iso3": "MNE",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "2006-06-03",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database: consent type succession (Su) dated 2007-03-01, entry into force 2006-06-03, no termination. The Republic of Montenegro declared that it succeeds to the Declaration and will perform it as from 3 June 2006, the date it assumed responsibility for its international relations. ICRC: succession 1 March 2007. No continuity with the Principality of Montenegro, which ratified in 1900, is coded. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date of Succession records the depositary's date for the succession act (2007-03-01); Entry into Force records the date from which it takes effect (2006-06-03).",
+   "data_entry_status": "Needs Verification",
+   "date_of_succession": "2007-03-01"
+  },
+  {
+   "state": "Ukraine",
+   "iso3": "UKR",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "1991-08-24",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database: consent type succession (Su) dated 2015-05-29, entry into force 1991-08-24, no termination. Ukraine confirmed validity by succession from 24 August 1991, in the format and scope of the Soviet note of 7 March 1955, without prejudice to a Ukrainian SSR note of 4 April 1962 (depositary notification of 10 June 2015). ICRC: succession 29 May 2015. Current status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date of Succession records the depositary's date for the succession act (2015-05-29); Entry into Force records the date from which it takes effect (1991-08-24).",
+   "data_entry_status": "Needs Verification",
+   "date_of_succession": "2015-05-29"
+  },
+  {
+   "state": "Serbia",
+   "iso3": "SRB",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "1992-04-27",
+   "date_of_accession": null,
+   "date_of_succession": "2001-09-07",
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database (depositary), label \"Serbia\": consent type succession (Su), notification dated 2001-09-07, effective 1992-04-27, no termination (checked 12 October 2026). The 2001 notification was made by the state then recorded by the depositary under this entry (the Federal Republic of Yugoslavia, later the state union of Serbia and Montenegro); the depositary records under the same entry a declaration of 9 June 2006 that, following Montenegro's independence and under Article 60 of the Constitutional Charter of the state union, the Republic of Serbia continues the international personality of the state union of Serbia and Montenegro. This row records that listing; it does not code continuity with the Kingdom of Serbia, whose 1899 signature and 1901 ratification are on the row \"Kingdom of Serbia\". Current Status follows the depositary database. Date of Succession records the depositary's date for the succession act (2001-09-07); Entry into Force records the date from which it takes effect (1992-04-27).",
+   "data_entry_status": "Needs Verification"
+  }
+ ],
+ "overview_md": "The Hague Declaration (IV,2) of 29 July 1899 commits its parties to abstain from the use of projectiles the sole object of which is the diffusion of asphyxiating or deleterious gases ([ICRC](https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-iv-2-1899)). It was one of three declarations adopted at the First Hague Peace Conference, alongside those on balloons and expanding bullets. Twenty-four Powers signed it (counting Sweden and Norway once) and all of them had ratified by 1907; Great Britain and Nicaragua adhered in 1907 and Ethiopia in 1935 ([Trb. 1966, 232](https://zoek.officielebekendmakingen.nl/trb-1966-232.pdf)). The United States neither signed nor ratified. The Declaration binds only in wars between parties and ceases to bind once a non-party joins a belligerent. It entered into force on 4 September 1900 and has no fixed term; the depositary and the ICRC treat it as in force, and the depositary database lists 35 present-day parties, several of them by succession ([Netherlands treaty database](https://treatydatabase.overheid.nl/en/Treaty/Details/002422_p.html)). Its narrow wording was tested in the First World War, when Germany released chlorine from cylinders rather than projectiles, and the 1925 Geneva Protocol later stated a prohibition on the use in war of asphyxiating, poisonous or other gases.",
+ "provisions_md": "The Declaration has no numbered articles. Citations refer to the preamble, nine operative paragraphs and the closing formula of the [authentic French text](https://ihl-databases.icrc.org/fr/ihl-treaties/hague-decl-iv-2-1899/declaration), checked against [Scott, Les Conventions et Déclarations de La Haye (1918)](https://archive.org/details/lesconventionset00laha), pp. 225-226; the [English translation](https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-iv-2-1899/declaration) follows the same order.\n\n### Preamble\n- The plenipotentiaries declare themselves inspired by the sentiments expressed in the St Petersburg Declaration of 29 November (11 December) 1868. Louis Renault told the Conference that this wording did not imply adhesion to the 1868 Declaration ([Proceedings, 1899](https://archive.org/details/proceedingsofhag1899inteuoft), p. 211).\n\n### The prohibition\n- The Contracting Powers agree to abstain from the use of projectiles the sole object of which is the diffusion of asphyxiating or deleterious gases (operative para. 1).\n- The word \"sole\" limits the rule. In the naval subcommission the President defined the proposal as covering projectiles whose purpose is to spread such gases, not those whose explosion incidentally produces them (Proceedings, p. 366). Captains Mahan and Scheine said the word was inserted purposely; the Portuguese delegate, Count de Macedo, considered that it took all force from the prohibition (pp. 326 and 328).\n- The rule concerns use in war by projectiles. The text does not address gas released by other means, nor the development, production or possession of gas munitions.\n\n### Bound parties and the general participation clause\n- The Declaration binds Contracting Powers identically, but only in a war between two or more of them (operative para. 2).\n- It ceases to be binding once a non-contracting Power joins one of the belligerents (operative para. 3).\n\n### Duration\n- No term is stated; the obligation is not time-limited, unlike the five-year balloon Declaration (IV,1) signed the same day.\n\n### Final clauses\n- Ratification as soon as possible, deposit at The Hague, and a proces-verbal of each deposit sent to all Contracting Powers (operative paras. 4 to 6).\n- Non-signatory Powers may adhere by written notification to the Netherlands Government (operative para. 7).\n- Denunciation takes effect one year after written notification to the Netherlands Government and affects only the notifying Power (operative paras. 8 and 9).\n- The text contains no provisions on information exchange, verification, consultation, dispute settlement or enforcement.",
+ "participation_md": "- **Signature.** The Declaration is dated 29 July 1899. Sixteen Powers signed at the closing meeting that day; under the Final Act signature remained open until 31 December 1899, and eight more Powers appear as signatories ([Proceedings, 1899](https://archive.org/details/proceedingsofhag1899inteuoft), pp. 103, 221 and 268). Their actual signature dates were not established; the depositary records all signatures under 29 July 1899.\n- **Ratification and entry into force.** Ratifications were deposited at The Hague. The Declaration entered into force on 4 September 1900 for the Powers that had ratified by then and later for each subsequent ratifying or acceding state on its date of deposit or accession ([Trb. 1966, 232](https://zoek.officielebekendmakingen.nl/trb-1966-232.pdf)). Turkey was the last signatory to ratify, on 12 June 1907.\n- **Adhesion.** Open to non-signatory Powers (operative para. 7). Great Britain (30 August 1907), Nicaragua (11 October 1907) and Ethiopia (9 August 1935) adhered.\n- **Succession.** The [depositary database](https://treatydatabase.overheid.nl/en/Treaty/Details/002422_p.html) lists entries by succession for Austria and Hungary (1918), Norway and Sweden (1905), India and Pakistan (1950), Fiji (1973), South Africa (1978), Serbia (2001), Montenegro (2007) and Ukraine (2015), and records declarations by the USSR (1955) and Belarus (1962) recognising the Hague acts ratified by Russia, subject to conditions ([Trb. 1981, 94](https://zoek.officielebekendmakingen.nl/trb-1981-94.pdf)).\n- **Participants.** 24 signatories, all of which ratified (counting Sweden and Norway once). The depositary database lists 35 present-day parties, checked 12 October 2026; the [ICRC](https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-iv-2-1899/state-parties) lists 33, without India and Pakistan. Neither the current depositary database nor the ICRC lists Montenegro's 1900 ratification, which appears in Trb. 1966, 232 and the 1905 Dutch list ([FRUS 1905, doc. 704](https://history.state.gov/historicaldocuments/frus1905/d704)). The United States is not a party.\n- **Duration.** No term; in force according to the depositary and the ICRC.\n- **Withdrawal.** Denunciation on one year's written notice to the Netherlands Government (operative paras. 8 and 9); none recorded.\n- **Amendment and review.** No amendment procedure and no review conferences.\n- **Depositary.** The Government of the Netherlands.",
+ "history_md": "### Origins\nRussia's circular of 30 December 1898 (11 January 1899, new style) proposed banning new explosives more powerful than those in use ([Scott 1915](https://archive.org/details/hagueconventions00inteuoft), pp. xvi-xvii). In the First Commission's naval subcommission on 31 May 1899 the Russian naval delegate, Captain Scheine, proposed prohibiting projectiles that spread asphyxiating and deleterious gases, which he called barbarous and equivalent to poisoning a river ([Proceedings, 1899](https://archive.org/details/proceedingsofhag1899inteuoft), pp. 365-366).\n\n### Negotiation\nAt the same meeting Captain A. T. Mahan of the United States voted no and had his reasons entered in the minutes: the charge of barbarity had been made against every new weapon, it had not been shown that gas projectiles would not produce a decisive result, and his country should not deprive itself by hasty resolutions of means that might later be useful (pp. 366-367). On 16 June he had the record amended to read \"cruel without being decisive\" (p. 375). Most naval delegates agreed on condition of unanimity; Siam reserved its vote (p. 296). In the First Commission on 22 June Mahan said such projectiles did not really exist and that asphyxiation by gas was no more cruel than drowning a ship's crew by torpedo; Jonkheer van Karnebeek and Captain Scheine disputed the comparison, and the Danish delegate, Mr Bille, said there was no occasion to discuss a projectile which does not exist when Russia and Germany had stated that present means of warfare were more than sufficient. The prohibition was adopted against the United States vote alone, with Germany, Austria-Hungary, Great Britain, Italy, Japan and Portugal accepting it only on condition that it be adopted unanimously (pp. 283-284). On 20 July Mahan declined to change his vote, saying it was not logical to permit submarine boats while prohibiting gas shells, and the Commission voted 17 to 2, Great Britain joining the United States (pp. 328-329). The plenary Conference adopted the engagement on 21 July with the same two votes against (p. 79), and 16 Powers signed on 29 July (p. 221).\n\n### Participation\nAll 24 signatories ratified by 1907; Great Britain adhered on 30 August 1907 ([Scott 1915](https://archive.org/details/hagueconventions00inteuoft), p. 226). The United States remained outside ([FRUS 1905](https://history.state.gov/historicaldocuments/frus1905/d704)).\n\n### First World War\nTucker reports that the German High Command read the Declaration as covering only shells designed specifically to release gas, and that Fritz Haber noted that releasing chlorine from cylinders would not technically violate it; Germany did so at Ypres on 22 April 1915 ([Tucker 2006](https://www.npr.org/2006/05/08/5391044/excerpt-war-of-nerves)). In a despatch dated 15 June 1915 Field Marshal Sir John French alleged \"a flagrant defiance of the Hague Convention\", without naming this Declaration ([despatch](https://www.longlongtrail.co.uk/battles/british-field-commanders-despatches/sir-john-frenchs-eighth-despatch-second-ypres-aubers-and-festubert/)). The United States, a non-party, entered the war in April 1917 ([Office of the Historian](https://history.state.gov/milestones/1914-1920/wwi)); no source reviewed applies operative para. 3 to that event, and no formal finding under the Declaration was identified.\n\n### Later record\nThe [1925 Geneva Protocol](https://ihl-databases.icrc.org/en/ihl-treaties/geneva-gas-prot-1925) recalls that the prohibition had been declared in earlier treaties and binds parties not already bound by them. Ethiopia adhered in August 1935; the legal debate over Italy's use of mustard gas in 1935-36 was conducted under the Geneva Protocol ([Grip and Hart, SIPRI 2009](https://www.sipri.org/sites/default/files/Italo-Ethiopian-war.pdf)). The USSR's 1955 recognition of the Hague acts was qualified by reference to the Geneva Protocol ([Netherlands treaty database](https://treatydatabase.overheid.nl/en/Treaty/Details/002422_p.html)).",
+ "sources_md": "- [Netherlands Ministry of Foreign Affairs, Treaty Database, no. 002422 (depositary record)](https://treatydatabase.overheid.nl/en/Treaty/Details/002422)\n- [Netherlands Treaty Database, parties, reservations and declarations for no. 002422](https://treatydatabase.overheid.nl/en/Treaty/Details/002422_p.html)\n- [Tractatenblad van het Koninkrijk der Nederlanden 1966, no. 232](https://zoek.officielebekendmakingen.nl/trb-1966-232.pdf)\n- [Tractatenblad van het Koninkrijk der Nederlanden 1981, no. 94](https://zoek.officielebekendmakingen.nl/trb-1981-94.pdf)\n- [ICRC IHL Databases, Hague Declaration (IV,2), 1899 (treaty page and introduction)](https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-iv-2-1899)\n- [ICRC IHL Databases, English text](https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-iv-2-1899/declaration)\n- [ICRC IHL Databases, French text (authentic language)](https://ihl-databases.icrc.org/fr/ihl-treaties/hague-decl-iv-2-1899/declaration)\n- [ICRC IHL Databases, states parties](https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-iv-2-1899/state-parties)\n- [James Brown Scott (ed.), The Proceedings of the Hague Peace Conferences: The Conference of 1899 (Oxford University Press, 1920), Internet Archive](https://archive.org/details/proceedingsofhag1899inteuoft)\n- [James Brown Scott (ed.), The Hague Conventions and Declarations of 1899 and 1907 (Oxford University Press, 1915), Internet Archive](https://archive.org/details/hagueconventions00inteuoft)\n- [James Brown Scott (ed.), Les Conventions et Déclarations de La Haye de 1899 et 1907 (1918), Internet Archive](https://archive.org/details/lesconventionset00laha)\n- [Papers Relating to the Foreign Relations of the United States, 1905, Document 704 (Dutch royal order of 23 January 1905)](https://history.state.gov/historicaldocuments/frus1905/d704)\n- [Charles I. Bevans, Treaties and Other International Agreements of the United States of America, 1776-1949, vol. 1 (1968), contents](https://tile.loc.gov/storage-services/service/ll/lltreaties/lltreaties-ustbv001/lltreaties-ustbv001.pdf)\n- [Jonathan B. Tucker, War of Nerves: Chemical Warfare from World War I to Al-Qaeda (Pantheon, 2006), excerpt published by NPR](https://www.npr.org/2006/05/08/5391044/excerpt-war-of-nerves)\n- [Field Marshal Sir John French, eighth despatch, 15 June 1915 (London Gazette, 10 July 1915), transcribed by The Long, Long Trail](https://www.longlongtrail.co.uk/battles/british-field-commanders-despatches/sir-john-frenchs-eighth-despatch-second-ypres-aubers-and-festubert/)\n- [Office of the Historian, U.S. Department of State, \"U.S. Entry into World War I, 1917\"](https://history.state.gov/milestones/1914-1920/wwi)\n- [ICRC IHL Databases, Geneva Protocol, 1925](https://ihl-databases.icrc.org/en/ihl-treaties/geneva-gas-prot-1925)\n- [Lina Grip and John Hart, \"The use of chemical weapons in the 1935-36 Italo-Ethiopian War\", SIPRI (October 2009)](https://www.sipri.org/sites/default/files/Italo-Ethiopian-war.pdf)\n- Attached texts: the reading text is the ICRC English translation, checked against Scott (ed.), Proceedings (1899), p. 266. The second attachment, an Avalon Project reproduction, omits the word \"sole\" from operative para. 1, which widens the apparent scope of the prohibition; do not rely on its wording.",
+ "coding_notes": [
+  {
+   "field": "instrument_form",
+   "note": "Coded Declaration, the parties' own title. The text is an engagement subject to ratification and denunciation, deposited with the Netherlands Government."
+  },
+  {
+   "field": "legal_character",
+   "note": "Legally binding, from the text (an engagement \"binding\" on the Contracting Powers, operative para. 2, subject to ratification and denunciation, operative paras. 4 to 9) and its publication in the Netherlands Treaty Series."
+  },
+  {
+   "field": "instrument_status",
+   "note": "In force: the depositary database records entry into force on 4 September 1900 and no termination (status \"Inwerkinggetreden\"), and the ICRC records the Declaration as in force. The text has no term. Later instruments, notably the 1925 Geneva Protocol, are described in prose and coded on their own records."
+  },
+  {
+   "field": "date_adopted",
+   "note": "29 July 1899, the date of the Final Act and of the Declaration, also given by the ICRC as the date of adoption. The plenary Conference adopted the engagement on 21 July and the final text on 27 July 1899; those votes are recorded as events. The Final Act, which lists this Declaration as a separate act, is treated as the conference's adoption act."
+  },
+  {
+   "field": "opened_for_signature",
+   "note": "29 July 1899. Under the Final Act the separate acts could be signed until 31 December 1899 (Proceedings, 1899, p. 103), so an Opening for signature event is recorded."
+  },
+  {
+   "field": "entry_into_force",
+   "note": "4 September 1900 from the Netherlands treaty database, the ICRC and Trb. 1966, 232; the text has no entry-into-force clause. Later ratifying, acceding and succeeding states became bound on the dates the depositary records."
+  },
+  {
+   "field": "number_of_parties",
+   "note": "35, checked 12 October 2026 against the depositary database (XML last modified 23 June 2022): every entry without a termination date, excluding the three historical entries Austria/Hungary, Kingdom of Sweden and Norway, and \"Yugoslavia (< 25-06-1991)\" (the Kingdom of Serbia's 1899 signature and 1901 ratification). The 35 current entries, reconciled one to one with the Participation rows marked State Party: Austria, Belarus, Belgium, Bulgaria, China, Denmark, Ethiopia, Fiji, France, Germany, Greece, Hungary, India, Italy, Japan, Luxembourg, Mexico, Montenegro, Netherlands, Nicaragua, Norway, Pakistan, Persia, Portugal, Romania, Russian Federation, Serbia, Siam, South Africa, Spain, Sweden, Switzerland, Türkiye, Ukraine, United Kingdom (Persia and Siam appear in the depositary as Iran and Thailand). They comprise 20 original signatories, 3 accessions (United Kingdom, Nicaragua, Ethiopia) and 12 successions. Montenegro (1878-1918) is not counted. The ICRC lists 33, without India and Pakistan. The count reports the depositary's current listing; for states listed under a modern name (Germany, Iran, the Russian Federation, Thailand, Türkiye, China) it does not code continuity with the Power that signed."
+  },
+  {
+   "field": "number_of_signatories",
+   "note": "24, counting Sweden and Norway once: the 16 Powers that signed at the closing meeting and 8 that signed later in 1899 (Proceedings, 1899, pp. 221 and 268). The current depositary database shows 23 signature entries because it omits Montenegro's 1899 participation; the ICRC shows 25 signature entries because it lists Austria and Hungary, and Norway and Sweden, separately and omits Montenegro."
+  },
+  {
+   "field": "weapon_families",
+   "note": "Chemical weapons: the rule concerns projectiles whose sole object is the diffusion of asphyxiating or deleterious gases."
+  },
+  {
+   "field": "operating_environment",
+   "note": "Not specific: the text sets no environmental limit. The question was raised in the naval subcommission and discussed for both naval and land warfare (Proceedings, 1899, p. 283)."
+  },
+  {
+   "field": "institutional_oversight",
+   "note": "Depositary only: the Netherlands Government receives ratifications, adhesions and denunciations and keeps the original (operative paras. 5, 7 and 8; closing formula). Coded from the instrument's own text."
+  },
+  {
+   "field": "information_provisions",
+   "note": "None. The only communications are depositary formalities (proces-verbal of each ratification, adhesion and denunciation notices). Coded from the instrument's own text."
+  },
+  {
+   "field": "reporting_requirements",
+   "note": "Not specified in text: no declarations, data or reports are required. Coded from the instrument's own text."
+  },
+  {
+   "field": "enforcement",
+   "note": "Not specified in text. The general participation clause (operative paras. 2 and 3) limits when the rule applies but provides no consequence for non-compliance. Coded from the instrument's own text."
+  },
+  {
+   "field": "dispute_resolution",
+   "note": "Not specified in text. Coded from the instrument's own text."
+  },
+  {
+   "field": "national_authority",
+   "note": "Not specified in text. Coded from the instrument's own text."
+  },
+  {
+   "field": "technical_cooperation",
+   "note": "Not specified in text. Coded from the instrument's own text."
+  },
+  {
+   "field": "third_party_roles",
+   "note": "Not specified in text. The text assigns no function to a non-party. Operative para. 7 allows non-signatory Powers to adhere; that is eligibility to become a party, recorded under participation structure, not a third-party role. Coded from the instrument's own text."
+  },
+  {
+   "field": "reservations",
+   "note": "Not Specified: the text does not address reservations, and Scott (1915) records none. The depositary database lists, as declarations, the conditional recognitions by the USSR (1955), Belarus (1962) and Ukraine (2015) and statements by the Netherlands, Montenegro and Serbia on territorial or succession matters."
+  },
+  {
+   "field": "duration_type",
+   "note": "Indefinite: no term is stated (operative para. 1). Coded from the instrument's own text."
+  },
+  {
+   "field": "withdrawal_type",
+   "note": "Notice: denunciation takes effect one year after written notification to the Netherlands Government (operative para. 8). Coded from the instrument's own text."
+  },
+  {
+   "field": "amendment_procedure",
+   "note": "None stated. Coded from the instrument's own text."
+  },
+  {
+   "field": "source_quality",
+   "note": "Reproduction: the wording used is the ICRC's reproduction of the authentic French text, checked against Scott (1918). The depositary record (Netherlands treaty database, Trb. 1966, 232 and Trb. 1981, 94) was consulted for status and participation, but it refers to Staatsblad 1900, no. 163 for the text, which was not retrieved. The attached reading text is the ICRC English translation, checked against the English text in the Proceedings (1899), p. 266. A second attachment, the Avalon Project reproduction, omits the word \"sole\" from operative para. 1 and is kept only with that limitation stated in its file name."
+  },
+  {
+   "field": "related",
+   "note": "Produced by the First Hague Peace Conference (AC-78). Negotiated alongside the other five acts of 29 July 1899 (AC-85, AC-82, AC-83, AC-84, AC-81), which the Final Act lists together. No relation to the 1925 Geneva Protocol (AC-70) is coded here: any relationship is coded on the later instrument. No relation to the St Petersburg Declaration (AC-80) is coded: the preamble cites its sentiments only, and Renault stated that it implied no adhesion."
+  },
+  {
+   "field": "participation",
+   "note": "One row per signatory, accession and succession entry. Sweden and Norway and Austria-Hungary are historical rows without current status; the depositary's succession entries for Norway, Sweden, Austria and Hungary have their own rows. Montenegro (1878-1918) is coded from Trb. 1966, 232 and the 1905 Dutch list although the current depositary database and the ICRC omit it. The Kingdom of Serbia's 1899 signature and 1901 ratification are on a row linked to Serbia (historical), with the depositary's source label \"Yugoslavia (< 25-06-1991)\" preserved in its notes; the depositary's later succession entry \"Serbia\" (notified 7 September 2001, effective 27 April 1992) is a separate row. Germany, the Russian Federation, Türkiye and China keep the depositary's modern labels as a source-reporting convention, with the historical actor named in each row's notes and no continuity coded; Persia and Siam keep the names under which they signed. Current Status \"State Party\" is set only where the depositary database lists the entry without termination. Succession rows record the depositary's date of the succession act as Date of Succession and the date from which it takes effect as Entry into Force."
+  },
+  {
+   "field": "provisions",
+   "note": "One row: a single prohibition binding all parties identically. The final clauses are procedural and appear in prose."
+  }
+ ],
+ "unverified": [
+  {
+   "field": "participation (Montenegro 1878-1918)",
+   "reason": "Ratification of 16 October 1900 rests on Trb. 1966, 232, the 1905 royal order and Scott; the current depositary database and the ICRC omit it. Not resolved with the depositary."
+  },
+  {
+   "field": "participation (date_signed for eight later signatories)",
+   "reason": "Austria-Hungary, China, Germany, Italy, Japan, Luxembourg, Serbia and Switzerland signed after the closing meeting and before 31 December 1899; actual dates not found."
+  },
+  {
+   "field": "participation (succession entries)",
+   "reason": "The basis of the depositary's succession entries for Norway and Sweden (1905), Austria and Hungary (1918) and India and Pakistan (1950) was not established; India and Pakistan are absent from the ICRC."
+  },
+  {
+   "field": "participation (Denmark, Spain ratification date)",
+   "reason": "ICRC gives 4 November 1900; depositary, Trb. 1966, 232, FRUS 1905 and Scott give 4 September 1900, which is used."
+  },
+  {
+   "field": "number_of_parties",
+   "reason": "35 follows the depositary database listing; the ICRC lists 33. The continuity of parties listed under present-day names is not coded."
+  },
+  {
+   "field": "events (First World War)",
+   "reason": "German legal reasoning is reported through Tucker (2006) only; no German primary statement was retrieved. No source was found applying operative para. 3 to the United States' entry into the war in 1917."
+  },
+  {
+   "field": "events (Italo-Ethiopian War)",
+   "reason": "No allegation framed under the 1899 Declaration was found; only Geneva Protocol framing (SIPRI 2009) was reviewed."
+  }
+ ]
+}
