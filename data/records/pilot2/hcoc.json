@@ -542,12 +542,5 @@
    "field": "inspection_access",
    "reason": "No inspection or access is required. Coded 'Voluntary observation' because Sec. 4(a)(ii) invites subscribing states to consider, on a voluntary basis, inviting international observers to their land (test-) launch sites; this is not compulsory verification."
   }
- ],
- "corrections": [
-  "Number of Parties was 143; the official count is 145 subscribing states (official list total; 25th Regular Meeting press release of 29 May 2026). These are subscribing states, not treaty parties.",
-  "'Opened for Signature' is set to 2002-11-25, but the Code is not open for signature; states subscribe by note verbale to the Immediate Central Contact. This should be null or relabelled as subscription.",
-  "Status 'In Force' needs a qualifier: the Code is politically binding and has no legal entry into force. It is operative since adoption on 25 November 2002.",
-  "Depository, Treaty URL, Key Provisions, Weapons/Systems Limited, Withdrawal/Amendment/Duration clauses and Historical Background were empty. The Code has no depositary; Austria is the Immediate Central Contact (Executive Secretariat).",
-  "Page body abbreviation 'HCOC' should be 'HCoC', the form used by the official website."
  ]
 }

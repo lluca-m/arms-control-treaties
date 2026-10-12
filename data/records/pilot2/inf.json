@@ -1139,18 +1139,5 @@
    "field": "UNTS page locators",
    "reason": "UNTS page numbers inferred from printed folios on the protocol pages (PDF page minus six); treaty article pages beyond p. 4 not individually checked."
   }
- ],
- "corrections": [
-  "Treaty Name (Full) gave the common name 'Intermediate-Range Nuclear Forces Treaty (INF)'; the official title is 'Treaty between the United States of America and the Union of Soviet Socialist Republics on the Elimination of Their Intermediate-Range and Shorter-Range Missiles'.",
-  "'Date Ratified' and 'Signatories & Dates' give 27 May 1988 for both Parties. That is the date of US Senate advice and consent (93-5), not ratification by either Party; instruments of ratification were exchanged at Moscow on 1 June 1988.",
-  "Depository listed as 'US, USSR'. The bilateral Treaty designates no depositary; it was registered with the UN Secretariat by both Parties on 13 December 1991 (Art. XVII(2), UNTS No. 28521).",
-  "The body field 'Extension provisions' quotes the Art. XV withdrawal clause; the Treaty has no extension provision because its duration is unlimited.",
-  "Word count '8500' has no stated basis; the English treaty text (17 articles, excluding MOU and protocols) is about 6,283 words.",
-  "'Type of Limitation: Possession, stockpiling' is incomplete; the Treaty also bans production and flight-testing (Art. VI) and requires elimination (Art. IV-V, X), with locational limits (Art. VIII).",
-  "Weapon types listed 'Nuclear'. The Treaty limits ground-launched missiles regardless of warhead and does not limit nuclear warheads themselves (warhead devices may be removed before elimination, Protocol on Elimination Sec. II(3)).",
-  "'Compliance History: Bad' is an unattributed verdict; replaced with attributed events (US allegations from 2014, Russian denials and counter-allegations).",
-  "Verification recorded as 'On site inspections' only; the Treaty also provides national technical means, non-interference, continuous portal monitoring and cooperative measures (Art. XI-XII).",
-  "Treaty URL was blank; the official text is UNTS vol. 1657, No. 28521.",
-  "Status 'Terminated' confirmed: US withdrawal effective 2 August 2019; Expiration/end date was blank."
  ]
 }

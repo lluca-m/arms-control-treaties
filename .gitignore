@@ -1,2 +1,6 @@
 readings/
 __pycache__/
+
+# Working material kept local (internal notes and editorial history)
+/pilot_review_2026-10-11/
+/records/

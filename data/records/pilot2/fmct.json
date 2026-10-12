@@ -247,18 +247,5 @@
    "field": "source_quality",
    "reason": "No concluded treaty text exists, so treaty-text quality is not applicable. The mandate (CD/1299) and process documents are official UN documents."
   }
- ],
- "corrections": [
-  "Body cites 'UN resolution 78/57 L'; the correct symbol is resolution 48/75 L, adopted by consensus on 16 December 1993 (the hyperlink already points to 48/75).",
-  "Status 'Under Negotiation' and 'Compliance History: Stil under negotiation' (typo) are inaccurate: formal negotiations have never begun. The 1998 ad hoc committee met only briefly and the CD/1864 working group never convened. negotiation_status should be 'Stalled'.",
-  "Body says the Shannon mandate directed the ad hoc committee 'to negotiate an FMCT by the end of the 1995 session'. CD/1299 para. 3 says only that the committee would report on the progress of its work before the end of the 1995 session.",
-  "Body says the FMCT 'has been negotiated for two decades' while the Historical Background property says 'three decades'. Both overstate: negotiations have not started; the issue has been on the CD agenda since 1994-95.",
-  "'Duration: Unlimited' has no basis; there is no treaty text.",
-  "'Quantitative Limits: Zero (Ban on future production)' presumes the outcome of the unresolved existing-stocks dispute; the mandate leaves past production open.",
-  "'Type of Limitation' includes 'Development', which the mandate does not mention; the mandated object is a production ban.",
-  "Behavior change is recorded inconsistently: property says 'Change current behavior', body says 'Change future behavior'.",
-  "'Signatories & Dates: 65 member states' conflates CD membership with signature; there are no signatories.",
-  "The full name 'Fissile Material Production Cutoff Treaty' is non-standard; the UN wording is 'treaty banning the production of fissile material for nuclear weapons or other nuclear explosive devices', commonly 'Fissile Material Cut-off Treaty'.",
-  "Several body passages are unattributed quotations (apparently from Arms Control Association material) and should be cited or paraphrased."
  ]
 }

@@ -55,7 +55,10 @@ def keyfacts(pid):
             acc=[val(x['properties']['Date of Accession'])[:4] for x in part if val(x['properties']['Date of Accession'])]
             yrs=sorted(set(acc)); yr=(' in '+', '.join(yrs)) if yrs else ''
             chk=f"; list checked {d(p['Parties As Of'])}" if p.get('Parties As Of') else ''
-            rows.append(('Listed participants',f"{len(part)} ({sig} original signatories and {len(acc)} accessions{yr}{chk}); historical count, not a count of current parties"))
+            rat=sum(1 for x in part if val(x['properties']['Method of Consent'])=='Ratification')
+            ratt=f"{rat} ratifications; " if rat else ''
+            acct=f"{len(acc)} accessions{yr}" if acc else 'no accessions'
+            rows.append(('Listed participants',f"{len(part)} ({sig} original signatories; {ratt}{acct}{chk}); historical count, one row per participation as listed, not a count of current parties"))
     if p['Number of Parties'] is not None:
         asof=p.get('Parties As Of')
         lab='Participating states' if p['Legal Character']=='Politically binding' else 'Parties'
@@ -69,7 +72,9 @@ def keyfacts(pid):
         n=p['Withdrawal Notice (months)']
         wt={'Notice':'','Supreme interests (with notice)':'Supreme interests clause','Mutual consent only':'Mutual consent only'}.get(p['Withdrawal Type'],p['Withdrawal Type'])
         rows.append(('Withdrawal',', '.join(x for x in [wt,f"{int(n)} months' notice" if n else ''] if x) or p['Withdrawal Type']))
-    if p['Treaty URL']: rows.append(('Official text',f"[{'Code text' if pol else 'Treaty text'}]({p['Treaty URL']})"))
+    if p['Treaty URL']:
+        rep=p.get('Source Quality')=='Reproduction'
+        rows.append(('Text' if rep else 'Official text',f"[{'Code text' if pol else 'Treaty text'}{' (reproduction)' if rep else ''}]({p['Treaty URL']})"))
     out='<table fit-page-width="true" header-column="true">\n'
     for a,b in rows:
         bb=b if b.startswith('[') and '](' in b else esc(b)

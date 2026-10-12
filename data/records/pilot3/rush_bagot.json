@@ -665,20 +665,6 @@
    "note": "The vessel ceilings are given one row per body of water because each sets a different number. The 100-ton and one-gun limits apply to every permitted vessel and are given separate rows. Building and arming further vessels of war are separate rows because they restrict different activities. Every obligation binds both parties identically."
   }
  ],
- "research_notes": [
-  "The local PDF is the Avalon Project reproduction of Hunter Miller's text. Its header misdates the Bagot note as \"WASHINGTON April 16, 1817\"; Hunter Miller's own notes, the Rush note (\"note of the 28th of this month\") and Canada's official text all give 28 April 1817. treaty_url uses Canada's official text instead.",
-  "state.gov returned HTTP 403 to direct requests; the Treaties in Force 2025 PDF was read from the Wayback Machine copy: https://web.archive.org/web/20260106032927/https://www.state.gov/wp-content/uploads/2025/08/Treaties-in-Force-2025-FINAL.pdf",
-  "The 1946 exchange: Canada Treaty Information and the text of the US note give 5 December 1946; US Treaties in Force 2025 (p. 63) gives 'November 18 and December 6, 1946' and entry into force 6 December 1946. The event uses the note's own date and records the discrepancy.",
-  "The 1939 exchange appears in Treaties in Force 2025 as 'Agreement relating to the construction of naval vessels on the Great Lakes' and the 1940 exchange as 'Agreement relating to the armament of naval vessels to be incapable of immediate use'; the 1942 wartime exchange is not listed (it applied for the duration of hostilities only).",
-  "Not verified and therefore omitted: reports of a 2004 to 2006 US-Canadian understanding allowing US Coast Guard vessels on the Lakes to mount machine guns as law-enforcement weapons (found only in Wikipedia, press and forum material; no official text retrieved, and no such agreement appears in Treaties in Force 2025); British naval build-up on the Lakes during the 1837 to 1841 Canadian rebellions; the 1864 US notifications of a temporary increase of its force (Seward to Burnley, September 1864, FRUS 1864 Part II), which history.state.gov rate-limited before retrieval.",
-  "The exact date of Adams's March 1865 note to Russell was not found. Seward's letter of 16 June 1865 refers to 'a subsequent note of the 8th of March' by Adams, but 8 March is the date of Seward's instruction in Washington (FRUS 1865 I, doc. 110), and Bruce's note says Adams acted 'in compliance with instructions, dated March 8th'.",
-  "The Office of the Historian Milestones page (a retired series) says the Senate 'ratified the agreement on April 28, 1818'; Hunter Miller gives Senate approval on 16 April and the proclamation on 28 April 1818. Hunter Miller is followed.",
-  "The 1892 report (Senate Executive Document No. 9, 52nd Congress, 2nd session) and House Document No. 471, 56th Congress, 1st session were not retrieved; they would be the fullest official source for nineteenth-century compliance questions.",
-  "The Canadian ID E101662 text and details pages are dated 'modified 2019-03-01'.",
-  "Checked by the main session, 11 Oct 2026: both notes' terms and paragraph numbering against Canada E101662 and the 1818 proclamation; the 23 November 1864 notice and 9 February 1865 joint resolution against 13 Stat. 568 (govinfo); current status against US Treaties in Force 2025, Canada section. The 1864 notice was recoded from Denunciation to Withdrawal notice, since it was withdrawn before taking effect.",
-  "11 Oct 2026: the 'Interprets' relation now exists; the 1939 exchange is record AC-127 and interprets this record. The 1940, 1942 and 1946 exchanges are to follow as separate records.",
-  "11 Oct 2026: the 1946 date was corrected after the 1939 research. Canada's text prints the US note as 5 December 1946; UNTS vol. 149 prints 6 December 1946. The event is shown as '5 or 6 December 1946'."
- ],
  "unverified": [
   {
    "field": "key_non_parties",
@@ -696,14 +682,5 @@
    "field": "history_md",
    "reason": "Nineteenth-century compliance episodes other than the 1864 to 1865 notice (for example during the 1837 to 1841 rebellions) and the reported 2004 to 2006 Coast Guard understanding were not verified from official sources and are omitted."
   }
- ],
- "corrections": [
-  "The title 'Rush-Bagot Treaty' is a common general description; the form code is exchange of notes, and the title now follows the official name. ('Treaty' is not wrong as a description of a binding international agreement.)",
-  "Date Adopted and Opened for Signature hold the range 28 to 29 April 1817. The range correctly reflects the two signature dates, but the coding uses 29 April 1817, when the exchange was completed and the agreement entered into force; a bilateral exchange of notes is not opened for signature.",
-  "Date Entered into Force is empty; it should be 29 April 1817 (US Treaties in Force 2025; Canada Treaty Information).",
-  "All substantive properties (parties, provisions, withdrawal clause, URL, word count) are empty.",
-  "The page body holds two duplicate copies of the old empty section template.",
-  "The page-body date note cites the Avalon Project text, whose header misdates the British note as 16 April 1817; the correct date is 28 April 1817."
- ],
- "clear_fields": []
+ ]
 }

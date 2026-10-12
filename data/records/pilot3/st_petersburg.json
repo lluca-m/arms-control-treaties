@@ -47,7 +47,7 @@
   "dispute_resolution": "Not specified in text",
   "national_authority": "Not specified in text",
   "technical_cooperation": "Not specified in text",
-  "third_party_roles": "Yes",
+  "third_party_roles": "Not specified in text",
   "reservations": "Not Specified",
   "duration_type": "Indefinite",
   "duration_years": null,
@@ -697,7 +697,7 @@
   },
   {
    "field": "third_party_roles",
-   "note": "Yes under the codebook's reference to non-parties that may accept the instrument: operative para. 2 provides that states which did not send delegates to the Commission are to be invited to accede. Coded from the instrument's own text."
+   "note": "Not specified in text. The text assigns no function to a non-party. Operative para. 2 provides for inviting states that were not at the Commission to accede; that is eligibility to become a party, recorded under participation structure, not a third-party role. Coded from the instrument's own text."
   },
   {
    "field": "reservations",
@@ -732,22 +732,6 @@
    "note": "The renunciation is one row because its explosive, fulminating and inflammable limbs bind identically; both weapon families are tagged. The general participation clause and the reserved future understanding are not separate obligations on a weapon activity and appear in exceptions and prose."
   }
  ],
- "research_notes": [
-  "Primary text: the local PDF is the ICRC English translation (one page, extracted with pdftotext; no OCR needed). The authentic language is French (ICRC lists French as the authentic text). Paragraph citations were checked against both the ICRC French text and the 1873 French printing in Martens, NRG, vol. 18, no. 116 (Internet Archive OCR, item bub_gb_K4oBAAAAYAAJ, a Harvard copy digitized by Google).",
-  "The ICRC French page contains a misprint in considering clause 4 (\"voudraient leur mort inévitable\"); the 1873 printing reads \"rendraient\". The ICRC French page also inserts a heading \"DECLARATION DE St PETERSBOURG DU 29 NOV. - 11 DEC. 1868\" between the preamble and the operative part; excluded from the word count.",
-  "ICRC data were read from the site's JSON:API (the public pages are a JavaScript app): node f4117bde-d283-4925-a144-4e12e1674f11 (field_treaty_entry_in_force 1868-12-11, field_treaty_in_force yes, forum International Military Commission, authentic text French, source Schindler and Toman 1988 p. 102; last changed 2020-12-11) and its field_treaty_state_parties list. For every signatory the ICRC record carries two entries dated 1868-12-11, action \"signature\" and action \"accession\" (the latter displayed under the ICRC's combined Ratification/Accession heading).",
-  "Estonia: the ICRC customary IHL study, Rule 78, n. 2, says \"Estonia adhered in 1991\". Not in the ICRC treaty list; searches of Riigi Teataja and the web found no instrument. Needs a check of Estonian sources (for example, 1991 to 1993 Supreme Council or Riigikogu acts on accession to IHL treaties).",
-  "The Notion row's 20 parties may reflect counting Estonia; ICRC lists 19.",
-  "Kalshoven (2016) attributes the initiative to \"Alexander III\" (it was Alexander II, per the HHR Atlas and the reign dates) and calls it a \"16-state\" commission; 16 delegations attended the first session but 17 governments took part and signed. These statements were not used.",
-  "Jevglevskaja (HHR Atlas) says the Declaration had \"seventeen States Parties\"; the ICRC lists 19 including the two 1869 accessions.",
-  "Keefer's dates for the Commission's protocols (Protocol No. 1, 28 October; No. 2, 1 November) are the Julian dates printed on the protocols, although he states he uses Western dates; the Gregorian dates are 9 and 13 November 1868.",
-  "The ICRC text of the 1923 Hague Rules, Art. 18, prints \"Declaration of St.Petersburg of 1866\"; the customary IHL study quotes it as 1868.",
-  "Not retrieved, therefore omitted: original publication in British and Foreign State Papers (commonly cited as vol. 58, p. 16) and Parry's Consolidated Treaty Series (Kalshoven cites 138 CTS 297); the UN Digital Library record for the ICRC 2001 report (HTTP 403); any source on the Declaration in the 1998 Rome Statute negotiations (Dörmann's MPIL article and search results did not discuss it). The Rome Statute point is therefore not mentioned.",
-  "The Putin speech transcript attached to the Notion row gives no date; the ICRC President's statement dates the conference to 24 November 2008. The original Russian government publication was not retrieved.",
-  "The Transcript_of_RU_press_briefing_10-20-1999.pdf attached to the Notion row concerns the first trial inspection under the 1997 Agreement on mutual force reductions in the border areas (Russia, China, Kazakhstan, Kyrgyzstan, Tajikistan), which is record AC-13. It has no bearing on this record.",
-  "Portuguese signatory's name is partly illegible in the OCR consulted; not given.",
-  "Main session, 11 Oct 2026: verified the 19 ICRC participants and their dates directly from the ICRC JSON:API record; the Estonia row was dropped from Participation because Estonia is not in the ICRC treaty list and no instrument was found; the claim stays in the participation prose as unverified."
- ],
  "unverified": [
   {
    "field": "participation (Estonia)",
@@ -780,21 +764,6 @@
   {
    "field": "events (violation claims, 1870 to 1871 and 1880 to 1881)",
    "reason": "Reported by Keefer without details; the underlying claims were not reviewed."
-  }
- ],
- "corrections": [
-  "Number of Parties is 20; the ICRC IHL treaty database lists 19 (17 signatories plus Baden and Brazil), counted 11 October 2026. A twentieth party may come from the unverified report that Estonia adhered in 1991. Parties As Of is empty and should be set to 11 October 2026.",
-  "Date Entered into Force is empty; the ICRC gives 11 December 1868.",
-  "Signed at, Depositary, Treaty URL and all substantive text properties are empty.",
-  "The attachment Transcript_of_RU_press_briefing_10-20-1999.pdf does not concern this Declaration; it reports a trial inspection under the 1997 border force reductions agreement (record AC-13) and should be moved there.",
-  "The attachment Putin_speech_Nov_2008.pdf is relevant (Putin's address to the 140th anniversary conference, 24 November 2008) but its file name gives no date or source.",
-  "The attached Kalshoven chapter contains two factual slips about this Declaration (\"Alexander III\" for Alexander II; a \"16-state\" commission for 17 participating governments).",
-  "The page-body date note (11 December 1868 = 29 November 1868 Julian; signature at Saint Petersburg) is correct."
- ],
- "clear_fields": [
-  {
-   "field": "number_of_parties",
-   "reason": "Codex review, 11 Oct 2026: the 19 ICRC-listed participants are a historical count (17 original signatories and two 1869 accessions); a current-party count is not established. The participant count is generated from the Participation rows."
   }
  ]
 }

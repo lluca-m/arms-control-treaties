@@ -305,23 +305,5 @@
    "field": "events: effective dates for US (2009-07-21) and Trinidad and Tobago (2025-01-29)",
    "reason": "Computed under CCW Art. 5(4) as six months after notification, not read from the depositary record."
   }
- ],
- "corrections": [
-  "Type of Limitation lists Use, Development, Production, Stockpiling, Transfer, Testing and Deployment, and the page body says 'Complete prohibition, so all of the above'. The text prohibits only use and transfer (Art. 1) and requires precautions (Art. 2); development, production, stockpiling, testing and deployment are not restricted.",
-  "Quantitative Limits 'Zero (Complete Ban)' / body 'Yes - 0' is inaccurate: the Protocol sets no numerical limit and is not a complete ban.",
-  "Number of Signatories 159 is wrong: the Protocol was never opened for signature. The body's '# of Parties 159' is also wrong.",
-  "Number of Parties 109 is outdated: the UN Treaty Collection lists 111 parties as of 11 October 2026 (the page's own table already has 111 rows).",
-  "The 'Signatories & Dates' and 'Date Signed' fields contain dates of consent to be bound, not signatures.",
-  "Bosnia and Herzegovina's date is 11 October 2001 per UNTC, not 10 October 2001.",
-  "Uruguay's date is 18 September 1998 per UNTC, not 18 August 1998.",
-  "Montenegro became bound by succession (23 October 2006), not ratification.",
-  "Official name on the page ('Protocol on Blinding Laser Weapons (Protocol IV)') is the annexed protocol's title; the depositary title is 'Additional Protocol to the Convention ... (Protocol IV, entitled Protocol on Blinding Laser Weapons)'.",
-  "Enforcement Mechanisms 'Yes' and Dispute Resolution 'Yes' are not supported by the text; neither the Protocol nor the CCW contains enforcement or dispute-settlement clauses.",
-  "Reservations 'Allowed' is not supported: neither the Protocol nor the CCW addresses reservations. Parties filed declarations and one understanding (United States).",
-  "Word count 174 / article count 4 understate the instrument: the English Additional Protocol has 6 articles and 276 words (166 words in the operative body of Protocol IV Arts. 1-4).",
-  "Entry into force requirement '20 Ratifications' should read twenty notifications of consent to be bound, with entry into force six months later (CCW Art. 5(3)).",
-  "Extension provisions 'None' and Review Conference 'In Parent Treaty' are acceptable in substance but the duration, withdrawal and amendment rules should be stated as derived from CCW Arts. 8-9.",
-  "Compliance History 'Strong' is an unattributed verdict and should be replaced with attributed events.",
-  "For US President 'Bill Clinton' reflects the adoption date; US consent to be bound was notified on 21 January 2009."
  ]
 }

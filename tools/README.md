@@ -8,6 +8,7 @@ Scripts used on 11 October 2026 to write treaty records into the Notion Disarmam
 - `export_pilot.py`: exports finished records to Markdown in `../pilot_review_2026-10-11/` for review.
 - `rerun_test.py`: repeatability check (writes the pilot records twice and compares).
 
-Per-record source files (the agent research output, as corrected) are in `../records/`; `records/pilot2/rows_list.json` maps Record IDs to Notion page IDs. Run the scripts with `../records` as the working directory.
+Per-record source files (the agent research output, as corrected) are in `../records/`, which is kept local because it holds research notes, corrections and other editorial history; `records/pilot2/rows_list.json` maps Record IDs to Notion page IDs. Run the scripts with `../records` as the working directory.
+- `publish_records.py`: writes the public copies to `../data/records/`, dropping `research_notes`, `corrections` and `clear_fields`. Run it after any record changes. Review exports from `export_pilot.py` are also kept local.
 
 Page bodies were assembled by hand through the Notion connector (linked views for provisions, participation and events inside collapsed toggles); after any full-page rewrite, check that no list item has jumped to the top of the page.

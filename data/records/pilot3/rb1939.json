@@ -397,15 +397,6 @@
    "note": "The 9 June 1939 note is coded Other and the completion of the exchange on 10 June 1939 as Adoption. Roper's reference to possible technical violations is described in prose, not coded as an acknowledged breach, because it is expressly qualified."
   }
  ],
- "research_notes": [
-  "UNTS vol. 149 retrieved from treaties.un.org (v149.pdf). No. 476 (filed and recorded, 6 November 1952) groups the 1939, 1940 and 1942 exchanges; the 1939 English text runs on even pages 334-348 with Canada's French translation on facing odd pages; title pages are pp. 332-333. Printed page N is PDF page N+24, which the #page anchors use.",
-  "The task brief cited 'UNTS vol. 149 No. 332'; 332 is the page number (Treaties in Force: 149 UNTS 332). The UNTS number is No. 476.",
-  "The Canadian Treaty Information file t101663.txt holds the 1939 exchange (Roper 9 June, Skelton 10 June); d101663.txt is its details record. Canada lists both the 1939 and 1940 exchanges as CTS 1940 No. 12.",
-  "Minor wording differences between the Canadian web text and UNTS (for example 'one hundred ton burden' against 'one hundred tons burden'; 'on the Great Lakes' against 'on the Lakes' in Roper para. 17; headings unnumbered in the Canadian text, numbered (1) to (4) in UNTS). None affects the coding.",
-  "TIAS 1836, 61 Stat. 4069 and 6 Bevans 149 were not retrieved; they are cited from Treaties in Force 2025, Canada, Defense, p. 62. FRUS 1939 vol. II prints only an editorial note referring to TIAS 1836.",
-  "Paragraph numbering is this record's own (consecutive count per note); the notes themselves are unnumbered apart from the (1) to (4) headings.",
-  "Parent record check: UNTS vol. 149, p. 6, prints the US reply in the 1946 exchange as dated 'Dec. 6, 1946' and p. 3, note 1, gives entry into force on 6 December 1946, agreeing with Treaties in Force; Canada Treaty Information gives 5 December 1946. The parent record's statement that 'the US note' is dated 5 December 1946 should be revisited."
- ],
  "unverified": [
   {
    "field": "provisions (reciprocal application and notification assumptions)",
@@ -423,7 +414,5 @@
    "field": "instrument_status",
    "reason": "In force per Treaties in Force as of 1 January 2025 and Canada Treaty Information (no termination recorded); no later source was checked."
   }
- ],
- "corrections": [],
- "clear_fields": []
+ ]
 }

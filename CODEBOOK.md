@@ -239,7 +239,7 @@ Guidance: a provision is one restriction on one activity (e.g. "Prohibit testing
 - dispute_resolution: Yes if the text specifies a procedure for disputes over interpretation or application (a standing body, consultation procedure, arbitration or the ICJ).
 - national_authority: Yes if the text requires each party to designate, establish or use a national body, focal point or centre for implementation or communication.
 - technical_cooperation: Yes if the text provides for assistance or the exchange of technology or expertise among parties.
-- third_party_roles: Yes if the text assigns functions to a non-party (an international organization, the UN Secretary-General beyond custody, observers, basing states, non-parties that may accept the instrument).
+- third_party_roles: Yes if the text assigns functions to a non-party (an international organization, the UN Secretary-General beyond custody, observers, basing states). Eligibility of non-parties to sign or accede is not a function: it is recorded under participation_structure and in the accession clause, not here (corrected 12 Oct 2026).
 Every Yes or No that is not obvious from a single article gets a coding note naming the article and the definition it meets.
 
 ## Dates
