@@ -1,0 +1,869 @@
+{
+ "instrument": {
+  "full_name": "Declaration (XIV) Prohibiting the Discharge of Projectiles and Explosives from Balloons",
+  "short_name": "Hague Declaration (XIV) on Balloons, 1907",
+  "record_type": "Instrument",
+  "instrument_form": "Declaration",
+  "legal_character": "Legally binding",
+  "instrument_status": "In force",
+  "negotiation_status": "Concluded",
+  "date_adopted": "1907-10-18",
+  "opened_for_signature": null,
+  "entry_into_force": "1909-11-27",
+  "date_ended": null,
+  "participation_structure": "Multilateral (open)",
+  "geographic_coverage": [],
+  "operating_environment": [
+   "Air"
+  ],
+  "weapon_families": [
+   "Air forces"
+  ],
+  "legal_subject_matter": [
+   "Conduct of hostilities (IHL)"
+  ],
+  "signed_at": "The Hague",
+  "adopted_at": "The Hague, Second International Peace Conference (text prepared in the first subcommission of the Second Commission, voted in plenary on 17 August 1907, and listed as a separate act in the Final Act of 18 October 1907)",
+  "depositary": "Government of the Netherlands. Ratifications are deposited at The Hague (operative para. 5), adhesions and denunciations are notified to the Netherlands Government (operative paras. 7 and 8), and the single original is kept in its archives (closing formula).",
+  "number_of_parties": 22,
+  "number_of_signatories": 27,
+  "parties_as_of": "2026-10-12",
+  "key_non_parties": "Germany, France, Russia, Japan and Italy neither signed nor ratified (Netherlands treaty database; Scott 1915, pp. 223-224). In the plenary vote of 17 August 1907 Germany, France and Russia voted against the renewal, Japan did not vote, and Italy voted for it but did not sign (Proceedings, 1907, vol. I, p. 86). Austria-Hungary signed but never ratified, as did the Ottoman Empire (listed as Türkiye), Persia, Argentina, Bulgaria, Colombia, Cuba, the Dominican Republic, Ecuador, Greece, Peru and Uruguay. Of the great Powers only Great Britain and the United States ratified (ICRC introduction). Spain, Sweden, Romania, Montenegro, Serbia, Chile, Mexico, Denmark and others did not join; the Proceedings table of signatures to 10 January 1908 marks Chile as a signatory, but no Chilean signature appears in the depositary record or in Bevans.",
+  "information_provisions": [
+   "None"
+  ],
+  "inspection_access": [
+   "None"
+  ],
+  "monitoring_means_specified": [
+   "None specified"
+  ],
+  "institutional_oversight": "Depositary only",
+  "consultation_mechanism": "None",
+  "reporting_requirements": "Not specified in text",
+  "enforcement": "Not specified in text",
+  "dispute_resolution": "Not specified in text",
+  "national_authority": "Not specified in text",
+  "technical_cooperation": "Not specified in text",
+  "third_party_roles": "Not specified in text",
+  "reservations": "Not Specified",
+  "duration_type": "Fixed term",
+  "duration_years": null,
+  "duration_clause": "The Contracting Powers agree to the prohibition \"for a period extending to the close of the Third Peace Conference\" (\"pour une période allant jusqu'à la fin de la troisième Conférence de la Paix\", operative para. 1). The term is fixed by an event, not by a number of years. The words were a British amendment, moved by Sir Edward Fry and adopted in plenary on 17 August 1907 by 28 votes to 8 with 8 not voting, replacing \"for a term of five years\" in the Belgian draft (Proceedings, 1907, vol. I, pp. 85-86); the printed amendment reads \"until the meeting of the Third Peace Conference\" (p. 110). The Third Peace Conference never met (Bevans, vol. 1, p. 739, note: \"Not held\"). The depositary records the Declaration as in force with no termination date, and the ICRC states that it \"is still formally in force today\". No end date is coded.",
+  "extension_type": "None stated",
+  "extension_clause": "The text contains no extension or renewal clause. The term ends with the close of the Third Peace Conference (operative para. 1).",
+  "withdrawal_type": "Notice",
+  "withdrawal_notice_months": 12,
+  "withdrawal_clause": "A High Contracting Party may denounce the Declaration by written notification to the Netherlands Government, which communicates it forthwith to the other Contracting Powers; the denunciation takes effect one year after the notification (operative para. 8) and affects only the notifying Power (operative para. 9). The engagement also ceases to be binding in a particular war once a non-contracting Power joins one of the belligerents (operative para. 3); that is a condition of application, not withdrawal. The depositary records no denunciation (checked 12 October 2026).",
+  "amendment_procedure": "None stated",
+  "amendment_clause": "No amendment procedure is stated.",
+  "review_conferences": "None",
+  "review_interval_years": null,
+  "review_conferences_held": 0,
+  "entry_into_force_requirements": "Ratification \"as soon as possible\" (operative para. 4), deposit at The Hague (operative para. 5) and a single proces-verbal recording the receipt of the ratifications (operative para. 6). The text sets no threshold and no entry-into-force date. Trb. 1966, 291 records that the Declaration entered into force on 27 November 1909 for the states that had ratified by then and later for each subsequent ratifier or acceding state on the date listed; Bevans gives 27 November 1909 as the date of the proces-verbal of first deposit. Non-signatory Powers may adhere by written notification to the Netherlands Government (operative para. 7); the text does not say when an adhesion takes effect.",
+  "number_of_articles": null,
+  "word_count": 336,
+  "count_basis": "The Declaration has no numbered articles. Citations use: preamble (from \"The undersigned\" to \"which has now expired\"); operative paras. 1 to 9 (after \"Declare:\", namely 1 prohibition, 2 binding only between Contracting Powers, 3 cessation when a non-contracting Power joins, 4 ratification, 5 deposit at The Hague, 6 proces-verbal, 7 adhesion, 8 denunciation, 9 effect of denunciation); and the closing formula. Trb. 1966, 291 uses the same count (\"alinea 5\", \"alinea 7\"). Word count: authentic French text as reproduced by the ICRC (French page, read through its JSON:API), from \"Les soussignés\" to the end of the dating formula, excluding the title, the heading \"(Liste des Parties Contractantes)\" and \"(Signatures)\"; whitespace tokens containing a letter or digit, elided forms (e.g. jusqu'à) counted as one word: 336. Scott, Les Conventions et Déclarations de La Haye (1918), pp. 220-222, has the same wording but prints the St Petersburg date as \"29 novembre/11 décembre\", which gives 335. English: the local PDF (an ICRC print of 11 October 2026), from \"The undersigned\" to the end of the dating formula, excluding \"(Here follow signatures)\" and detached quotation marks: 342.",
+  "weapons_systems_limited": "The discharge of projectiles and explosives from balloons or by other new methods of a similar nature. The rule is defined by the launching platform and method, not by the projectile.",
+  "key_provisions": "The Contracting Powers agree to prohibit, for a period extending to the close of the Third Peace Conference, the discharge of projectiles and explosives from balloons or by other new methods of a similar nature (operative para. 1). The Declaration binds only Contracting Powers in a war between two or more of them (operative para. 2) and ceases to be binding once a non-contracting Power joins one of the belligerents (operative para. 3). It is subject to ratification with deposit at The Hague (operative paras. 4 to 6); non-signatory Powers may adhere by notification to the Netherlands Government (operative para. 7); denunciation takes effect one year after written notification and affects only the notifying Power (operative paras. 8 and 9). The preamble invokes the St Petersburg Declaration of 1868 and states the desire to renew the 1899 Declaration, \"which has now expired\".",
+  "behavior_change": "Delegates disagreed about what the method could do. Mr Tcharykow (Russia) said that in the existing state of technical development the ability to damage the enemy from balloons \"would scarcely be more formidable or more effective than it is by modern artillery on land or sea\"; Mr Szilassy (Austria-Hungary) said the method was \"not indispensable\"; Lord Reay (Great Britain) said that \"no nation has pushed so far ahead that it cannot retrace its steps\"; and General de Robilant (Italy) said a great Power had built a balloon that \"moves through the air as easily as a ship on the sea\" and that the Powers most advanced in managing balloons \"will not easily give up the right to use them\" (Proceedings, 1907, vol. III, pp. 146-150). Mr Tsudzuki (Japan) said that without unanimity among the great military Powers Japan \"would be forced to continue to study and improve this means of warfare\" (vol. I, p. 85). The main air Powers did not join, so the rule never bound them; no fielded capability given up by a party was identified in the sources reviewed.",
+  "historical_background": "The 1899 Declaration (IV,1) banned the discharge of projectiles and explosives from balloons for five years and expired on 4 September 1905. Russia's programme for the Second Peace Conference (1906) noted that one 1899 Declaration had expired and raised whether it should be revived. In the first subcommission of the Second Commission, Belgium moved its renewal in the 1899 terms; on 7 August 1907 the subcommission adopted it with Germany and Romania voting yes conditionally on unanimity and Argentina, Spain, France, Montenegro, Persia and Russia against, while Russian and Italian proposals for a permanent restriction were folded into Article 25 of the Hague Regulations through the French words \"by any means whatever\". On 17 August the plenary replaced the five-year term with the close of the Third Peace Conference on a British amendment and adopted the renewal by 29 votes to 8 with 7 not voting. Renault told the Conference on 17 October that \"we are really making a new Declaration\" (Proceedings, 1907, vol. I, pp. 85-86, 577; vol. III, pp. 14-15, 145-153).",
+  "treaty_url": "https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-xiv-1907",
+  "source_quality": "Reproduction",
+  "related": [
+   {
+    "relation": "produced_by",
+    "target": "Hague II Peace Conference of 1907",
+    "target_id": "AC-75"
+   },
+   {
+    "relation": "replaces",
+    "target": "Hague (IV,1): Declaration concerning the Prohibition of the Discharge of Projectiles and Explosives from Balloons or by Other New Analogous Methods",
+    "target_id": "AC-84"
+   },
+   {
+    "relation": "negotiated_alongside",
+    "target": "Hague (IV): Convention respecting the Laws and Customs of War on Land",
+    "target_id": "AC-76"
+   },
+   {
+    "relation": "negotiated_alongside",
+    "target": "Hague (VII): Convention relative to the Conversion of Merchant Ships into War-ships",
+    "target_id": "AC-69"
+   },
+   {
+    "relation": "negotiated_alongside",
+    "target": "Hague (VIII): Convention relative to the Laying of Automatic Submarine Contact Mines",
+    "target_id": "AC-74"
+   },
+   {
+    "relation": "negotiated_alongside",
+    "target": "Hague (IX): Convention concerning Bombardment by Naval Forces in Time of War",
+    "target_id": "AC-67"
+   }
+  ]
+ },
+ "provisions": [
+  {
+   "provision": "Prohibit discharging projectiles and explosives from balloons or by other new analogous methods",
+   "article": "Operative para. 1",
+   "weapon_activity": [
+    "Air forces"
+   ],
+   "restriction_type": "Prohibit use",
+   "value": null,
+   "unit": null,
+   "bound_parties": "All parties",
+   "bound_parties_detail": "Every Contracting Power on identical terms (\"The Contracting Powers agree to prohibit\")",
+   "geographic_scope": "No geographic limit; applies in a war between two or more Contracting Powers",
+   "exceptions": "Binding only in a war between two or more Contracting Powers (operative para. 2); ceases to be binding once a non-contracting Power joins one of the belligerents (operative para. 3). The term runs to the close of the Third Peace Conference, which never met.",
+   "effective_from": "1909-11-27",
+   "effective_until": null,
+   "text_or_paraphrase": "The Contracting Powers agree to prohibit, for a period extending to the close of the Third Peace Conference, the discharge of projectiles and explosives from balloons or by other new methods of a similar nature.",
+   "source_url": "https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-xiv-1907/declaration",
+   "locator": "Operative para. 1 (French: \"Les Puissances contractantes consentent, pour une période allant jusqu'à la fin de la troisième Conférence de la Paix, à l'interdiction de lancer des projectiles et des explosifs du haut de ballons ou par d'autres modes analogues nouveaux.\"). Effective date from the Netherlands treaty database (entry into force 27 November 1909; no termination)."
+  }
+ ],
+ "events": [
+  {
+   "event": "Russian programme proposes reviving the expired balloon Declaration",
+   "date": null,
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "Russia",
+   "attribution": "Programme proposed by the Imperial Government of Russia, extract from the circular of March/April 1906, printed in Scott (ed.), Proceedings: Conference of 1907, vol. I (1920)",
+   "description": "Point 2 of the programme for the Second Peace Conference listed additions to the 1899 Convention on land warfare and the 1899 Declarations: \"one of these having expired, question of its being revived.\"",
+   "source_url": "https://archive.org/details/proceedingsofhag01inteuoft",
+   "locator": "Front matter, programme (before p. 1)",
+   "date_precision": "Month",
+   "date_as_reported": "March/April 1906"
+  },
+  {
+   "event": "First subcommission defers the renewal question",
+   "date": "1907-07-31",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "First subcommission of the Second Commission (President Auguste Beernaert); Austria-Hungary (Major General Baron Giesl von Gieslingen); Great Britain (Lord Reay)",
+   "attribution": "Minutes of the first subcommission, fourth meeting, in Scott (ed.), Proceedings: Conference of 1907, vol. III (1921)",
+   "description": "Beernaert reported that the 1899 balloon Declaration had expired, that Russia had placed its renewal on the programme and that Belgium would move its readoption in the 1899 terms. At Giesl's request, supported by Lord Reay, the question was deferred to the next meeting.",
+   "source_url": "https://archive.org/details/proceedingsofhag03inteuoft",
+   "locator": "First subcommission, fourth meeting, pp. 143-144",
+   "date_precision": "Day"
+  },
+  {
+   "event": "First subcommission votes to renew the Declaration for five years",
+   "date": "1907-08-07",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "First subcommission; Belgium, Russia, Italy, France, Austria-Hungary, Great Britain, Germany and others",
+   "attribution": "Minutes of the first subcommission, fifth meeting, in Scott (ed.), Proceedings, vol. III; report of Baron Giesl von Gieslingen, ibid.",
+   "description": "The Belgian draft, renewing the 1899 text for five years, was adopted. The minutes give 28 votes, 2 conditional on unanimity (Germany and Romania), against 6 (Argentina, Spain, France, Montenegro, Persia, Russia); the report gives 29. Votes followed on an Italian subsidiary amendment: article 1 (only dirigible balloons with a military crew) passed 21 to 8 with 6 not voting; article 2 (bombardment by military balloons subject to the restrictions for land and sea warfare) passed 31 to 1 with 3 not voting.",
+   "source_url": "https://archive.org/details/proceedingsofhag03inteuoft",
+   "locator": "First subcommission, fifth meeting, pp. 145-153; report, pp. 27-28",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Second Commission adopts \"by any means whatever\" and the Belgian proposal",
+   "date": "1907-08-14",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "Second Commission; Russia (Tcharykow); Italy (Tornielli); France (General Amourel); Germany (von Gündell); Greece (Colonel Sapountzakis)",
+   "attribution": "Minutes of the Second Commission, second meeting, in Scott (ed.), Proceedings, vol. III",
+   "description": "Russia and Italy proposed a joint text of Article 25 naming balloons. General Amourel (France) said the prohibition was already contained in Article 25 and proposed inserting \"by any means whatever\"; Russia, Italy, Germany and Greece accepted, and the Commission adopted the amended Article 25 unanimously. The Belgian proposal on the Declaration was adopted without a request for a vote.",
+   "source_url": "https://archive.org/details/proceedingsofhag03inteuoft",
+   "locator": "Second Commission, second meeting, pp. 14-15",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Plenary adopts the British term and the renewal",
+   "date": "1907-08-17",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "Plenary Conference; Great Britain (Sir Edward Fry); France (Léon Bourgeois); Russia (Martens); Japan (Tsudzuki)",
+   "attribution": "Minutes of the fourth plenary meeting, in Scott (ed.), Proceedings, vol. I (1920)",
+   "description": "Bourgeois said France could not support the renewal because Article 25, now with \"by any means whatever\", met the humanitarian object. Fry moved to replace \"for a term of five years\" with \"to the close of the Third Peace Conference\"; it passed 28 to 8 with 8 not voting. The renewal passed 29 to 8 (Germany, Argentina, Spain, France, Montenegro, Persia, Romania, Russia) with 7 not voting (Chile, Colombia, Japan, Mexico, Peru, Sweden, Venezuela).",
+   "source_url": "https://archive.org/details/proceedingsofhag01inteuoft",
+   "locator": "Fourth plenary meeting, pp. 85-86; annexes C and D, p. 110",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Drafting Committee explains the Declaration as a new act",
+   "date": "1907-10-17",
+   "effective_date": null,
+   "event_type": "Negotiation round",
+   "actors": "Drafting Committee (reporter Louis Renault); Plenary Conference",
+   "attribution": "Minutes of the tenth plenary meeting, in Scott (ed.), Proceedings, vol. I",
+   "description": "Renault said: \"We renewed the Declaration of 1899. It is true that it had lapsed and that we are really making a new Declaration.\" The final clauses of 1899 were kept to match the two 1899 Declarations still in force. Because the vote had not been unanimous, the committee had ascertained that the Powers voting against did not object to listing the Declaration in the Final Act. The Final Act was then voted.",
+   "source_url": "https://archive.org/details/proceedingsofhag01inteuoft",
+   "locator": "Tenth plenary meeting, pp. 577-578",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Declaration adopted at The Hague",
+   "date": "1907-10-18",
+   "effective_date": null,
+   "event_type": "Adoption",
+   "actors": "Second International Peace Conference",
+   "attribution": "Final Act of 18 October 1907, in Scott, The Hague Conventions and Declarations (1915); Netherlands treaty database; ICRC",
+   "description": "The Final Act lists the Declaration as act XIV and provides that the acts are dated that day. The ICRC and the depositary give 18 October 1907 as the date of the Declaration.",
+   "source_url": "https://archive.org/details/hagueconventions00inteuoft",
+   "locator": "Final Act, pp. 26-27; text of the Declaration, pp. 220-222",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Signature open until 30 June 1908 (opening day not established)",
+   "date": null,
+   "effective_date": null,
+   "event_type": "Opening for signature",
+   "actors": "Powers represented at the Second Peace Conference",
+   "attribution": "Final Act, in Scott (1915); table of signatory states and closing-meeting minutes, in Scott (ed.), Proceedings, vol. I",
+   "description": "Under the Final Act the acts could be signed at The Hague until 30 June 1908. At the closing meeting the acts were described as \"submitted for signature to-morrow\". The table of signatures affixed up to 10 January 1908 marks 22 Powers as signatories of this Declaration, including Chile, which does not appear in the depositary record; Austria-Hungary, China, Ecuador, Great Britain, Switzerland and Turkey are not marked in that table; their exact signature dates were not established. The depositary records 27 signatures, all under 18 October 1907. The day the acts were opened for signature is not established: the closing-meeting minutes describe the instruments as submitted for signature the following day.",
+   "source_url": "https://archive.org/details/proceedingsofhag01inteuoft",
+   "locator": "Scott (1915), p. 27; Proceedings, vol. I, pp. 580 and 697-699",
+   "date_precision": "Date unknown",
+   "date_as_reported": "Acts dated 18 October 1907; signature open until 30 June 1908; opening day not established"
+  },
+  {
+   "event": "United States Senate consents to ratification",
+   "date": "1908-03-12",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States Senate",
+   "attribution": "Bevans, Treaties and Other International Agreements of the United States of America, 1776-1949, vol. 1 (1968)",
+   "description": "Bevans records Senate advice and consent on 12 March 1908 and ratification by the President on 23 February 1909.",
+   "source_url": "https://tile.loc.gov/storage-services/service/ll/lltreaties/lltreaties-ustbv001/lltreaties-ustbv001.pdf",
+   "locator": "vol. 1, p. 739 (headnote; 36 Stat. 2439; TS 546)",
+   "date_precision": "Day"
+  },
+  {
+   "event": "First deposit of ratifications and entry into force",
+   "date": "1909-11-27",
+   "effective_date": null,
+   "event_type": "Entry into force",
+   "actors": "Bolivia, China, El Salvador, Netherlands, United Kingdom, United States",
+   "attribution": "Netherlands treaty database; Trb. 1966, 291; ICRC; Bevans",
+   "description": "Trb. 1966, 291 lists six ratifications deposited on 27 November 1909 and states that the Declaration entered into force on that date for the states that had ratified, and later for each subsequent state on the date listed. Bevans describes the proces-verbal of first deposit, dated 27 November 1909, as including the United States.",
+   "source_url": "https://zoek.officielebekendmakingen.nl/trb-1966-291.pdf",
+   "locator": "Sections E and G; Netherlands treaty database, treaty data (entry into force 27-11-1909)",
+   "date_precision": "Day"
+  },
+  {
+   "event": "United States proclaims the Declaration",
+   "date": "1910-02-28",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "President of the United States",
+   "attribution": "Bevans, vol. 1",
+   "description": "Bevans records proclamation by the President on 28 February 1910.",
+   "source_url": "https://tile.loc.gov/storage-services/service/ll/lltreaties/lltreaties-ustbv001/lltreaties-ustbv001.pdf",
+   "locator": "vol. 1, p. 739",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Italian aviator drops grenades on a Turkish camp in Libya",
+   "date": "1911-11-01",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Italy (Lieutenant Giulio Gavotti); Ottoman Empire",
+   "attribution": "NPR (Eyder Peralta, 21 March 2011), quoting Gerard J. DeGroot, The Bomb (2005), and reporting Ian Patterson (London Review of Books)",
+   "description": "NPR reports that Gavotti dropped four grenades on a Turkish camp at Ain Zara near Tripoli during the Italo-Turkish war, and that the Ottoman Empire said the bombs fell on a field hospital. Italy had not signed the Declaration and the Ottoman Empire had signed but not ratified it (Scott 1915, p. 224; Netherlands treaty database), so under operative para. 2 it did not bind them in that war. No statement by either government about the Declaration was found in the sources reviewed.",
+   "source_url": "https://www.npr.org/sections/thetwo-way/2011/03/21/134735395/100-years-ago-the-first-aerial-bomb-fell-over-libya",
+   "locator": "Online article",
+   "date_precision": "Day"
+  },
+  {
+   "event": "Zeppelin bombs Antwerp",
+   "date": "1914-08-25",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "Germany; Belgium",
+   "attribution": "Garner, International Law and the World War, vol. I (1920)",
+   "description": "Garner describes the raid of 25 August 1914 as the first aerial raid of the war to attract attention: a German Zeppelin dropped bombs on Antwerp, killing eight people. He states that the Declaration \"cannot therefore be regarded as a universally binding rule; certainly it was not binding upon Germany\", which had not signed it.",
+   "source_url": "https://archive.org/details/internationallaw01garnuoft",
+   "locator": "vol. I, pp. 459 and 466",
+   "date_precision": "Day"
+  },
+  {
+   "event": "United States field manual describes the rule as of slight value",
+   "date": "1940-10-01",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States War Department",
+   "attribution": "Basic Field Manual FM 27-10, Rules of Land Warfare (1 October 1940)",
+   "description": "Paragraph 27 restates the prohibition and says it \"may be said to be of comparatively slight value because it has been ratified by only two of the great powers, namely, the United States and Great Britain, and because its principal object is substantially accomplished by H.R. article 25\"; it is \"not regarded as imposing any restriction upon the use of modern military aircraft against armed forces or defended places.\"",
+   "source_url": "https://archive.org/details/Fm27-10",
+   "locator": "Para. 27 (p. 7, inferred from the OCR)",
+   "date_precision": "Day"
+  },
+  {
+   "event": "War Department circular states the Declaration will not be observed",
+   "date": "1942-05-07",
+   "effective_date": null,
+   "event_type": "Other",
+   "actors": "United States War Department",
+   "attribution": "Circular 136, War Department, 7 May 1942, as reported in Judge Advocate General's School, Text No. 7, Law of Land Warfare (1 September 1943)",
+   "description": "The JAG School text reports that Circular 136 directed observance of the conventions listed in FM 27-10 except Hague Declaration XIV, which \"is not binding and will not be observed by the United States\", and elsewhere that the Declaration \"was expressly denounced by the United States\". The circular itself was not retrieved. The depositary records no United States denunciation and lists the United States as a party (checked 12 October 2026).",
+   "source_url": "https://patcosta.com/wp-content/uploads/2024/07/Judge-Advocate-Generals-School-No-7-Rules-for-Land-Warfare-Sept-1943.pdf",
+   "locator": "Para. 5 and para. 27 with notes 27 and 18 (page numbers not legible in the scan)",
+   "date_precision": "Day"
+  }
+ ],
+ "participation": [
+  {
+   "state": "Belgium",
+   "iso3": "BEL",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1910-08-08",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"Belgium\": signature 18-10-1907, ratification (R) and entry into force 1910-08-08, no termination. ICRC: signature 18 October 1907, ratification/accession 1910-08-08. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). The Belgian delegation moved the renewal of the 1899 Declaration (Proceedings, 1907, vol. III, pp. 145 and 251). Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Bolivia",
+   "iso3": "BOL",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1909-11-27",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"Bolivia\": signature 18-10-1907, ratification (R) and entry into force 1909-11-27, no termination. ICRC: signature 18 October 1907, ratification/accession 1909-11-27. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Brazil",
+   "iso3": "BRA",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1914-01-05",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"Brazil\": signature 18-10-1907, ratification (R) and entry into force 1914-01-05, no termination. ICRC: signature 18 October 1907, ratification/accession 1914-01-05. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "China",
+   "iso3": "CHN",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1909-11-27",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"China\": signature 18-10-1907, ratification (R) and entry into force 1909-11-27, no termination. ICRC: signature 18 October 1907, ratification/accession 1909-11-27. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Not marked as a signatory in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699), but the signature appears in the depositary record and in the signature blocks printed by Bevans (vol. 1, pp. 740-741). Under the Final Act the Declaration could be signed at The Hague until 30 June 1908 (Scott 1915, p. 27). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date of the act, but it is not marked in the table of signatures to 10 January 1908, and the exact signature date was not established. Signed for the Qing Empire; the depositary and the ICRC list the participation under China. This row reports that listing and does not code continuity. At the closing meeting the Chinese delegate, Lou Tseng-tsiang, said that China might not join the signing of the acts at once but hoped to do so \"several months hence\" (Proceedings, 1907, vol. I, p. 580). Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "El Salvador",
+   "iso3": "SLV",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1909-11-27",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"El Salvador\": signature 18-10-1907, ratification (R) and entry into force 1909-11-27, no termination. ICRC: signature 18 October 1907, ratification/accession 1909-11-27. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Listed as Salvador in the Proceedings and Scott (1915). Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Haiti",
+   "iso3": "HTI",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1910-02-02",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"Haïti\": signature 18-10-1907, ratification (R) and entry into force 1910-02-02, no termination. ICRC: signature 18 October 1907, ratification/accession 1910-02-02. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). The depositary spells the name Haïti. Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Luxembourg",
+   "iso3": "LUX",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1912-09-05",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"Luxembourg\": signature 18-10-1907, ratification (R) and entry into force 1912-09-05, no termination. ICRC: signature 18 October 1907, ratification/accession 1912-09-05. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Netherlands",
+   "iso3": "NLD",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1909-11-27",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"Netherlands, the Kingdom of the\": signature 18-10-1907, ratification (R) and entry into force 1909-11-27, no termination. ICRC: signature 18 October 1907, ratification/accession 1909-11-27. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). The depositary label is \"Netherlands, the Kingdom of the\". It records declarations of 13 January 1986 and 18 October 2010 that the Declaration continues to apply to Aruba, Curaçao, Sint Maarten and the Caribbean part of the Netherlands after the constitutional changes of those years; Trb. 1966, 291 states that it applies to the whole Kingdom. Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Norway",
+   "iso3": "NOR",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1910-09-19",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"Norway\": signature 18-10-1907, ratification (R) and entry into force 1910-09-19, no termination. ICRC: signature 18 October 1907, ratification/accession 1910-09-19. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Signed and ratified by Norway as a separate kingdom after the dissolution of the union with Sweden in 1905; Sweden did not sign. Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Panama",
+   "iso3": "PAN",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1911-09-11",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"Panama\": signature 18-10-1907, ratification (R) and entry into force 1911-09-11, no termination. ICRC: signature 18 October 1907, ratification/accession 1911-09-11. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Portugal",
+   "iso3": "PRT",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1911-04-13",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"Portugal\": signature 18-10-1907, ratification (R) and entry into force 1911-04-13, no termination. ICRC: signature 18 October 1907, ratification/accession 1911-04-13. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Switzerland",
+   "iso3": "CHE",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1910-05-12",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"Switzerland\": signature 18-10-1907, ratification (R) and entry into force 1910-05-12, no termination. ICRC: signature 18 October 1907, ratification/accession 1910-05-12. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Not marked as a signatory in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699), but the signature appears in the depositary record and in the signature blocks printed by Bevans (vol. 1, pp. 740-741). Under the Final Act the Declaration could be signed at The Hague until 30 June 1908 (Scott 1915, p. 27). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date of the act, but it is not marked in the table of signatures to 10 January 1908, and the exact signature date was not established. Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Siam",
+   "iso3": null,
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1910-03-12",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"Thailand\": signature 18-10-1907, ratification (R) and entry into force 1910-03-12, no termination. ICRC: signature 18 October 1907, ratification/accession 1910-03-12. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Signed and ratified as Siam (Proceedings; Scott 1915; Trb. 1966, 291). The depositary and the ICRC list the entry as Thailand; this row reports that listing and does not code continuity. Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "United Kingdom",
+   "iso3": "GBR",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1909-11-27",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"United Kingdom\": signature 18-10-1907, ratification (R) and entry into force 1909-11-27, no termination. ICRC: signature 18 October 1907, ratification/accession 1909-11-27. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Not marked as a signatory in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699), but the signature appears in the depositary record and in the signature blocks printed by Bevans (vol. 1, pp. 740-741). Under the Final Act the Declaration could be signed at The Hague until 30 June 1908 (Scott 1915, p. 27). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date of the act, but it is not marked in the table of signatures to 10 January 1908, and the exact signature date was not established. Signed for Great Britain (Edw. Fry, Ernest Satow, Reay, Henry Howard; Bevans, vol. 1, p. 740); the depositary lists the United Kingdom and the ICRC the United Kingdom of Great Britain and Northern Ireland. The British delegation proposed the amendment that set the term at the close of the Third Peace Conference (Proceedings, 1907, vol. I, p. 85). Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "United States",
+   "iso3": "USA",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": "1909-11-27",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Ratification",
+   "notes": "Netherlands treaty database (depositary), label \"United States of America\": signature 18-10-1907, ratification (R) and entry into force 1909-11-27, no termination. ICRC: signature 18 October 1907, ratification/accession 1909-11-27. Trb. 1966, 291, section E, lists the ratification under operative para. 5 (\"alinea 5\") on the same date. Scott (1915), p. 223, lists the same ratification date. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Bevans, vol. 1, p. 739: Senate advice and consent 12 March 1908, ratification by the President 23 February 1909, proces-verbal of first deposit of ratifications (including that of the United States) dated 27 November 1909, proclaimed 28 February 1910; 36 Stat. 2439; TS 546. Signed by Joseph H. Choate, Horace Porter, U. M. Rose, David Jayne Hill, C. S. Sperry and William I. Buchanan (Bevans, vol. 1, p. 740). The depositary lists no denunciation; a 1942 War Department circular stating that the Declaration would not be observed is described in the record's history. Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Argentina",
+   "iso3": "ARG",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": null,
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": null,
+   "notes": "Signed but not ratified. Netherlands treaty database (depositary), label \"Argentina\": signature 18-10-1907, no ratification or entry into force. ICRC: signature 18 October 1907 only. Scott (1915), p. 224, lists it among the Powers that signed but had not ratified. The Argentine delegation voted against the renewal in the subcommission and in plenary (Proceedings, 1907, vol. III, p. 149; vol. I, p. 86) but signed. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Never bound. Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Austria-Hungary",
+   "iso3": null,
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": null,
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": null,
+   "notes": "Signed but not ratified. Netherlands treaty database (depositary), label \"Austria/Hungary\": signature 18-10-1907, no ratification or entry into force. ICRC: signature 18 October 1907 only. Scott (1915), p. 224, lists it among the Powers that signed but had not ratified. Not marked as a signatory in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699), but the signature appears in the depositary record and in the signature blocks printed by Bevans (vol. 1, pp. 740-741). Under the Final Act the Declaration could be signed at The Hague until 30 June 1908 (Scott 1915, p. 27). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date of the act, but it is not marked in the table of signatures to 10 January 1908, and the exact signature date was not established. Signed for Austria-Hungary by Mérey and Macchio (Bevans, vol. 1, p. 740). The depositary lists the entry as \"Austria/Hungary\"; the ICRC lists two signature entries, Austria and Hungary, each dated 18 October 1907. The depositary records no succession entries for Austria or Hungary under this Declaration. Linked to the historical entry Austria-Hungary; no successor is coded. Austria-Hungary's delegate Szilassy supported the renewal in the subcommission and the delegation voted for it in plenary (Proceedings, 1907, vol. III, pp. 146-147; vol. I, p. 86). Never bound.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Bulgaria",
+   "iso3": "BGR",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": null,
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": null,
+   "notes": "Signed but not ratified. Netherlands treaty database (depositary), label \"Bulgaria\": signature 18-10-1907, no ratification or entry into force. ICRC: signature 18 October 1907 only. Scott (1915), p. 224, lists it among the Powers that signed but had not ratified. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Never bound. Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Colombia",
+   "iso3": "COL",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": null,
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": null,
+   "notes": "Signed but not ratified. Netherlands treaty database (depositary), label \"Colombia\": signature 18-10-1907, no ratification or entry into force. ICRC: signature 18 October 1907 only. Scott (1915), p. 224, lists it among the Powers that signed but had not ratified. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Never bound. Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Cuba",
+   "iso3": "CUB",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": null,
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": null,
+   "notes": "Signed but not ratified. Netherlands treaty database (depositary), label \"Cuba\": signature 18-10-1907, no ratification or entry into force. ICRC: signature 18 October 1907 only. Scott (1915), p. 224, lists it among the Powers that signed but had not ratified. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Never bound. Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Dominican Republic",
+   "iso3": "DOM",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": null,
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": null,
+   "notes": "Signed but not ratified. Netherlands treaty database (depositary), label \"Dominican Republic\": signature 18-10-1907, no ratification or entry into force. ICRC: signature 18 October 1907 only. Scott (1915), p. 224, lists it among the Powers that signed but had not ratified. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Never bound. Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Ecuador",
+   "iso3": "ECU",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": null,
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": null,
+   "notes": "Signed but not ratified. Netherlands treaty database (depositary), label \"Ecuador\": signature 18-10-1907, no ratification or entry into force. ICRC: signature 18 October 1907 only. Scott (1915), p. 224, lists it among the Powers that signed but had not ratified. Not marked as a signatory in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699), but the signature appears in the depositary record and in the signature blocks printed by Bevans (vol. 1, pp. 740-741). Under the Final Act the Declaration could be signed at The Hague until 30 June 1908 (Scott 1915, p. 27). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date of the act, but it is not marked in the table of signatures to 10 January 1908, and the exact signature date was not established. Never bound.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Greece",
+   "iso3": "GRC",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": null,
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": null,
+   "notes": "Signed but not ratified. Netherlands treaty database (depositary), label \"Greece\": signature 18-10-1907, no ratification or entry into force. ICRC: signature 18 October 1907 only. Scott (1915), p. 224, lists it among the Powers that signed but had not ratified. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Never bound. Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Persia",
+   "iso3": null,
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": null,
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": null,
+   "notes": "Signed but not ratified. Netherlands treaty database (depositary), label \"Iran\": signature 18-10-1907, no ratification or entry into force. ICRC: signature 18 October 1907 only. Scott (1915), p. 224, lists it among the Powers that signed but had not ratified. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Signed as Persia (Proceedings; Scott 1915). The Persian delegation voted against the renewal in the subcommission and in plenary (Proceedings, 1907, vol. III, p. 149; vol. I, p. 86) but signed. The depositary lists the entry as Iran and the ICRC as Islamic Republic of Iran; this row reports those listings and does not code continuity. Never bound. Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Peru",
+   "iso3": "PER",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": null,
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": null,
+   "notes": "Signed but not ratified. Netherlands treaty database (depositary), label \"Peru\": signature 18-10-1907, no ratification or entry into force. ICRC: signature 18 October 1907 only. Scott (1915), p. 224, lists it among the Powers that signed but had not ratified. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Never bound. Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Türkiye",
+   "iso3": "TUR",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": null,
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": null,
+   "notes": "Signed but not ratified. Netherlands treaty database (depositary), label \"Türkiye\": signature 18-10-1907, no ratification or entry into force. ICRC: signature 18 October 1907 only. Scott (1915), p. 224, lists it among the Powers that signed but had not ratified. Not marked as a signatory in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699), but the signature appears in the depositary record and in the signature blocks printed by Bevans (vol. 1, pp. 740-741). Under the Final Act the Declaration could be signed at The Hague until 30 June 1908 (Scott 1915, p. 27). Date Signed is left blank: the depositary records this signature under 18 October 1907, the date of the act, but it is not marked in the table of signatures to 10 January 1908, and the exact signature date was not established. Signed for the Ottoman Empire (Turkhan; Bevans, vol. 1, p. 741); the depositary and the ICRC list the entry under Türkiye, and this row reports that listing without coding succession. Never bound.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Uruguay",
+   "iso3": "URY",
+   "participation_type": "Original Signatory",
+   "date_signed": null,
+   "entry_into_force": null,
+   "date_of_accession": null,
+   "current_status": null,
+   "method_of_consent": null,
+   "notes": "Signed but not ratified. Netherlands treaty database (depositary), label \"Uruguay\": signature 18-10-1907, no ratification or entry into force. ICRC: signature 18 October 1907 only. Scott (1915), p. 224, lists it among the Powers that signed but had not ratified. Marked as a signatory of this Declaration in the table of signatures affixed up to 10 January 1908 (Proceedings, 1907, vol. I, pp. 697-699). Never bound. Date Signed is left blank: the depositary records this signature under 18 October 1907, the date the acts bear, but the Proceedings indicate that the Final Act was to be signed at the closing meeting on 18 October and the Conventions the following day (the President, 17 October; the Chinese delegate, 18 October: Proceedings 1907, vol. I, pp. 578 and 580), and the actual date of this signature was not established.",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Nicaragua",
+   "iso3": "NIC",
+   "participation_type": "Non-Signatory Party",
+   "date_signed": null,
+   "entry_into_force": "1909-12-16",
+   "date_of_accession": "1909-12-16",
+   "current_status": "State Party",
+   "method_of_consent": "Accession",
+   "notes": "Netherlands treaty database: accession (A) and entry into force 1909-12-16, no termination. ICRC: accession 1909-12-16. Trb. 1966, 291, section F, lists the accession under operative para. 7 (\"alinea 7\") with a footnote marking the date as the date of effect (\"Datum van ingang\"); section G states that the Declaration entered into force for acceding states on the dates listed. Listed in Scott (1915), p. 223 (\"Adhesions\"). Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Liberia",
+   "iso3": "LBR",
+   "participation_type": "Non-Signatory Party",
+   "date_signed": null,
+   "entry_into_force": "1914-02-04",
+   "date_of_accession": "1914-02-04",
+   "current_status": "State Party",
+   "method_of_consent": "Accession",
+   "notes": "Netherlands treaty database: accession (A) and entry into force 1914-02-04, no termination. ICRC: accession 1914-02-04. Trb. 1966, 291, section F, lists the accession under operative para. 7 (\"alinea 7\") with a footnote marking the date as the date of effect (\"Datum van ingang\"); section G states that the Declaration entered into force for acceding states on the dates listed. Listed in Scott (1915), p. 223 (\"Adhesions\"). Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Finland",
+   "iso3": "FIN",
+   "participation_type": "Non-Signatory Party",
+   "date_signed": null,
+   "entry_into_force": "1922-06-09",
+   "date_of_accession": "1922-06-09",
+   "current_status": "State Party",
+   "method_of_consent": "Accession",
+   "notes": "Netherlands treaty database: accession (A) and entry into force 1922-06-09, no termination. ICRC: accession 1918-12-30. Trb. 1966, 291, section F, lists the accession under operative para. 7 (\"alinea 7\") with a footnote marking the date as the date of effect (\"Datum van ingang\"); section G states that the Declaration entered into force for acceding states on the dates listed. The ICRC gives 30 December 1918 instead of the depositary's 9 June 1922; the discrepancy was not resolved. Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Ethiopia",
+   "iso3": "ETH",
+   "participation_type": "Non-Signatory Party",
+   "date_signed": null,
+   "entry_into_force": "1935-08-02",
+   "date_of_accession": "1935-08-02",
+   "current_status": "State Party",
+   "method_of_consent": "Accession",
+   "notes": "Netherlands treaty database: accession (A) and entry into force 1935-08-02, no termination. ICRC: accession 1935-08-02. Trb. 1966, 291, section F, lists the accession under operative para. 7 (\"alinea 7\") with a footnote marking the date as the date of effect (\"Datum van ingang\"); section G states that the Declaration entered into force for acceding states on the dates listed. Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026).",
+   "data_entry_status": "Needs Verification"
+  },
+  {
+   "state": "Fiji",
+   "iso3": "FJI",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "1970-10-10",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database: consent type succession (Su) dated 1973-04-02, entry into force 1970-10-10, no termination. Trb. 1981, 108 lists Fiji (2 April 1973) as having declared that it considers itself a party. ICRC: accession 2 April 1973. The basis is presumably the British ratification of 1909; it was not established in the sources reviewed. Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date of Succession records the depositary's date for the succession act (1973-04-02); Entry into Force records the date from which it takes effect (1970-10-10).",
+   "data_entry_status": "Needs Verification",
+   "date_of_succession": "1973-04-02"
+  },
+  {
+   "state": "India",
+   "iso3": "IND",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "1947-08-15",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database: consent type succession (Su) dated 1950-07-29, entry into force 1947-08-15, no termination. Not listed by the ICRC. The basis of the entry (presumably the British ratification of 1909) was not established in the sources reviewed. Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date of Succession records the depositary's date for the succession act (1950-07-29); Entry into Force records the date from which it takes effect (1947-08-15).",
+   "data_entry_status": "Needs Verification",
+   "date_of_succession": "1950-07-29"
+  },
+  {
+   "state": "Pakistan",
+   "iso3": "PAK",
+   "participation_type": "Successor State",
+   "date_signed": null,
+   "entry_into_force": "1947-08-15",
+   "date_of_accession": null,
+   "current_status": "State Party",
+   "method_of_consent": "Succession",
+   "notes": "Netherlands treaty database: consent type succession (Su) dated 1950-08-05, entry into force 1947-08-15, no termination. Not listed by the ICRC. The basis of the entry (presumably the British ratification of 1909) was not established in the sources reviewed. Current Status follows the depositary database, which lists the entry without termination (checked 12 October 2026). Date of Succession records the depositary's date for the succession act (1950-08-05); Entry into Force records the date from which it takes effect (1947-08-15).",
+   "data_entry_status": "Needs Verification",
+   "date_of_succession": "1950-08-05"
+  }
+ ],
+ "overview_md": "The Hague Declaration (XIV) of 18 October 1907 commits its parties to prohibit, \"for a period extending to the close of the Third Peace Conference\", the discharge of projectiles and explosives from balloons or by other new methods of a similar nature ([ICRC](https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-xiv-1907)). It renewed the 1899 Declaration (IV,1), which had expired in 1905, as a new act of the Second Hague Peace Conference. Like its predecessor it applies only in wars between parties and lapses if a non-party joins a belligerent. Twenty-seven Powers signed it, but Germany, France, Russia, Japan and Italy did not, and Austria-Hungary signed without ratifying. The Third Peace Conference never met. The depositary lists the Declaration as in force, with 22 current entries (15 ratifications, 4 accessions and 3 successions), and the ICRC states that it \"is still formally in force today\" ([Netherlands treaty database](https://treatydatabase.overheid.nl/en/Treaty/Details/003329_p.html)). Its practical reach was limited from the start because the main air Powers stayed outside it.",
+ "provisions_md": "The Declaration has no numbered articles. Citations refer to the preamble, nine operative paragraphs and the closing formula of the [authentic French text](https://ihl-databases.icrc.org/fr/ihl-treaties/hague-decl-xiv-1907/declaration), checked against [Scott, Les Conventions et Déclarations de La Haye (1918)](https://archive.org/details/lesconventionset00laha), pp. 220-222. The [English translation](https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-xiv-1907/declaration) follows the same order.\n\n### Preamble\n- The plenipotentiaries invoke the sentiments of the St Petersburg Declaration of 29 November (11 December) 1868 and state their desire to renew the Hague Declaration of 29 July 1899, \"which has now expired\".\n\n### The prohibition\n- The Contracting Powers agree to prohibit, for a period extending to the close of the Third Peace Conference, the discharge of projectiles and explosives from balloons or by other new methods of a similar nature (operative para. 1).\n- The wording of the 1899 prohibition is kept; only the term changes ([Scott 1915](https://archive.org/details/hagueconventions00inteuoft), pp. 220-221, where the differences are italicised).\n- The rule restricts a method of delivery in war. It does not limit the development, construction or possession of balloons or aircraft.\n\n### Bound parties and the general participation clause\n- The Declaration binds Contracting Powers identically, but only in a war between two or more of them (operative para. 2).\n- It ceases to be binding once a non-contracting Power joins one of the belligerents (operative para. 3).\n\n### Duration\n- The term ends with the close of the Third Peace Conference (operative para. 1). That conference never met, and the text contains no other end date.\n\n### Related rule in the Hague Regulations\n- The same Conference added the words \"by any means whatever\" to Article 25 of the Regulations annexed to Hague Convention IV, which forbids attack or bombardment of undefended towns, villages, dwellings or buildings. Delegates intended the words to cover bombardment from the air ([Proceedings, 1907, vol. I](https://archive.org/details/proceedingsofhag01inteuoft), pp. 85 and 104). That rule is permanent and is recorded on the Hague IV record.\n\n### Final clauses\n- Ratification as soon as possible, deposit at The Hague, and a proces-verbal of the deposit sent to all Contracting Powers (operative paras. 4 to 6).\n- Non-signatory Powers may adhere by written notification to the Netherlands Government (operative para. 7).\n- Denunciation takes effect one year after written notification and affects only the notifying Power (operative paras. 8 and 9).\n- The text contains no provisions on information exchange, verification, consultation, dispute settlement or enforcement.",
+ "participation_md": "- **Signature.** The Declaration is dated 18 October 1907. Under the Final Act it could be signed at The Hague until 30 June 1908 ([Scott 1915](https://archive.org/details/hagueconventions00inteuoft), p. 27). The Proceedings table of signatures to 10 January 1908 marks 21 of the eventual signatories (and Chile, which the depositary does not list); Austria-Hungary, China, Ecuador, Great Britain, Switzerland and Turkey are not marked in the January table, and their exact signature dates were not established ([Proceedings, 1907, vol. I](https://archive.org/details/proceedingsofhag01inteuoft), pp. 697-699). The depositary records all 27 signatures under 18 October 1907.\n- **Ratification and entry into force.** Ratifications were deposited at The Hague. The Declaration entered into force on 27 November 1909 for the six states that had ratified by then, and later for each subsequent state on the date listed ([Trb. 1966, 291](https://zoek.officielebekendmakingen.nl/trb-1966-291.pdf)).\n- **Participants.** 27 signatories, of which 15 ratified; 4 accessions (Nicaragua 1909, Liberia 1914, Finland 1922, Ethiopia 1935); 3 succession entries (India and Pakistan, effective 1947; Fiji, effective 1970). The depositary lists 22 current entries ([Netherlands treaty database](https://treatydatabase.overheid.nl/en/Treaty/Details/003329_p.html)); the [ICRC](https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-xiv-1907/state-parties) lists 20 parties, without India and Pakistan, and gives Finland 30 December 1918. Twelve signatories, including Austria-Hungary and the Ottoman Empire, never ratified. Lists checked 12 October 2026.\n- **Duration.** Until the close of the Third Peace Conference (operative para. 1), which never met. The depositary records no termination.\n- **Withdrawal.** Denunciation on one year's written notice to the Netherlands Government (operative paras. 8 and 9). The depositary records none.\n- **Amendment and review.** No amendment procedure and no review conferences.\n- **Depositary.** The Government of the Netherlands.",
+ "history_md": "### Origins\nThe 1899 Declaration (IV,1) expired on 4 September 1905. Russia's programme for the Second Peace Conference noted that one of the 1899 Declarations had expired and asked whether it should be revived ([Proceedings, 1907, vol. I](https://archive.org/details/proceedingsofhag01inteuoft), front matter).\n\n### Negotiation\nIn the first subcommission of the Second Commission, Belgium moved renewal in the 1899 terms, for five years. On 7 August 1907 Mr Tcharykow (Russia) proposed, as a subsidiary amendment, a permanent ban on dropping projectiles from balloons on undefended places, saying aerial attack would \"scarcely be more formidable or more effective than it is by modern artillery\". Louis Renault (France) said Articles 25 and 27 of the 1899 Regulations already applied: \"The method of discharging the projectiles makes little difference.\" Austria-Hungary, Great Britain, Belgium, Turkey, Greece, Portugal and China spoke for renewal. General de Robilant (Italy) argued for permanent regulation, expecting the Powers most advanced in balloons not to give them up. The subcommission adopted the Belgian text, with Germany and Romania conditional on unanimity and six Powers against ([vol. III](https://archive.org/details/proceedingsofhag03inteuoft), pp. 145-153). On 14 August the Second Commission adopted the French proposal to add \"by any means whatever\" to Article 25 (pp. 14-15). On 17 August the plenary adopted a British amendment setting the term at the close of the Third Peace Conference and passed the renewal 29 to 8, with Germany, France and Russia against and Japan abstaining; Mr Tsudzuki said Japan saw no advantage in binding itself to some Powers while having to keep developing the method against others (vol. I, pp. 85-86). Renault later told the Conference that \"we are really making a new Declaration\" (p. 577).\n\n### Ratification\nSix states deposited ratifications on 27 November 1909, including Great Britain and the United States ([Trb. 1966, 291](https://zoek.officielebekendmakingen.nl/trb-1966-291.pdf); [Bevans, vol. 1, p. 739](https://tile.loc.gov/storage-services/service/ll/lltreaties/lltreaties-ustbv001/lltreaties-ustbv001.pdf)). The ICRC notes that of the great Powers only those two ratified ([ICRC](https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-xiv-1907)).\n\n### Later practice\nThe rule did not apply in the wars that first saw bombing from aircraft. NPR reports that an Italian pilot dropped grenades on a Turkish camp near Tripoli on 1 November 1911 ([NPR](https://www.npr.org/sections/thetwo-way/2011/03/21/134735395/100-years-ago-the-first-aerial-bomb-fell-over-libya)); Italy had not signed and the Ottoman Empire had not ratified. Spaight wrote in 1914 that the Declaration's \"practical effect\" was \"nil\" ([Spaight](https://archive.org/details/aircraftinwar00spai), p. 30). Garner (1920) dates the first notable raid of the First World War to a Zeppelin attack on Antwerp on 25 August 1914 and states that the Declaration \"certainly\" did not bind Germany ([Garner, vol. I](https://archive.org/details/internationallaw01garnuoft), pp. 459 and 466). The 1940 United States field manual called it \"of comparatively slight value\" ([FM 27-10](https://archive.org/details/Fm27-10), para. 27). A 1943 Judge Advocate General's School text reports that a War Department circular of 7 May 1942 stated that the Declaration \"is not binding and will not be observed by the United States\" ([JAG School](https://patcosta.com/wp-content/uploads/2024/07/Judge-Advocate-Generals-School-No-7-Rules-for-Land-Warfare-Sept-1943.pdf)); the depositary records no denunciation.\n\n### Compliance\nNo allegation that a party violated the Declaration, and no formal finding, was identified in the sources reviewed.",
+ "sources_md": "- [Netherlands Ministry of Foreign Affairs, Treaty Database, no. 003329 (depositary record)](https://treatydatabase.overheid.nl/en/Treaty/Details/003329)\n- [Netherlands Treaty Database, parties table for no. 003329](https://treatydatabase.overheid.nl/en/Treaty/Details/003329_p.html)\n- [Tractatenblad van het Koninkrijk der Nederlanden 1966, no. 291](https://zoek.officielebekendmakingen.nl/trb-1966-291.pdf)\n- [Tractatenblad van het Koninkrijk der Nederlanden 1981, no. 108](https://zoek.officielebekendmakingen.nl/trb-1981-108.pdf)\n- [ICRC IHL Databases, Hague Declaration (XIV), 1907 (treaty page and introduction)](https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-xiv-1907)\n- [ICRC IHL Databases, English text](https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-xiv-1907/declaration)\n- [ICRC IHL Databases, French text (authentic language)](https://ihl-databases.icrc.org/fr/ihl-treaties/hague-decl-xiv-1907/declaration)\n- [ICRC IHL Databases, states parties](https://ihl-databases.icrc.org/en/ihl-treaties/hague-decl-xiv-1907/state-parties)\n- [James Brown Scott (ed.), The Proceedings of the Hague Peace Conferences: The Conference of 1907, vol. I, Plenary Meetings (1920), Internet Archive](https://archive.org/details/proceedingsofhag01inteuoft)\n- [James Brown Scott (ed.), The Proceedings of the Hague Peace Conferences: The Conference of 1907, vol. III, Meetings of the Second, Third and Fourth Commissions (1921), Internet Archive](https://archive.org/details/proceedingsofhag03inteuoft)\n- [James Brown Scott (ed.), The Hague Conventions and Declarations of 1899 and 1907 (1915), Internet Archive](https://archive.org/details/hagueconventions00inteuoft)\n- [James Brown Scott (ed.), Les Conventions et Déclarations de La Haye de 1899 et 1907 (1918), Internet Archive](https://archive.org/details/lesconventionset00laha)\n- [Charles I. Bevans, Treaties and Other International Agreements of the United States of America, 1776-1949, vol. 1 (1968), pp. 739-741](https://tile.loc.gov/storage-services/service/ll/lltreaties/lltreaties-ustbv001/lltreaties-ustbv001.pdf)\n- [James W. Garner, International Law and the World War, vol. I (1920), Internet Archive](https://archive.org/details/internationallaw01garnuoft)\n- [J. M. Spaight, Aircraft in War (1914), Internet Archive](https://archive.org/details/aircraftinwar00spai)\n- [United States War Department, Basic Field Manual FM 27-10, Rules of Land Warfare (1940), Internet Archive](https://archive.org/details/Fm27-10)\n- [The Judge Advocate General's School, Text No. 7, Law of Land Warfare (1943)](https://patcosta.com/wp-content/uploads/2024/07/Judge-Advocate-Generals-School-No-7-Rules-for-Land-Warfare-Sept-1943.pdf)\n- [Eyder Peralta, \"100 Years Ago, World's First Aerial Bomb Dropped Over Libya\", NPR (21 March 2011)](https://www.npr.org/sections/thetwo-way/2011/03/21/134735395/100-years-ago-the-first-aerial-bomb-fell-over-libya)\n- [Ted Richard, \"Modern Attack Balloons and the 1907 Hague Balloons Declaration\", Articles of War, Lieber Institute West Point (29 April 2026)](https://lieber.westpoint.edu/modern-attack-balloons-1907-hague-balloons-declaration/)",
+ "coding_notes": [
+  {
+   "field": "instrument_form",
+   "note": "Coded Declaration, the parties' own title. The text is an engagement subject to ratification and denunciation, deposited with the Netherlands Government."
+  },
+  {
+   "field": "legal_character",
+   "note": "Legally binding, from the text (an engagement \"binding\" on the Contracting Powers, operative para. 2, subject to ratification and denunciation, operative paras. 4 to 9) and its publication in the Netherlands and United States treaty series."
+  },
+  {
+   "field": "date_adopted",
+   "note": "18 October 1907, the date of the Final Act, which lists the Declaration as a separate act dated that day, and the date the ICRC gives for adoption. The plenary vote of 17 August 1907 is recorded as an event."
+  },
+  {
+   "field": "opened_for_signature",
+   "note": "Left blank. The acts bear the date 18 October 1907 and under the Final Act could be signed until 30 June 1908 (Scott 1915, p. 27), but those dates do not establish the day signature opened: the President said on 17 October that the Conventions would be signed the day after the Final Act, and the Chinese delegate on 18 October referred to the acts submitted for signature the next day (Proceedings, 1907, vol. I, pp. 578 and 580). The conventional date of the instrument is kept in Date Adopted and kept distinct from signature dates."
+  },
+  {
+   "field": "entry_into_force",
+   "note": "27 November 1909 from the Netherlands treaty database, the ICRC, Trb. 1966, 291 and Bevans; the text has no entry-into-force clause. Later ratifiers and acceding states became bound on the dates listed."
+  },
+  {
+   "field": "instrument_status",
+   "note": "In force, reporting the depositary: the Netherlands treaty database gives status \"Inwerkinggetreden\" (entered into force) with no termination date, and the ICRC marks the Declaration as in force and states that, the Third Peace Conference \"never having met, the Declaration of 1907 is still formally in force today\". No status was computed here. FM 27-10 (1940) and a 1942 War Department circular, reported in a 1943 JAG School text, treated the Declaration as of slight value or not to be observed by the United States; the depositary records no denunciation."
+  },
+  {
+   "field": "duration_type",
+   "note": "Fixed term: operative para. 1 limits the prohibition to \"a period extending to the close of the Third Peace Conference\". The term is defined by an event rather than a number of years, so duration_years is left blank; that event never occurred. Coded from the instrument's own text. The conference's failure to meet is not read as expiry; the depositary records no termination."
+  },
+  {
+   "field": "number_of_parties",
+   "note": "22, checked 12 October 2026 against the depositary database (XML record 003329, last modified 23 June 2022): every entry with a ratification, accession or succession and no termination. The 22 entries, reconciled one to one with the Participation rows marked State Party: Belgium, Bolivia, Brazil, China, El Salvador, Ethiopia, Fiji, Finland, Haiti, India, Liberia, Luxembourg, Netherlands, Nicaragua, Norway, Pakistan, Panama, Portugal, Siam (depositary: Thailand), Switzerland, United Kingdom, United States. They comprise 15 ratifying signatories, 4 accessions and 3 successions. The ICRC lists 20 (its current data hold 28 signature entries and 20 ratification or accession entries), the depositary's 22 without India and Pakistan. The count reports the depositary's current listing; for China, Siam and the United Kingdom it does not code continuity with the Power that signed."
+  },
+  {
+   "field": "number_of_signatories",
+   "note": "27, the depositary's signature entries: the 15 ratifying signatories plus Argentina, Austria-Hungary, Bulgaria, Colombia, Cuba, the Dominican Republic, Ecuador, Greece, Persia, Peru, Turkey and Uruguay, which signed without ratifying. Matches Scott (1915), pp. 223-224, and the signature blocks in Bevans. The ICRC shows 28 signature entries because it lists Austria and Hungary separately. The Proceedings table to 10 January 1908 also marks Chile (p. 699), which no other source lists; this is recorded as an unresolved source discrepancy, and Chile is not counted."
+  },
+  {
+   "field": "weapon_families",
+   "note": "Air forces, because the rule restricts a method of aerial delivery (balloons and other new methods of a similar nature). It is defined by the launch platform rather than by the projectile."
+  },
+  {
+   "field": "operating_environment",
+   "note": "Air: the prohibited act is discharging projectiles and explosives from balloons or similar new methods (operative para. 1). Coded from the text."
+  },
+  {
+   "field": "institutional_oversight",
+   "note": "Depositary only: the Netherlands Government receives ratifications, adhesions and denunciations and keeps the original (operative paras. 5, 7 and 8; closing formula). Coded from the instrument's own text."
+  },
+  {
+   "field": "information_provisions",
+   "note": "None. The only communications are depositary formalities (proces-verbal of the deposit of ratifications, adhesion and denunciation notices). Coded from the instrument's own text."
+  },
+  {
+   "field": "reporting_requirements",
+   "note": "Not specified in text: no declarations, data or reports are required. Coded from the instrument's own text."
+  },
+  {
+   "field": "enforcement",
+   "note": "Not specified in text. The general participation clause (operative paras. 2 and 3) limits when the rule applies but provides no consequence for non-compliance. Coded from the instrument's own text."
+  },
+  {
+   "field": "dispute_resolution",
+   "note": "Not specified in text. Coded from the instrument's own text."
+  },
+  {
+   "field": "national_authority",
+   "note": "Not specified in text. Coded from the instrument's own text."
+  },
+  {
+   "field": "technical_cooperation",
+   "note": "Not specified in text. Coded from the instrument's own text."
+  },
+  {
+   "field": "third_party_roles",
+   "note": "Not specified in text. The text assigns no function to a non-party. Operative para. 7 allows non-signatory Powers to adhere; that is eligibility to become a party, not a third-party role. Coded from the instrument's own text."
+  },
+  {
+   "field": "reservations",
+   "note": "Not Specified: the text does not address reservations; Scott (1915), p. 224 records none, and the only depositary declarations concern the territorial application of the Declaration within the Kingdom of the Netherlands. Coded from the instrument's own text."
+  },
+  {
+   "field": "withdrawal_type",
+   "note": "Notice: denunciation takes effect one year after written notification to the Netherlands Government (operative para. 8). Coded from the instrument's own text."
+  },
+  {
+   "field": "amendment_procedure",
+   "note": "None stated. Coded from the instrument's own text."
+  },
+  {
+   "field": "source_quality",
+   "note": "Reproduction: the wording used is the ICRC's reproduction of the authentic French text, checked against Scott (1918). The depositary record (Netherlands treaty database; Trb. 1966, 291 and 1981, 108) was consulted for status and participation; it refers to Staatsblad 1910, no. 73 for the text, which was not retrieved."
+  },
+  {
+   "field": "related",
+   "note": "Coded \"replaces\" for the 1899 Declaration (AC-84), on this later instrument. \"Amends\" would mean changing an instrument still in force; the 1899 Declaration had expired on 4 September 1905, the preamble calls it \"now expired\", and Renault told the Conference that \"we are really making a new Declaration\" (Proceedings, 1907, vol. I, p. 577). The 1907 text takes the place of the lapsed one with a new term and its own parties; Trb. 1966, 291 says the 1899 Declaration had lapsed and was renewed by this one, and the depositary database lists it as the parent treaty. Produced by the Second Hague Peace Conference (AC-75). Negotiated alongside the other 1907 acts with rows: Hague IV (AC-76), whose Article 25 received the words \"by any means whatever\" in the same debate, VII (AC-69), VIII (AC-74) and IX (AC-67). No relation to the St Petersburg Declaration (AC-80) is coded: the preamble cites its sentiments only."
+  },
+  {
+   "field": "participation",
+   "note": "One row per depositary entry (34). Austria-Hungary is one row linked to the historical entry Austria-Hungary, with the depositary label \"Austria/Hungary\" and the ICRC's separate Austria and Hungary signatures described in its notes; the depositary has no succession entries for Austria or Hungary here. Persia and Siam keep the names under which they signed. China, Türkiye and the United Kingdom keep the depositary's labels, with the historical actor named in each row's notes and no continuity coded. Norway signed and ratified as a separate kingdom after 1905; the union of Sweden and Norway is not relevant. Montenegro and Serbia did not sign. Accession rows carry the depositary date, which Trb. 1966, 291 marks as the date of effect. Succession rows record the depositary's date of the succession act and the date it takes effect. No Date Signed is coded for any signatory: the depositary dates every signature 18 October 1907, the date of the acts, while the Proceedings indicate that the Conventions and Declarations were to be signed the day after the Final Act; signatures not marked in the table of signatures to 10 January 1908 are also undated."
+  },
+  {
+   "field": "provisions",
+   "note": "One row: a single prohibition binding all parties identically. The final clauses are procedural and appear in prose."
+  }
+ ],
+ "unverified": [
+  {
+   "field": "participation (date_signed for 21 Powers)",
+   "reason": "The depositary gives 18 October 1907 for all signatures; the closing-meeting record suggests the acts were submitted for signature on 19 October, and the January 1908 table shows only that these Powers had signed by 10 January 1908. Exact days not established."
+  },
+  {
+   "field": "participation (date_signed for six later signatories)",
+   "reason": "Austria-Hungary, China, Ecuador, Great Britain, Switzerland and Turkey signed between 10 January and 30 June 1908; actual dates not found."
+  },
+  {
+   "field": "participation (Chile)",
+   "reason": "Marked as a signatory in the Proceedings table to 10 January 1908 but absent from the depositary, the ICRC, Scott (1915) and Bevans; not coded."
+  },
+  {
+   "field": "participation (Finland)",
+   "reason": "Depositary accession 9 June 1922; ICRC 30 December 1918. Not resolved."
+  },
+  {
+   "field": "participation (India, Pakistan, Fiji succession basis)",
+   "reason": "The basis of the depositary's succession entries was not established; India and Pakistan are not listed by the ICRC."
+  },
+  {
+   "field": "participation (modern-name listings)",
+   "reason": "Continuity between China, Thailand, Iran, Türkiye and the United Kingdom and the 1907 signatories is not documented in the sources reviewed; the listings are reported as given."
+  },
+  {
+   "field": "events (1942 War Department circular)",
+   "reason": "Reported from the 1943 JAG School text; the circular itself was not retrieved."
+  },
+  {
+   "field": "events (1911 Libya)",
+   "reason": "Reported from NPR quoting DeGroot (2005); no primary or scholarly source on the incident was opened."
+  }
+ ]
+}

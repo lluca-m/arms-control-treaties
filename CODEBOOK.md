@@ -303,6 +303,12 @@ Never exported: the Treaty Editorial Log database and the "Editorial Log" relati
 - Publication: Notion is the editorial workspace; the public site is built from a website export with an explicit field list. Public provenance may include Source Quality, Last Verified and dataset crosswalks (Vaynman code and category); the Editorial Log, its relation and the In Paper 2 Appendix flag stay internal. Working pages are not published directly through Notion.
 - Content Complete (internal checkbox) is ticked only after the record is researched, checked, written, reviewed and has its participation rows; the website export publishes only ticked records.
 
+## Rules added after the Hague declarations review (12 Oct 2026)
+- Duration defined by an event (e.g. "to the close of the Third Peace Conference"): Duration Type "Fixed term", Duration (years) blank, and a coding note quoting the endpoint. An event that never occurs is not read as expiry; status follows the depositary.
+- The date an instrument bears (Date Adopted) is kept distinct from signature dates. Opened for Signature and each Date Signed are coded only when a source establishes the actual day; a depositary's practice of dating every signature to the act is reported in notes, not coded.
+- The participation row belongs to the entity that performed the act (e.g. Kingdom of Serbia, linked to a historical Countries entry); the depositary's own label is preserved in the notes. Modern successors get separate rows with the act date (Date of Succession) and effective date (Entry into Force) kept apart. Current-party counts are reconciled one to one against an explicit list of the depositary's current entries.
+- A reproduction whose defect changes the scope of a rule gets a checked reading copy and a flagged file name; minor variants get a public source note.
+
 ## Rules added after the St Petersburg review (11 Oct 2026)
 - Date Adopted is formal adoption of the text: a conference's adoption act or, where none exists, the signature that concluded the instrument. Preparatory approval of wording by a commission or committee is an event, not adoption.
 - The key-facts signature label follows the recorded events: "Opened for signature" only when an Opening for signature event exists; otherwise "Signed". Never infer the label from adoption and signature sharing a date.
