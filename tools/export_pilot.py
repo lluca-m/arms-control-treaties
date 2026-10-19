@@ -56,7 +56,14 @@ for name,pid in R:
         v={k:writer3.val(r['properties'][k]) for k in r['properties']}
         when=v['Date'] or v['Date as Reported'] or 'Date unknown'
         L.append('| '+' | '.join(cell(x) for x in [when,v['Event'],v['Event Type'],v['Date Precision'],v['Actors'],v['Attribution'],v['Description'],v['Source URL']])+' |')
-    part=requests.post('https://api.notion.com/v1/databases/2942b9a41a308090b37ef980db47fad3/query',headers=__import__('hub_blocks').H,json={'filter':{'property':'Disarmament Treaties Database 1','relation':{'contains':pid}}}).json()['results']
+    part=[];cur=None
+    while True:   # paginate: instruments can have more than 100 participation rows
+        q={'filter':{'property':'Disarmament Treaties Database 1','relation':{'contains':pid}},'page_size':100}
+        if cur: q['start_cursor']=cur
+        res=requests.post('https://api.notion.com/v1/databases/2942b9a41a308090b37ef980db47fad3/query',headers=__import__('hub_blocks').H,json=q).json()
+        part+=res['results']
+        if not res.get('has_more'): break
+        cur=res['next_cursor']
     if part:
         L+=['','# Appendix D: participation rows','','| Row | Country link | Type | Method | Date signed | Date of accession | Date of succession | Entry into force | Current status | Data entry | Notes |','|---|---|---|---|---|---|---|---|---|---|---|']
         for x in part:
