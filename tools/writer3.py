@@ -255,7 +255,14 @@ def prov_props3(x,pid):
 PDB='2942b9a41a308090b37ef980db47fad3'; CDB='d538b6bc3aed4da3a13ba8a2066f2184'
 def write_participation(pid,rows,short,country_ids):
     """One Participation row per state; upserts on Title so reruns do not duplicate."""
-    ex={val(r['properties']['Title']):r['id'] for r in requests.post(f'{API}/databases/{PDB}/query',headers=H,json={'filter':{'property':'Disarmament Treaties Database 1','relation':{'contains':pid}},'page_size':100}).json()['results']}
+    ex={}; cur=None
+    while True:   # paginate: instruments can have more than 100 participation rows
+        q={'filter':{'property':'Disarmament Treaties Database 1','relation':{'contains':pid}},'page_size':100}
+        if cur: q['start_cursor']=cur
+        res=requests.post(f'{API}/databases/{PDB}/query',headers=H,json=q).json()
+        ex.update({val(r['properties']['Title']):r['id'] for r in res['results']})
+        if not res.get('has_more'): break
+        cur=res['next_cursor']
     out=[]
     for p in rows:
         title=f"{p.get('iso3') or p['state']} - {short}"
